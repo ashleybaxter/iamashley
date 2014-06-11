@@ -1,0 +1,4 @@
+name: Ashley Baxter
+markdown: redcarpet
+pygments: true
+permalink: /blog/:title
