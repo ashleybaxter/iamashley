@@ -1,0 +1,162 @@
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1.5;
+	font-size: 16px;
+	font-family: Georgia, serif;
+	color: #444;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+	blockquote:before, blockquote:after, q:before, q:after {
+		content: '';
+		content: none;
+	}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.container {
+	max-width: 760px;
+	margin: 0 auto;
+	padding: 0 30px;
+	padding: 0 1.5rem;
+	margin-top: 50px;
+}
+
+a:link, a:visited {
+	color: #fc3300;
+}
+
+a:hover {
+	color: #000000;
+}
+
+p {
+	padding: 0.7em 0;
+}
+
+h1, h2, h3 {
+	font-family: 'Patua One', cursive; font-style: normal; font-weight: 400;
+}
+
+h1 {
+	font-size: 30px;
+	padding: 25px 0;
+}
+
+h2 {
+	font-size: 25px;
+}
+
+h3 {
+	font-size: 22px;
+}
+
+.intro {
+	font-size: 18px;
+}
+	.intro p {
+		padding: 0 0 75px 0;
+	}
+
+.blog_cta {
+	text-align: right;
+	padding: 45px 0 15px 0;
+}
+
+.main_cta {
+	text-align: left;
+	padding: 25px 0 15px 0;
+}
+
+.posts {
+	font-size: 22px;
+	padding-bottom: 75px;
+}
+	.posts li {
+		margin: 20px 0;
+		line-height: 1.3;
+	}
+	.posts a:link {
+		color: #444;
+	}
+	.posts a:visited {
+		color: #cc5200;
+	}
+	.posts a:hover {
+		color: #fc3300;
+	}
+
+.post {
+	font-size: 18px;
+	padding-bottom: 75px;
+	padding-top: 15px;
+}
+	.post-title {
+		text-align: center;
+		padding: 0 0 25px 0;
+	}
+	.title {
+		text-align: center;
+	}
+	.meta {
+		padding: 0;
+		text-align: center;
+	}
+
+@media only screen and (max-width: 767px) {
+	h1, .blog_cta  {
+		text-align: center;
+	}
+	
+	.blog_cta {
+		padding-top: 0;
+		padding-bottom: 25px;
+	}
+	
+	.avatar {
+		display: block;
+		margin: 0 auto;
+		padding-bottom: 15px;
+	}
+}
