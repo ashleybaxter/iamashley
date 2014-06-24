@@ -13,7 +13,7 @@ I've been asking myself the wrong question, something I've only realised through
 
 <h3>Long-Term Success vs Short-Term Gains</h3>
 
-If I intend on doing more public speaking (which I do. I think. I don't know, <a href="http://0.0.0.0:4000/blog/i-launched-my-business-on-stage-to-200-people-but-that-was-the-easy-part/">I still hate it</a>) and writing, promoting my personal agenda will only reap short-term gains—a temporary increase in traffic, momentary brand awareness. Providing genuine worth will, I believe, result in long-term success. This approach of providing value will lead to producing better, more relevant content, and if the audience get value from it, so will I. Win-win.
+If I intend on doing more public speaking (which I do. I think. I don't know, <a href="http://iamashley.co.uk/blog/i-launched-my-business-on-stage-to-200-people-but-that-was-the-easy-part/">I still hate it</a>) and writing, promoting my personal agenda will only reap short-term gains—a temporary increase in traffic, momentary brand awareness. Providing genuine worth will, I believe, result in long-term success. This approach of providing value will lead to producing better, more relevant content, and if the audience get value from it, so will I. Win-win.
 
 Don't get me wrong, asking if an opportunity will benefit you isn't a redundant question. After all, time is valuable and you have to choose where you spend that time (and on what) wisely. But I do believe that approaching each opportunity with selfish intent isn't setting anyone up for long-term success, just short-term gains. How will your work improve if you stop considering the solo benefits, and begin to question how it will provide value to <em>others</em>?
 
