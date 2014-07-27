@@ -12,7 +12,7 @@ Last week, as <a href="http://insurancebyjack.co.uk/news/2014/07/24/practical-ta
 
 After my talk at Practical Takeaways was over, I flew home to Glasgow and breathed a sigh of relief. I always do after a talk, enjoying the temporary high of no longer having to contend with a temperamental nervous system… until the <em>next</em> scary opportunity, which—this time—just happened to be as I arrived home.
 
-I received an email from a TV researcher. "Can you join us on live TV tonight? It will go out to 2 million people". <a href="http://twitter.com/hellorogue">A friend</a> who works in TV had recommended me. My stomach flipped violently. My heart was sitting uncomfortably in my mouth. This meant I had to say yes, as much as my body was screaming <em>oh, hell no</em>.
+I received an email from a TV researcher for a daily magazine programme. "Can you join us on live TV tonight? It will go out to 2 million people". <a href="http://twitter.com/hellorogue">A friend</a> who works in TV had recommended me. My stomach flipped violently. My heart was sitting uncomfortably in my mouth. This meant I had to say yes, as much as my body was screaming <em>oh, hell no</em>.
 
 Similar to the public speaking episode, I disliked every second of it as it was happening. The final countdown until we went live, in particular, caused me to think I was going to empty the contents of my stomach on the floor. <em>"This is it. No going back".</em> Whatever nerves I've experienced on stage at a conference were multiplied with this experience. It caused me so much discomfort, in fact, I've unmercifully agreed on another two dates, one of which was Friday just passed. The fear was still there, but had noticeably eased in comparison to my first experience.
 
