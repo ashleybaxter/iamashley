@@ -14,7 +14,9 @@ After my talk at Practical Takeaways was over, I flew home to Glasgow and breath
 
 I received an email from a TV researcher for a daily magazine programme. "Can you join us on live TV tonight? It will go out to 2 million people". <a href="http://twitter.com/hellorogue">A friend</a> who works in TV had recommended me. My stomach flipped violently. My heart was sitting uncomfortably in my mouth. This meant I had to say yes, as much as my body was screaming <em>oh, hell no</em>.
 
-Similar to the public speaking episode, I disliked every second of it as it was happening. The final countdown until we went live, in particular, caused me to think I was going to empty the contents of my stomach on the floor. <em>"This is it. No going back".</em> Whatever nerves I've experienced on stage at a conference were multiplied with this experience. It caused me so much discomfort, in fact, I've unmercifully agreed on another two dates, one of which was Friday just passed. The fear was still there, but had noticeably eased in comparison to my first experience.
+Similar to my public speaking episodes, I disliked every second of it as it was happening. The final countdown until we went live, in particular, caused me to think I was going to empty the contents of my stomach onto the floor. That would have been fun on live TV. <em>"This is it. No going back"</em>, I thought to myself as the countdown closed in on 3-2-1….
+
+Whatever nerves I've experienced on stage at a conference were multiplied with this experience. It caused me so much discomfort, in fact, I've unmercifully agreed on another two appearances, one of which was Friday just passed. The fear was still there, but not as cripplingly as it was in comparison to my first experience.
 
 Why do things that terrify you? Whether it be flying, public speaking or appearing on live TV, I think good opportunities can come from edging out of your comfort zone (opportunity, growth, confidence). And the more I do things that scare me, the more accustomed to dealing with the symptoms of fear I'll become. I like the idea of that.
 
