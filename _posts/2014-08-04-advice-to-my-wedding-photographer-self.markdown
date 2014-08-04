@@ -25,4 +25,4 @@ Try and tell a story with each picture.
 
 You've seen countless cakes, listened to a wealth of the same gags during speeches, photographed every style of wedding dress. But this is their first (and only).
 
-Don't wear a skirt. On windy days it will blow up and everyone can see your pants. You're not Marilyn Monroe.
+Wedding photographer attire is difficult, but don't wear a skirt. On windy days it will blow up and everyone can see your pants. You're not Marilyn Monroe.
