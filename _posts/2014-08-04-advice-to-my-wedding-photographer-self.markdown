@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Advice To My Photographer Self"
+title:  "Advice To My Wedding Photographer Self"
 date:   2014-08-04 13:37:00
 categories: personal
 ---
