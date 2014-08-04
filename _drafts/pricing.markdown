@@ -1,0 +1,1 @@
+Paddy and I dedicated an entire episode of our podcast to discussing pricing. One thing was clear, I was undercharging for my photography services. How do I know? I had looked at what the competition were charging and settled on a price based on their worth. I hadn't raised my prices for over a year, deeming my skill set and experience of the same value it was the year before.
