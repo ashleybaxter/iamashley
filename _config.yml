@@ -2,5 +2,5 @@ name: Ashley Baxter
 description: Writing about what I'm learning in business
 url: http://iamashley.co.uk
 markdown: redcarpet
-pygments: true
+highlighter: true
 permalink: /blog/:title
