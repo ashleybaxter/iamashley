@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Happy Quarter Birthday To My Business, Jack"
+title:  "Happy Quarter Birthday To My Business"
 date:   2014-08-28 13:37:00
 categories: business
 ---
