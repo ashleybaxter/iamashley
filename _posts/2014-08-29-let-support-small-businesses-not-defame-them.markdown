@@ -15,7 +15,7 @@ Most of the people I see airing their (at times unnecessarily harsh) disappointm
 
 Us small businesses should be _supporting_ one another, not defaming one another.
 
-Real people are behind these companies. Just like you and me, they've dreamt up an idea in the shower or while out a jog. Just like you and me, they have goals and aspirations. Just like you and me, they're working very hard towards building something they're proud of. But, just like you and me, they're human and prone to making mistakes.
+Real people are behind these companies. Just like you and me, they've dreamt up an idea in the shower or while out for a jog. Just like you and me, they have goals and aspirations. Just like you and me, they're working very hard towards building something they're proud of. But, just like you and me, they're human and prone to making mistakes.
 
 Sometimes websites break, typos happen, or apps experience downtime.
 
