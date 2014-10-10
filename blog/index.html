@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-description: Ashley Baxter's blog about business and life as a photographer and insurer hybrid. 
+description: Ashley Baxter's blog about business and life as a photographer and insurer hybrid.
 ---
 
 <div class="wrap">
@@ -9,12 +9,10 @@ description: Ashley Baxter's blog about business and life as a photographer and 
 		<div class="grid__col grid__col--12-of-12">
 			<p class="main_cta">&#8678; <a href="/" title="Main">Return to main</a></p>
 		</div>
-		<div class="grid__col grid__col--12-of-12">
-  		<ul class="posts">
+  		<ul class="grid__col grid__col--12-of-12 posts">
     		{% for post in site.posts %}
       	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
     		{% endfor %}
   		</ul>
-		</div>
 	</div>
 </div>
