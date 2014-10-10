@@ -6,9 +6,9 @@ description: Ashley Baxter's blog about business and life as a photographer and 
 
 <div class="wrap">
 	<div class="grid">
-		<div class="grid__col grid__col--12-of-12">
+		<nav role="navigation" class="grid__col grid__col--12-of-12">
 			<p class="main_cta">&#8678; <a href="/" title="Main">Return to main</a></p>
-		</div>
+		</nav>
   		<ul class="grid__col grid__col--12-of-12 posts">
     		{% for post in site.posts %}
       	<li><a href="{{ post.url }}">{{ post.title }}</a></li>
