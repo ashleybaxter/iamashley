@@ -147,6 +147,11 @@ h3 {
 		margin: 10px 0;
 	}
 
+.author_blurb {
+	border: 1px solid #2f2f2f;
+
+}
+
 footer {
 	padding: 20px 0 50px 0;
 }
@@ -252,6 +257,7 @@ footer {
 	.ck_embed_form_newsletter input[type="text"], .ck_embed_form_newsletter input[type="email"] {
 	  font-size: 14px;
 	  padding: 10px 8px;
+		margin-bottom: 10px;
 	  width: 220px;
 	  border: 1px solid #dfdfdf; /* stroke */
 	  -moz-background-clip: padding;
