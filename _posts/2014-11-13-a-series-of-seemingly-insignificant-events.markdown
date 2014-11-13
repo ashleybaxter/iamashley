@@ -37,6 +37,6 @@ Another few months pass before I meet Mick again, this time in Glasgow where we 
 
 I seek a team of talented designers to begin redesigning the quoting and buying process online.
 
-Although it's difficult to foresee how this will all pan out, this _could_ be a step towards accomplishing my goal—a goal I have been striving towards for a long time, all because of events that bare no connection to my goal; a conference I attended, people I've met, experiences I've said 'yes' to.
+Although it's difficult to foresee how this will all pan out, this _could_ be a step towards accomplishing my goal—a goal I have been striving towards for a long time, all because of events that bear no connection to my goal; a conference I attended, people I've met, experiences I've said 'yes' to.
 
 I love the unpredictability of it all. I guess I just wanted to emphasise that you should say 'yes' to things. Put yourself out there. Just _go_ with it. You put a lot in, you get a lot out. Aye.
