@@ -5,6 +5,8 @@ date:   2015-01-19 13:37:00
 categories: business
 ---
 
+_[UPDATE] Due to me being a n00b with the software I'm using to feed the drip email campaign, the actual figure is 260 subscribers. Not 108. Nice!_
+
 Everybody encourages you to build a mailing list. I haven't. Only because I'm unsure what value I can provide. What's my 'thing'? What can _I_ bring to the table?
 
 In keeping with my budgeted marketing experiments for Insurance by Jack, however, I created an email course. I wrote about <a href="http://insurancebyjack.co.uk/survive-your-first-year-as-a-freelancer/">surviving your first year as a freelancer</a>, calling in favours from freelance friends for quotes, as well as including my own experience as a self-employed photographer.
@@ -38,7 +40,7 @@ Here's how it fared:
 * __Sidebar:__ 66 hits
 * __Aggregator sites:__ 67 hits
 
-The rest were from Twitter, Facebook etc, and the whole day brought an impressive 1500 people to the landing page, with 108 of them subscribing and 7 quotes generated as a result.
+The rest were from Twitter, Facebook etc, and the whole day brought an impressive 1500 people to the landing page, with <s>108</s> 260 of them subscribing and 7 quotes generated as a result.
 
 Moral of the story? As uneasy as self promotion makes me feel, it's imperative to get results. Just bloody do it and do it with conviction. Nike said that, or something similar.
 
