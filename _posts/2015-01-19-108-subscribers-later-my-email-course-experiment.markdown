@@ -5,11 +5,13 @@ date:   2015-01-19 13:37:00
 categories: business
 ---
 
-_[UPDATE] Due to me being a n00b with the software I'm using to feed the drip email campaign, the actual figure is 260 subscribers. Not 108. Nice!_
+_[UPDATE] Due to me being a n00b with the software I'm using for the drip campaign, the actual figure is 260 subscribers. Not 108. Nice!_
 
 Everybody encourages you to build a mailing list. I haven't. Only because I'm unsure what value I can provide. What's my 'thing'? What can _I_ bring to the table?
 
 In keeping with my budgeted marketing experiments for Insurance by Jack, however, I created an email course. I wrote about <a href="http://insurancebyjack.co.uk/survive-your-first-year-as-a-freelancer/">surviving your first year as a freelancer</a>, calling in favours from freelance friends for quotes, as well as including my own experience as a self-employed photographer.
+
+<!--more-->
 
 Expectations weren't high, but I was curious as to what results this would produce.
 
@@ -17,7 +19,7 @@ I hit publish and immediately DM'd my friend, <a href="http://rookieoven.com/">M
 
 Insurance by Jack, on the other hand, doesn't boast the biggest Twitter audience (although to all 150+ of you who do follow, thank you), and I had no idea how to use that modest number to leverage this to its full potential.
 
-Michael suggested I add it to Reddit and Hacker News. The thing is, I always see using these channels solely for the purpose of self promotion as human spam. <a href="http://www.copyblogger.com/shameless-self-promotion/">Self promotion is hard</a>, guys.
+Michael suggested I add it to Reddit and Hacker News. The thing is, using these channels solely for the purpose of self promotion as human spam. <a href="http://www.copyblogger.com/shameless-self-promotion/">Self promotion is hard</a>, guys.
 
 Hypocritical, perhaps. After all, I have no beef in using my personal Twitter to pimp my work, but using these channels solely to benefit myself makes me feel uneasy. I mean, what if the internet police catch on?
 

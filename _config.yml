@@ -1,6 +1,48 @@
-name: Ashley Baxter
-description: Writing about what I'm learning in business
-url: http://iamashley.co.uk
-markdown: redcarpet
-highlighter: true
-permalink: /blog/:title
+
+
+# Site Settings
+title: 						"Ashley Baxter"
+email: 						"hello@iamashley.co.uk"
+description: 				"I run Insurance by Jack. I also take photographs and play video games."
+baseurl: 					""
+url: 						"http://iamashley.co.uk"
+logourl: 					"/assets/img/bloglogo.jpg"		
+fa-logo: 					"fa-bookmark-o"
+paginate: 					5
+
+
+# Author Settings
+author_name: 				"Ashley Baxter"
+author_url: 				"http://iamashley.co.uk"
+author_bio: 				"I run Insurance by Jack. I also take photographs and play video games."
+author_email: 				"hello@iamashley.co.uk"
+author_image: 				"/assets/img/authorimage.jpg"
+
+
+# Social Settings
+twitter_url: 				"http://twitter.com/iamashley"
+googleplus_url: 			"https://plus.google.com/u/0/117637421334476287274/posts"
+instagram_url:  			"http://instagram.com/ashleybaxter"
+linkedin_url:  				"http://uk.linkedin.com/in/ashleybaxter"
+
+
+# Theme Settings
+theme_disqus_shortname: 	"ecko"
+theme_google_comments: 		false
+theme_analytics_id: 		"UA-28282324-1"
+theme_analytics_domain: 	"ecko.me"
+theme_reading_time: 		true
+theme_autoload_comments: 	false
+theme_always_show_nav: 		false
+
+
+# SASS Settings
+# DO NOT MODIFY
+sass:
+ sass_dir: "assets/css/"
+ style: :compressed
+
+
+# Build Settings
+markdown: 					kramdown
+permalink: 					pretty

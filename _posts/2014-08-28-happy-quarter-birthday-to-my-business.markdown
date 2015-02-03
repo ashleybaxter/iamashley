@@ -9,6 +9,8 @@ My business, <a href="http://insurancebyjack.co.uk">Insurance by Jack</a>, has s
 
 The insurance game was always going to be a slow burner for me, and that's OK. It took my Dad (who was much smarter than me) 2 years to build his insurance business to a comfortably profitable stage. I remember—as a young teenager—being pulled aside in his office where he said, "I'm finally making good money, Ashley. If you ever need a tenner to go and see your pals, just ask". That was a nice moment.
 
+<!--more-->
+
 Similar to <a href="http://iamashley.co.uk/blog/a-look-at-my-first-month-in-business-on-a-budget/">my first month in business</a>, I figured it'd be fun to assess its quarterly performance and what's worked, as well as what hasn't.
 
 I've bypassed any details about social media and direct traffic as, similar to my first report, it still accounts for the biggest source of traffic (53% and 21%, respectively).

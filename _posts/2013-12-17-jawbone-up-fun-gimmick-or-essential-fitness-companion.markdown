@@ -6,6 +6,7 @@ categories: personal
 ---
 <p>I don&#8217;t wear jewellery. It&#8217;s something I never think to spend money on, unless it can track my sleep, diet and movement. I&#8217;m referring to the <a href="http://www.amazon.co.uk/s/?_encoding=UTF8&#038;camp=1634&#038;creative=19450&#038;field-keywords=jawbone%20up&#038;linkCode=ur2&#038;sprefix=jawbone%2Caps%2C202&#038;tag=rockedelig-21&#038;url=search-alias%3Daps" title="Jawbone Up">Jawbone Up</a>, of course, which I&#8217;ve consistently worn for six months. Day. And. Night. Throughout the six months, my relationship with Up has meandered from fun gimmick and downright frustrating, to essential fitness companion.</p>
 <p><em>Know yourself. Live better. Wake up feeling refreshed.</em></p>
+<!--more-->
 <h3>Essential Fitness Companion</h3>
 <p>Japan popularised the notion of walking 10,000 steps a day, but when I reflect on particular periods of my life, I&#8217;d be surprised if I was totalling 2000. A sedentary lifestyle of working from home, coupled with an obsession for video games. Gross. Of course, I didn&#8217;t realise this at the time. Ignorance is bliss, and it wasn&#8217;t until I began wearing the Jawbone Up and tracking my movement, the realism of how little I have moved in the past became apparent.</p>
 <p>To put it into perspective, even jogging to my gym prior to carrying out an intense workout doesn&#8217;t mean I hit my daily goal. To hit my target, I also have to walk 2 miles to work.</p>

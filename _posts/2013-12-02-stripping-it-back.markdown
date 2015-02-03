@@ -5,6 +5,7 @@ date:   2013-12-03 10:10:55
 categories: business
 ---
 <p>A year ago, I built a <a href="http://landlord-insurance.herokuapp.com/" title="Quote System Prototype">prototype of a quote system</a> and demoed it to an insurer in London. Without getting into the nitty gritty, I am an appointed representative for the insurer and they provide me with a third-party quote system. The gist was &#8220;Guys, I&#8217;m unhappy with the way we&#8217;re quoting on the web. I want to implement <a href="http://landlord-insurance.herokuapp.com/" title="Quote System Protoype">this system</a> I built on <a href="http://brokersdirect.co.uk" title="Brokers Direct">my own website</a>&#8220;. Despite an initially favourable response, I was ultimately told it was too complicated. Boo.</p>
+<!--more-->
 <p>There are many things I dislike about myself; my irrational temper and stocky thighs to name a couple, but the one thing I <em>do</em> like, if I am allowed to say so, is that I can&#8217;t be told something isn&#8217;t possible. I simply think about ways to work around it, refusing to adopt a defeatist attitude.</p>
 <p>With that said, another year of using the third-party quote system passed. In my defence, I was busy with <a href="http://lodgerapp.co.uk" title="Lodger">another project</a>, but the quote system was always lodged at the back of my mind. I knew I had to look at an alternative way of quoting, even if it meant stripping the whole process back.</p>
 <p>And this is where, well, <em>this</em> comes in.</p>

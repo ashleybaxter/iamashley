@@ -5,6 +5,10 @@ date:   2014-05-31 10:10:55
 categories: business
 ---
 <p>A year ago, I answered <a href="http://www.quora.com/Ruby-on-Rails-web-framework/How-can-I-get-better-at-using-Ruby-on-Rails">a question on Quora</a> regarding Ruby on Rails and how I learned to program. It got voted up a bit, and now I sometimes receive contact from Quora users probing for a more detailed description on the topic of &#8216;how to learn to program&#8217;.</p>
+
+<!--more-->
+
+
 <p><a href="http://www.quora.com/Ruby-on-Rails-web-framework/How-can-I-get-better-at-using-Ruby-on-Rails/answer/Ashley-Baxter-2">My answer</a> covered my journey, but I think I receive the follow-up mail because people think I&#8217;ve forgotten to include the &#8216;easy&#8217; part in my answer. The shortcut—the something tangible they can apply overnight that will grant them the ability to understand and write code. I know this because that used to be me.</p>
 <p>I&#8217;ve even received a message that read, &#8220;I want a job as a programmer, but I want to wait until I land a job <em>before</em> I learn to program. How do I get a job?&#8221;.</p>
 <p>Nuts.</p>

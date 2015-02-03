@@ -9,6 +9,8 @@ I've never had a limited, nail-biting timeframe of just 2 weeks to research, wri
 
 Here is a loose guide to preparing for your talk in such a limited timeframe.
 
+<!--more-->
+
 <h3>Manage Your Time Effectively</h3>
 
 Time management has to come into play here. It sounds obvious, but I bet I'm not the only person who is a stickler for saying, "I'll start work on this tomorrow". That attitude won't cut it here.

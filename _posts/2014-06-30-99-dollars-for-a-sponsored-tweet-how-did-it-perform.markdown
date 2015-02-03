@@ -11,6 +11,8 @@ Every month I'll be attempting a different, low cost marketing experiment. This 
 
 Ahh, my second month in business. Without the advantage of launch day traffic, I turned my attention towards BuySellAds. I was already familiar with BSA, using it to sell a small ad spot on my <a href="http://girlwithacamera.co.uk">photography blog</a>. With web sites and Twitter accounts of varying size, price and in an abundance of industries, there's a lot of options for every budget. I targeted sites with a smaller following.
 
+<!--more-->
+
 I focused on designers and freelancers, buying a recurring ad spot on a freelance site—which estimated 5,000 monthly impressions—and, as unethical as it felt, I paid for a sponsored tweet from a popular design blog.
 
 Despite the recurring ad attracting over 1000 <em>impressions</em> thus far, a grand total of <strong>zero</strong> have clicked on my ad. Well, one has. Me. Just to test it was actually working.

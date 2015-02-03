@@ -8,6 +8,8 @@ It's not easy to force yourself to endure the unwelcome butterflies, sweaty palm
 
 What makes me uncomfortable? Public speaking is the biggest culprit. It used to be flying (which derives from my bigger fear of motion), but I've forced myself to fly so regularly it isn't nearly as terrifying as it once was, although a pre-flight gin is always recommended.
 
+<!--more-->
+
 The other week, as <a href="http://insurancebyjack.co.uk/news/2014/07/24/practical-takeaways.html">I gave my talk in Cardiff</a>, Wales at <a href="http://practicaltakeaways.co.uk">Practical Takeaways</a>, I was—as I always do when public speaking—thinking, "I'm not enjoying this. This will be my last talk". You see, I dislike everything about public speaking. The sleepless nights in the build up, the anxiety surrounding preparing material that will be considered of value, and the nerve wracking delivery itself.
 
 After my talk at Practical Takeaways was over, I flew home to Glasgow and breathed a sigh of relief. I always do after a talk, enjoying the temporary high of no longer having to contend with a temperamental nervous system… until the <em>next</em> scary opportunity, which—this time—just happened to be as I arrived home.

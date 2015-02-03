@@ -5,6 +5,10 @@ date:   2014-05-12 10:10:55
 categories: business
 ---
 <p>I didn&#8217;t intend to exchange <a href="http://girlwithacamera.co.uk" title="Girl With A Camera">my photography</a> services for money. <em>It just started happening.</em> From modest beginnings, where I was slipped a £20 note at a gig I thought I had shot just for fun, to a steady stream of bookings from clients big and small, all of which I have landed without marketing myself as a professional photographer. This is how it happened.</p>
+
+<!--more-->
+
+
 <h3>I consistently shared my work</h3>
 <p>I got a blog. I updated it regularly. I didn&#8217;t wait until I felt good enough or skilled enough, I just shared my photos. My blog gained momentum, visitors returned, enquiries trickled in. It&#8217;s not rocket science—to get noticed, you <em>need</em> to put yourself out there. <strong>Share your work. And consistently.</strong></p>
 <h3>I found a platform that works</h3>

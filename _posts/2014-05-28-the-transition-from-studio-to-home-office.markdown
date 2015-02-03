@@ -6,6 +6,10 @@ categories: personal
 ---
 <p>It&#8217;s almost a year to the day I made <a href="http://iamashley.co.uk/blog/the-transition-from-home-office-to-shared-studio/">the transition from home office to shared studio</a>, after a solitary and monotonous 8 years of working from home. 12 months of renting a desk in a co-working space has since passed, yet I&#8217;ve found myself back at square one—working from my home office.</p>
 <p><em>Why?</em></p>
+
+<!--more-->
+
+
 <h3>Cost</h3>
 <p>The most obvious factor is cost. I&#8217;ve just launched <a href="http://insurancebyjack.co.uk">a new business</a>, it will be a while before I have dispensable income for non-essentials. Going back to my home office has saved me £200 per month, plus the cost of buying coffee and indulging in Marks and Spencer at lunch.</p>
 <h3>Exercise and Diet</h3>

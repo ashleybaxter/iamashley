@@ -15,6 +15,8 @@ When possible, try to be invisible.
 
 It's okay to assume control at certain points and tell guests to hold off on taking photos until you're finished. Their harsh flash spilling into your photos is not a good look.
 
+<!--more-->
+
 Don't forget why they hired _you_.
 
 Turn up early, stay a little later.

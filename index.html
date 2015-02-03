@@ -1,22 +1,40 @@
 ---
 layout: default
-title: Ashley Baxter
-description: The personal site of Ashley Baxter, photographer and insurer hybrid.
 ---
 
-<div class="wrap">
-	<div class="grid">
-		<div class="grid__col grid__col--1-of-2">
-			<h1>Ashley Baxter</h1>
-		</div>
-		<div class="grid__col grid__col--1-of-2">
-			<p class="blog_cta">I write about what I'm learning in business. <a href="/blog" title="Blog">Read</a> &#8680;</p>
-		</div>
-		<div class="grid__col grid__col--3-of-8">
-			<img class="avatar" src="/img/avatar.jpg"/ alt="Ashley Baxter">
-		</div>
-		<div class="grid__col grid__col--5-of-8 intro">
-			<p>Hey, I'm Ashley. I'm an unusual hybrid of photographer and insurer, with a smattering of programming on the side. I run <a href="http://insurancebyjack.co.uk" title="Insurance by Jack">Insurance by Jack</a>, tailoring business insurance to creative professionals. Come the summer months, I can be found <a href="http://girlwithacamera.co.uk" title="Girl With A Camera">photographing</a> a limited number of weddings. I also record a <a href="http://workingoutpodcast.com" title="Working Out Podcast">weekly podcast</a> where—alongside my co-host—we discuss our journeys in creating our passion-based businesses. I like video games, the gym, and my dog. I tweet at <a href="http://twitter.com/iamashley" title="Ashley on Twitter">@iamashley</a>.</p>
-		</div>
-	</div>
+<div class="profile">
+	{% if site.logourl != "" %}<img src="{{ site.logourl }}" class="profileimage" alt="user">{% endif %}
+	<h4>{{ site.title }}</h4>
+	<p>{{ site.description }}</p>
+	<hr>
 </div>
+
+<section class="posts postindex wrapper">
+
+	{% for post in paginator.posts %}
+		<article class="post {% if post.featured == true %} featured {% endif %}">
+			<header>
+				<div class="feature"><span>Featured</span><i class="fa fa-bookmark fa-lg"></i></div>
+				<h2>
+					{% for category in post.categories %}
+					{{ category }} 
+					{% endfor %}
+				</h2>
+				<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
+				<span>
+					Posted on <i class="fa fa-clock-o"></i><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time>.
+				</span>
+				<div class="excerpt">
+					{% if post.content contains '<!--more-->' %}
+						{{ post.content | split:'<!--more-->' | first }}
+					{% else %}
+						{{ post.content }}   
+					{% endif %}
+				</div>
+			</header>
+		</article>
+	{% endfor %}
+
+	{% include pagination.html %}
+
+</section>

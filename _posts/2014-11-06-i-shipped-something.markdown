@@ -9,6 +9,8 @@ I want to get into the habit of shipping. Having already launched a <a href="htt
 
 Wanting to develop a habit for acting on my ideas, and inspired by <a href="http://justinjackson.ca/makestuff/">Justin Jackson's suggestion</a> to create a small project for every unused domain you own, I suggested to <a href="http://twitter.com/paddydonnelly">Paddy</a>—my Working Out co-host—we do something similar, which resulted in a mini-series for our podcast.
 
+<!--more-->
+
 We explore the topics of 'sticking to goals' and 'shipping' on our podcast, <a href="http://workingoutpodcast.com">Working Out</a>—it was time to put our money where our mouth is. Plus, with Paddy's design skills and my… ability to Google stuff about programming, it seemed we could build something decent.
 
 __The criteria:__ It had to encompass both of our skills, tie in with the theme of the podcast, and be designed, built and launched within the four week period of our mini-series.

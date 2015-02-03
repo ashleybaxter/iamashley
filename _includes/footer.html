@@ -1,4 +1,11 @@
-<footer class="grid">
-	<div class='grid__col grid__col--1-of-2'><a href="http://feeds.feedburner.com/AshleyBaxtersBlog">RSS</a></div>
-	<div class='grid__col grid__col--1-of-2 email'>hello@iamashley.co.uk</div>
+<footer class="wrapper">
+    <div class="smallnav">
+    	{% for page in site.pages %}
+        	{% if page.title %}<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> &bull;{% endif %}
+        {% endfor %}
+    </div>
+    <div>
+        Copyright &copy; <a href="{{ site.url }}/">{{ site.title }}</a> &#124; <a href="mailto:hello@iamashley.co.uk">hello@iamashley.co.uk</a>
+        <span class="ghost"><a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and <a href="https://pages.github.com/">GitHub Pages</a> is my new jam.</span>
+    </div>
 </footer>

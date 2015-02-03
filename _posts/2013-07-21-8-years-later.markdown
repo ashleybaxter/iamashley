@@ -7,6 +7,7 @@ categories: personal
 
 <p>The anniversary of my father&#8217;s death (21/07) should be a grim day, and I admit I could easily allow it to descend into that if I think not of the opportunities that have arisen as a result of his passing, but what I am missing by not having my old man here.</p>
 <p>If my dad were alive, I wouldn&#8217;t…</p>
+<!--more-->
 <ul>
 <li>have <a title="Girl With A Camera" href="http://girlwithacamera.co.uk">picked up a camera</a>, which has evolved into a healthy second income for myself, taking me to new places and encouraging me to meet new faces. My camera is a constant source of joy, it&#8217;s mad to think of a life without it.</li>
 <li>grasp the significance of keeping fit. I watched firsthand the effect of a lifelong smoking habit and unhealthy diet, which gave me an understanding of what it means to stick around for family. I&#8217;d likely not have joined the gym, which has developed into a passion for lifting weights, being strong and generally breaking into a daily sweat.</li>

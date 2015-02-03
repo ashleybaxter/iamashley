@@ -9,6 +9,8 @@ Twitter has become a tool primarily used for disgruntled customers, it seems. A 
 
 I used to do this, too. <a href="http://insurancebyjack.co.uk">Then I started my own business</a> and realised how hard it is to always get things right. 
 
+<!--more-->
+
 Sure, a public outcry can be an effective way of nudging a business—especially a big corporation—to respond and deal with your issue, but a negative outcry towards a _small_ business could be dangerously damaging.
 
 Most of the people I see airing their (at times unnecessarily harsh) disappointment are small business owners themselves.

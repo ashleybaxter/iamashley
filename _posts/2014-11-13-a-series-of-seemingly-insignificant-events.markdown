@@ -9,6 +9,8 @@ It fascinates me that a series of seemingly insignificant events can potentially
 
 That's what has been on my mind lately, and here's why…
 
+<!--more-->
+
 In 2013, Simon Collison hosts the final New Adventures in Web Design conference in Nottingham.
 
 I attend.

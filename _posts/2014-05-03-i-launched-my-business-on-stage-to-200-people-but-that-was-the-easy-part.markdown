@@ -5,6 +5,10 @@ date:   2014-05-03 10:10:55
 categories: business
 ---
 <p>Public speaking is <em>scary</em>—I hate, hate, <em>hate</em> it. Starting a business is scary. Yet I knew speaking at <a href="http://dotyork.com" title="Dot York">Dot York</a> to 200 people, where I talked of my struggle with my previous business and subsequently launched my new venture, was actually going to be the easy part. Now I have to make this thing work.</p>
+
+<!--more-->
+
+
 <h4>The Negative Feedback</h4>
 <p>Despite much of the reaction towards <a href="http://insurancebyjack.co.uk" title="Insurance by Jack">my new business</a> being positive, there’s also been a lot of negative feedback centring around one particular thing; the third-party quote system and its lack of brand integration with my site.</p>
 <p>It’s been hard to hear, but I’m grateful people are being honest enough to vocalise their thoughts on how I can improve the experience. It beats people being polite just for the sake of it, giving you no indication as to how they really feel about your business/product. On the other hand, I feel at a loss. As an introducer, the nature of my job means I will <em>always</em> be locked into using a third-party quote system, meaning it will never perfectly align with my own site’s branding. For the first time in my 9-year career in insurance, though, I actually feel comfortable with the system we are using, because I know <em>it’s the best one out there</em>. I also know it has a stellar team behind it.</p>
