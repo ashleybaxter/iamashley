@@ -12,6 +12,8 @@ I can't see when users are abandoning the process, or how many people are comple
 
 The best I can do is set up a Goal on Analytics and see how many people click on the quote CTA. It may not explicitly tell me if they've completed all of the steps, but it's a signal for how many quotes are being generated and where those users are coming from.
 
+<!--more-->
+
 I can also make judgements based on the duration someone has spent on the quote system, which is a good indicator as to whether they complete or abandon the process. For example, I know that hit from Facebook was someone clicking the CTA out of curiosity because they only spent 20 seconds on it.
 
 <h2>Where Are These People Coming From?</h2>
