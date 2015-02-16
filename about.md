@@ -14,6 +14,9 @@ Ashley Baxter is an unusual hybrid of <a href="http://girlwithacamera.co.uk">pho
 #### <a href="http://dotyork.com/events/event?event=2015-04-08-workshop-photography">DotYork Photography Workshop</a>
 Ashley's hosting a photography workshop and photo walk in York this April. Tickets are limited to 10 spaces and available to buy now.
 
+#### <a href="https://www.eventbrite.co.uk/e/bdx-instagram-for-business-meetup-talks-networking-tickets-15433823983">Instagram for Business</a>
+Ashley is speaking at BDX event 'Instagram for Business' on using Instagram for business.
+
 #### <a href="http://glasgowphotowalk.co.uk/">Glasgow Photo Walk</a>
 Glasgow Photo Walk is a structured yet informal walk around the city of Glasgow, requiring just two essentials—a camera and tolerance of rain!
 
