@@ -41,5 +41,5 @@ Public speaking: I find it tricky to measure the effectiveness of public speakin
 <li><a href="http://insurancebyjack.co.uk/business-and-marketing/2014/05/20/how-to-get-started-with-public-speaking.html">How To Get Started With Public Speaking</a></li>
 <li><a href="http://insurancebyjack.co.uk/interviews/2014/06/03/case-study-whosit-whatsit.html">Case Study: Retailer Whosit &amp; Whatsit</a></li>
 <li><a href="http://insurancebyjack.co.uk/insurance/2014/07/22/72-percent-of-freelancers-dont-have-business-insurance.html">72% Of Freelancers Don't Have Business Insurance</a></li>
-<li><a href="http://insurancebyjack.co.uk/interviews/2014/04/15/ignite-tristan.html">Case Study: Accelerator and Incubator Ignite</a></li>
+<li><a href="http://insurancebyjack.co.uk/interviews/2014/05/06/ignite-tristan.html">Case Study: Accelerator and Incubator Ignite</a></li>
 </ul>
