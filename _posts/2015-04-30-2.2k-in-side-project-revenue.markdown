@@ -16,10 +16,10 @@ Deliver high quality content to a list of engaged readers. These readers should 
 
 Threw a tweet out into the ether and crossed my fingers.
 
+<!--more-->
+
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">This is what I&#39;ve been working on. An email course for the DSLR novice who needs to pick up their camera more. <a href="http://t.co/610vYaaaOf">http://t.co/610vYaaaOf</a></p>&mdash; Ashley Baxter (@iamashley) <a href="https://twitter.com/iamashley/status/585374955753332736">April 7, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<!--more-->
 
 It was a haphazard, imperfect launch that lacked any kind of strategy, but I needed to get something out there quickly.
 
