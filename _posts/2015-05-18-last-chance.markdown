@@ -15,6 +15,8 @@ This pattern has repeated itself for two-three years. Two-three years of disappo
 
 The strange thing is, the bumpy nature of this journey hasn't weakened my desire to fulfil this goal. I still feel just as strongly (and capable) of achieving it. I don't _want_ to give up, but after many dead ends I am approaching tomorrow as my last chance.
 
+<!--more-->
+
 <h2>Better Standards</h2>
 
 I truly believe the UK insurance industry is in need of a make-over. Consumers _expect_ to feel frustrated with insurance, whether it’s not understanding the jargon or struggling with the archaic technology.
