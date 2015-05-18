@@ -11,11 +11,11 @@ Ashley Baxter is an unusual hybrid of <a href="http://girlwithacamera.co.uk">pho
 
 ## Other Links
 
-#### <a href="http://dotyork.com/events/event?event=2015-04-08-workshop-photography">DotYork Photography Workshop</a>
-Ashley's hosting a photography workshop and photo walk in York this April. Tickets are limited to 10 spaces and available to buy now.
+#### <a href="http://whositandwhatsit.com/products/beginners-photography-workshop">Photography For Beginners Workshop</a>
+Ashley's hosting a photography workshop and photo walk in Newcastle this July. Tickets are limited to 15 spaces and available to buy now.
 
-#### <a href="https://www.eventbrite.co.uk/e/bdx-instagram-for-business-meetup-talks-networking-tickets-15433823983">Instagram for Business</a>
-Ashley is speaking at BDX event 'Instagram for Business' on using Instagram for business.
+#### <a href="https://getinvited.to/ashleybaxter/glasgow-photo-walk-workshop-with-dan-rubin/">Dan Rubin's Post-Processing Workshop</a>
+After a successful workshop last year, Dan Rubin returns to Glasgow for Glasgow Photo Walk. This time he is hosting an intense full-day workshop on Lightroom and smartphone post-production.
 
 #### <a href="http://glasgowphotowalk.co.uk/">Glasgow Photo Walk</a>
 Glasgow Photo Walk is a structured yet informal walk around the city of Glasgow, requiring just two essentials—a camera and tolerance of rain!
