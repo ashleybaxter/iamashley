@@ -21,7 +21,7 @@ The strange thing is, the bumpy nature of this journey hasn't weakened my desire
 
 I truly believe the UK insurance industry is in need of a make-over. Consumers _expect_ to feel frustrated with insurance, whether it’s not understanding the jargon or struggling with the archaic technology.
 
-It doesn't have to be that way. It shouldn't be that way. A new insurer has to come along who sets better standards. I wanted that to be me.
+It doesn't have to be that way. It shouldn't be that way. A new insurer has to come along who sets better standards. I (still) want that to be me.
 
 While most insurers are competing on price, I want to build a better insurance company from a design and technology standpoint. I want to provide people with a pleasant customer journey—from initial quote to payment and any correspondence in-between.
 
