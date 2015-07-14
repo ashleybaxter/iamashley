@@ -1,33 +1,15 @@
 ---
-layout: default
+layout: page
 ---
 
-<section class="posts postindex wrapper">
+<img src="/assets/img/ashley.jpg" alt="Ashley Baxter">
 
-	{% for post in paginator.posts %}
-		<article class="post {% if post.featured == true %} featured {% endif %}">
-			<header>
-				<div class="feature"><span>Featured</span><i class="fa fa-bookmark fa-lg"></i></div>
-				<h2>
-					{% for category in post.categories %}
-					{{ category }} 
-					{% endfor %}
-				</h2>
-				<h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
-				<span>
-					Posted on <i class="fa fa-clock-o"></i><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%B %-d, %Y" }}</time>.
-				</span>
-				<div class="excerpt">
-					{% if post.content contains '<!--more-->' %}
-						{{ post.content | split:'<!--more-->' | first }}
-					{% else %}
-						{{ post.content }}   
-					{% endif %}
-				</div>
-			</header>
-		</article>
-	{% endfor %}
+<p>Ashley Baxter is a <a href="http://girlwithacamera.co.uk">photographer</a> and business person. Ashley runs <a href="http://insurancebyjack.co.uk">Insurance by Jack</a>, offering business insurance to the freelance world, and <a href="https://brokersdirect.co.uk">Brokers Direct</a>, a property insurance broker. Come the summer months, she can be found <a href="http://girlwithacamera.co.uk/weddings">photographing weddings</a>. She likes video games, lifting weights and her dog, <a href="https://www.flickr.com/photos/rockersdelight/9137948804/">Indie</a>.</p>
 
-	{% include pagination.html %}
+<h2>Other Links</h2>
 
-</section>
+<h4><a href="http://workingoutpodcast.com">Working Out Podcast</a></h4>
+<p>Co-hosting a weekly podcast, Working Out explores whether it's possible to make a living from your hobby. Although currently on hiatus, there's a meaty 45 episodes in the archive to delve into.</p>
+
+<h4><a href="http://instagram.com/ashleybaxter">Ashley's Instagram</a></h4>
+<p>Casual (mostly) iPhone shots of life in Scotland. Expect Scottish landscapes, portraits of friends, and the occasional dog photo.</p>
