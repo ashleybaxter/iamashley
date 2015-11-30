@@ -1,0 +1,24 @@
+---
+layout: with-sidebar
+---
+
+<div class="sub-nav">
+    <a href="#" class="select-posts active">Posts</a>
+</div>
+
+<div class="category-page-posts animated fadeIn ">
+
+    {% for post in site.categories.[page.category] %}
+    <article class="post">
+        <div class="post-preview col-xs-10  no-gutter">
+
+        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+
+        {{ post.excerpt | truncatewords: 38 }}
+
+        </div>
+
+    </article>
+
+    {% endfor %}
+</div>

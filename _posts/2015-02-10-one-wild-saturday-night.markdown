@@ -3,6 +3,9 @@ layout: post
 title:  "One Wild Saturday Night…"
 date:   2015-02-10 13:37:00
 categories: business
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 … I set up Goals in Google Analytics. I'm kicking myself for not doing it sooner. 
 

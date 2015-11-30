@@ -3,6 +3,9 @@ layout: post
 title:  "Happy Quarter Birthday To My Business"
 date:   2014-08-28 13:37:00
 categories: business
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 My business, <a href="http://insurancebyjack.co.uk">Insurance by Jack</a>, has survived a whole quarter. Not exactly worthy of a feature on <a href="https://thedistance.com/">The Distance</a>, but I'm working on it. Whilst it certainly hasn't made me rich, I have recouped over 50% of what I've invested into the business.

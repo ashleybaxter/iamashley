@@ -3,6 +3,9 @@ layout: post
 title:  "Advice To My Wedding Photographer Self"
 date:   2014-08-04 13:37:00
 categories: personal
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 Slow down, you don't have to rush this. Get it right.

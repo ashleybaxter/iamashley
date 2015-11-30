@@ -3,6 +3,9 @@ layout: post
 title:  "I'm Speaking At Industry Conf"
 date:   2013-02-16 10:10:55
 categories: personal
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 <p>In a little over 2 months, I will be delivering my first public talk at <a title="Industry Conf" href="http://industryconf.com/">Industry</a> – a conference for web industry professionals in Newcastle.</p>

@@ -3,6 +3,9 @@ layout: post
 title:  "Let's Support Small Businesses, Not Defame Them"
 date:   2014-08-29 13:37:00
 categories: business
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 Twitter has become a tool primarily used for disgruntled customers, it seems. A day rarely passes without the platform being used to vent frustrations aimed at businesses. _"Hey, @company, your app's downtime is screwing up my life!"_. Or, _".@company, your site is broken and there's a typo. Gosh, you suck"_.

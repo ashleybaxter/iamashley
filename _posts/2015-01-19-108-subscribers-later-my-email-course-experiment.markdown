@@ -3,6 +3,9 @@ layout: post
 title:  "108 Subscribers Later&#58; My Email Course Experiment"
 date:   2015-01-19 13:37:00
 categories: business
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 _[UPDATE] Due to me being a n00b with the software I'm using for the drip campaign, the actual figure is 260 subscribers. Not 108. Nice!_

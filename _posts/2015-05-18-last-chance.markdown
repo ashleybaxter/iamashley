@@ -3,8 +3,9 @@ layout: post
 title:  "Last Chance"
 date:   2015-05-19 13:37:00
 categories: business
-banner_image: "/media/walk.jpg"
-featured: true
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 Tomorrow I head to London for what I'm considering to be my last shot at this whole 'simplifying technology in the insurance industry' ambition.

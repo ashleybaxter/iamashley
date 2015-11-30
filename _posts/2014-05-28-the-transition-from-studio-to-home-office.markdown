@@ -3,6 +3,9 @@ layout: post
 title:  "The Transition From Shared Studio To Home Office"
 date:   2014-05-28 10:10:55
 categories: personal
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 <p>It&#8217;s almost a year to the day I made <a href="http://iamashley.co.uk/blog/the-transition-from-home-office-to-shared-studio/">the transition from home office to shared studio</a>, after a solitary and monotonous 8 years of working from home. 12 months of renting a desk in a co-working space has since passed, yet I&#8217;ve found myself back at square one—working from my home office.</p>
 <p><em>Why?</em></p>

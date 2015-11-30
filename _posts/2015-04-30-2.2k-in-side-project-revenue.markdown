@@ -3,6 +3,9 @@ layout: post
 title:  "£2.2K In Side Project Revenue (And Not A Mailing List In Sight)"
 date:   2015-04-30 10:10:55
 categories: business
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 There is a formula for successful product launches.
 

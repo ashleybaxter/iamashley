@@ -3,8 +3,9 @@ layout: post
 title:  "Glasgow Has A New Tech Hub"
 date:   2015-02-11 13:37:00
 categories: business
-banner_image: "/media/office.jpg"
-featured: true
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 Glasgow has always lacked a central location for tech people to gather, to work, to hack. It seems to be something every other city has—even our neighbour, Edinburgh.

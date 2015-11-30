@@ -3,6 +3,9 @@ layout: post
 title:  "Facebook Boosting On A Budget"
 date:   2013-10-03 10:10:55
 categories: business
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 <p>Out of curiosity, I &#8216;boosted&#8217; a couple of posts on <a title="Girl With A Camera on Facebook" href="https://www.facebook.com/girlwithacamerauk">my photography Facebook page</a> yesterday. As this was simply an experiment as opposed to a means of gaining any real traction, I selected the bare minimum from the drop-down menu (before realising you can specify your own budget), which – without explanation – differed between both my chosen posts.</p>

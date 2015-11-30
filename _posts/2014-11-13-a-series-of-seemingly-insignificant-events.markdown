@@ -3,6 +3,9 @@ layout: post
 title:  "A Series Of Seemingly Insignificant Events"
 date:   2014-11-13 13:37:00
 categories: business
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 It fascinates me that a series of seemingly insignificant events can potentially be tiny dots connecting to something much bigger—something which can change the course of your life, or simply provide you with options that weren't previously available to you.

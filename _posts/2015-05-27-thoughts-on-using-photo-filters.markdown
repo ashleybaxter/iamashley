@@ -3,6 +3,9 @@ layout: post
 title:  "Thoughts On Using Photo Filters"
 date:   2015-05-27 13:37:00
 categories: personal
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 Filters, are they good or bad? I'm not talking about iPhone snaps via Instagram, but the more serious photographer using filters (such as <a href="http://vsco.co/film">VSCO</a>) to edit their photos.

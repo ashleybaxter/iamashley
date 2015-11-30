@@ -3,6 +3,9 @@ layout: post
 title:  "Get Comfortable With Discomfort"
 date:   2014-07-27 10:10:55
 categories: personal
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 It's not easy to force yourself to endure the unwelcome butterflies, sweaty palms and aggressively beating heart (that's my symptoms of nervousness, at least), which is why most people don't put themselves through it. They say <strong>YES</strong> to feeling comfortable, but subsequently say <strong>NO</strong> to growth, opportunity and confidence. That is why I try to edge myself past the comfort zone—because I want to experience growth, opportunity and confidence.
 

@@ -3,6 +3,9 @@ layout: post
 title:  How Will This Benefit Me?
 date:   2014-06-24 10:10:55
 categories: business
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 "How will this benefit me?" When presented with a work-related opportunity, this is the question I ask myself.

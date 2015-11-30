@@ -3,6 +3,9 @@ layout: post
 title:  "8 Years Later"
 date:   2013-07-21 10:10:55
 categories: personal
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 <p>The anniversary of my father&#8217;s death (21/07) should be a grim day, and I admit I could easily allow it to descend into that if I think not of the opportunities that have arisen as a result of his passing, but what I am missing by not having my old man here.</p>

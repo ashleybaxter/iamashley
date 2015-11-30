@@ -3,6 +3,9 @@ layout: post
 title:  "How I Started An Accidental Photography Business"
 date:   2014-05-12 10:10:55
 categories: business
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 <p>I didn&#8217;t intend to exchange <a href="http://girlwithacamera.co.uk" title="Girl With A Camera">my photography</a> services for money. <em>It just started happening.</em> From modest beginnings, where I was slipped a £20 note at a gig I thought I had shot just for fun, to a steady stream of bookings from clients big and small, all of which I have landed without marketing myself as a professional photographer. This is how it happened.</p>
 

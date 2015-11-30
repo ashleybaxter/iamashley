@@ -3,6 +3,9 @@ layout: post
 title:  "I Shipped Something&#58; Lessons Learned From Building A Daily Stand-Up App"
 date:   2014-11-06 13:37:00
 categories: personal
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 I want to get into the habit of shipping. Having already launched a <a href="http://lodgerapp.co.uk">web app</a>, I know I'm capable of managing my time effectively enough in pursuit of getting my ideas into people's hands, but my web app was plagued with long development cycles and low morale.

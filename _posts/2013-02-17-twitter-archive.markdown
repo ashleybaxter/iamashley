@@ -3,6 +3,9 @@ layout: post
 title:  "Twitter Archive"
 date:   2013-02-17 10:10:55
 categories: personal
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 
 <p>I was finally granted access to my Twitter archive. Despite the wait and subsequent rise in intrigue, I hesitated when eventually given the option to download. Here, at my fingertips, were 5.5 years worth of thoughts – like a diary. And <em>everyone</em> cringes when revisiting their diary.</p>

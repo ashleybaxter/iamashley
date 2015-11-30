@@ -3,6 +3,9 @@ layout: post
 title:  "I Launched My Business On Stage To 200 People But That Was The Easy Part"
 date:   2014-05-03 10:10:55
 categories: business
+author_name : Ashley
+author_url : /about
+author_avatar: ashley
 ---
 <p>Public speaking is <em>scary</em>—I hate, hate, <em>hate</em> it. Starting a business is scary. Yet I knew speaking at <a href="http://dotyork.com" title="Dot York">Dot York</a> to 200 people, where I talked of my struggle with my previous business and subsequently launched my new venture, was actually going to be the easy part. Now I have to make this thing work.</p>
 
