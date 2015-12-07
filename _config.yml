@@ -7,12 +7,12 @@ enable_retina: true
 permalink: pretty
 paginate: 7
 nav_list:
-  Home : ['Home', '/', 'fa-home']
+  Home : ['Blog', '/', 'fa-home']
   About : ['About', '/about', 'fa-user']
   Coworking : ['Coworking', '/coworking', 'fa-anchor']
 single_footer: '<p>&copy; Ashley Baxter | <a href="https://twitter.com/iamashley">Twitter</a> | <a href="https://instagram.com/ashleybaxter">Instagram</a></p>'
 footer_links:
-    Home: ['Home', '/']
+    Home: ['Blog', '/']
     About: ['About', '/about']
     Coworking: ['Coworking', '/coworking']
     Contact: ['hello@iamashley.co.uk', 'mailto:hello@iamashley.co.uk']

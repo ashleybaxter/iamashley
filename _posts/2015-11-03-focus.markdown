@@ -1,0 +1,79 @@
+---
+layout: post
+title:  "Focus"
+date: 2015-12-07 13:37:00
+categories: business
+author_name : Ashley
+author_url : /about
+author_avatar: avatar
+show_avatar : true
+show_related_posts: false
+---
+
+Hello, burn out.
+
+I had ignored it for too long and ended up getting admitted to hospital. It was nothing serious, a lower respiratory tract infection, but it did force me to re-evaluate my work. 
+
+I was juggling too much. Photography, two insurance businesses, many side projects… I was lacking focus and feeling drained.
+
+<h2>Forgetting What Was Important (And Figuring It Out Again)</h2>
+
+After getting out of hospital I took a month off work, cancelling all my upcoming jobs. This was the first time I've prioritised health and happiness over making money.
+
+For 3 weeks I played video games, read books and exercised. I completely switched off from work mode and just focused on _me_. It was great.
+
+By the time my month off was nearing an end, I realised I had to figure out what I wanted to do. I couldn't play The Witcher 3 forever! (Arguably I could, judging by the sheer size of the game.)
+
+I had hoped to have an epiphany during my break and arrive at this conclusion naturally, but I had to work to find the answer.
+
+_"What matters to me?"_
+
+So, I made lists. Lots of lists. Lists of things I enjoy doing, lists of things I want to learn, lists of things I'm good at, lists of things that can support me financially, and lists of things that I'm good at _and_ can support me financially.
+
+I asked myself, _"If I could start all over again and do anything I wanted, what would it be?"_.
+
+That's a loaded question, but it's one we should occasionally revisit to ensure we're on the right path. It's easy to get sidetracked.
+
+After much consideration, list making and reading <a href="http://sethgodin.typepad.com/">Seth Godin's</a> 'The Dip' (best book <a href="https://www.pinterest.com/insurancebyjack/books/">I've read this year</a>. Seriously, read it), I chose insurance (again).
+
+<h2>Why Insurance (again)?</h2>
+
+When my Dad died, I faced a choice of continuing my music studies or inheriting his insurance business. I chose the latter.
+
+As I grew more familiar with the profession, I came to recognise how certain aspects of the insurance industry fell short.
+
+I dislike the formality of the industry, believing there's room for a personable insurance brand. A majority of people don't even trust their provider.
+
+In a time where transparency is expected and technology should make people's lives _easier_, the insurance industry appears stuck in the past, reluctant to catch up.
+
+Quoting and buying online is plagued with complexity. The entire customer journey should be redesigned to better suit the consumer. The idea of a personable insurance brand with design at its core is an attractive one. I want to build that business.
+
+I've had that desire for some time and I'm ashamed I haven't been proactive with meeting my goal. Call it shiny object syndrome, but there was always some other, unnecessary distraction.
+
+It's time to commit.
+
+<h2>Learning To Say "No"</h2>
+
+As hard a decision as it was, I winded down all my side projects and started saying _"No"_ to a lot of things.
+
+Saying _"No"_ doesn't come easy when you're self-employed, and it's still a work in progress.
+
+On a couple of occasions I've found myself accepting work that isn't relevant to my goal, but I'm steadily improving at turning things down.
+
+It's also difficult not to get distracted with side projects. I have ideas I want to pursue all the time, but before I act upon them I now ask, _"Will this take me closer to my goal?"_. If the answer is _"No"_, I drop it.
+
+<h2>Quit Or Commit</h2>
+
+I read Nathan Barry's blog post, <a href="http://nathanbarry.com/30k/">Growing ConvertKit To $30,000 In Monthly Recurring Revenue</a>.
+
+Nathan sums up the last year of ConvertKit's success in a single word: __focus__.
+
+<blockquote>If you’re in that spot just ask, “Have I given my company every possible chance to succeed?” If the answer is no (as it was for me), then truly give it everything you have. — <a href="http://nathanbarry.com/30k/">Nathan Barry</a></cite></blockquote>
+
+All this to say: <a href="http://insurancebyjack.co.uk">Insurance by Jack</a>, you now have my full attention.
+
+<h2>What's Next?</h2>
+
+I'm providing a transparent account of building an insurance business. From my current status as affiliate to authorised insurer, I'll be sharing my journey. The outcome is unknown and success is far from guaranteed.
+
+To avoid missing out on any updates, <a href="/newsletter">sign up to the newsletter</a>.
