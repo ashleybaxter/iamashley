@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Business I Want To Build vs The Business I Have"
+title:  "The Business I Have vs The Business I Want To Build"
 date: 2016-01-07 13:37:00
 categories: business
 author_name : Ashley
