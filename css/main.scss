@@ -5,3 +5,20 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "global";
+
+.newsletter {
+    border: solid 1px #E9E9E9;
+    padding: 30px 30px 10px 30px;
+}
+
+.newsletter p {
+	margin-bottom: 0;
+}
+
+.newsletter h3 {
+	margin-top: 0;
+}
+
+.ck_form.ck_naked {
+	margin: 0 !important;
+}
