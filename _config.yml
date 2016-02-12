@@ -16,7 +16,7 @@ footer_links:
     About: ['About', '/about']
     Coworking: ['Coworking', '/coworking']
     Contact: ['hello@iamashley.co.uk', 'mailto:hello@iamashley.co.uk']
-
+gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
