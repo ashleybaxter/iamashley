@@ -20,3 +20,4 @@ gems: [jekyll-paginate]
 
 # Build settings
 markdown: kramdown
+future: true
