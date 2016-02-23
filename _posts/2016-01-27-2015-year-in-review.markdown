@@ -16,7 +16,7 @@ I felt 2015 was a quiet year, failing to nudge myself out of my comfort zone eno
 
 With that said, I looked back over the year and realised a lot did happen. The past 12 months are something I _can_ be proud of.
 
-##New Beginnings
+<h2>New Beginnings</h2>
 
 I kicked the year off by moving into my dream office, <a href="http://rookieoven.com/coworking/">RookieOven</a>. It's a converted shipyard with a focus on people working in tech.
 
@@ -30,7 +30,7 @@ He has been the highlight of 2015.
 
 <img src="/img/blog/blake.jpg" alt="My nephew, Blake">
 
-##Endings
+<h2>Endings</h2>
 
 A lot of good things came to an end.
 
@@ -44,7 +44,7 @@ I also winded down all my side projects. Glasgow Photo Walk, Working Out Show, a
 
 I wrote about <a href="http://iamashley.co.uk/business/2015/12/07/focus/">_why_</a>, but the gist was: I got burnt out and decided to drop a lot of unnecessary distractions.
 
-##Revenue
+<h2>Revenue</h2>
 
 When I reviewed the goals I'd set myself for 2015, a lot of them were revenue related.
 
@@ -54,7 +54,7 @@ One target I did hit was with the launch of my email course in May (£2.2K in re
 
 I then sold it to <a href="https://exposure.co">Exposure</a>. I'm a big fan of Exposure, so I think that's my work achievement of the year. I'm confident they'll do something cool with it.
 
-##Health and Fitness
+<h2>Health and Fitness</h2>
 
 I used to be obsessed with exercise to the point I'd hate taking rest days. I still work out regularly, just not to the extent I did a few years ago.
 
@@ -64,7 +64,7 @@ It's the second one I've completed. I'm definitely not as fit as I used to be, c
 
 Now, if only I can improve my diet…
 
-##Travel
+<h2>Travel</h2>
 
 Traveling compliments my photography hobby, but adventures were seriously limited in 2015.
 
@@ -84,7 +84,7 @@ A few other notable things worth mentioning:
 
 * Digital World created a video <a href="https://www.youtube.com/watch?v=cMSn6FgwfkY">case study</a> about my career in insurance
 
-##This Year
+<h2>This Year</h2>
 
 I'm keeping things simple. I'll work on improving my diet. I'll say _'Yes'_ to things that scare me, _if_ they're relevant to my goal. Most importantly, I'll make progress with building my insurance business (and blogging about the journey).
 

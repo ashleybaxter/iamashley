@@ -24,7 +24,7 @@ I inherited the name of the company, its visual identity, the customer base and 
 
 It had worked for my Dad, but it wasn't working for me.
 
-##Plan B
+<h2>Plan B</h2>
 
 The challenge of the insurance industry still interested me, but I was targeting the wrong audience (my Dad's business focused on landlords). Knowing this, I settled on staying within insurance but pivoting my audience to freelancers.
 
@@ -36,7 +36,7 @@ This makes me an affiliate.
 
 It's a simple, efficient and low cost way to getting started, but as I soon found out it isn't without its flaws.
 
-##The Pros
+<h2>The Pros</h2>
 
 The obvious advantage to being an affiliate is the ability to go from idea to execution quickly.
 
@@ -52,7 +52,7 @@ The one thing I do control, and what I spent the majority of my time and money o
 
 No corporate blabber, just insurance on a first-name basis with design at its core.
 
-##The Cons
+<h2>The Cons</h2>
 
 It may be efficient and low-cost to launch as an affiliate, but there are a lot of cons.
 
