@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 <p>A month has passed since launching my new business, <a href="http://insurancebyjack.co.uk">Insurance by Jack</a>. The last 4 weeks have been a mixture of excitement, apprehension, downheartedness and elation. Sounds about right when running your own business, eh? I&#8217;m finally starting to pick up new customers, and I&#8217;m <em>really</em> pleased with the general traffic the site has been receiving (the traffic I&#8217;ve gotten in my first month of going live is what my last business would get over 4-5 months).</p>
 <p>I&#8217;ve bootstrapped this business myself, using the money I&#8217;ve made through <a href="http://girlwithacamera.co.uk">photography</a> to fund it. There isn&#8217;t a massive budget behind it—especially with marketing—and so I&#8217;ve mostly relied <a href="http://insurancebyjack.co.uk/blog">on writing</a> and talking about the business to bring awareness to it.</p>

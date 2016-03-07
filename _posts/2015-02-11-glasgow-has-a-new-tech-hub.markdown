@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 Glasgow has always lacked a central location for tech people to gather, to work, to hack. It seems to be something every other city has—even our neighbour, Edinburgh.

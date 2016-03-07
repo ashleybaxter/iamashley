@@ -8,6 +8,8 @@ author_url : /about
 author_avatar: avatar
 show_avatar : true
 show_related_posts: false
+displayed: no
+hidden: true
 ---
 
 I felt 2015 was a quiet year, failing to nudge myself out of my comfort zone enough. This is how I gauge if I'm doing things right. Does it challenge me? Good, do it.

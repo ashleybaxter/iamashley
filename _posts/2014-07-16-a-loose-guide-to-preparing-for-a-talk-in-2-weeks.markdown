@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 I've never had a limited, nail-biting timeframe of just 2 weeks to research, write and prepare for <a href="http://practicaltakeaways.co.uk">a conference talk</a>. As somebody who hates public speaking, this is a sure-fire way to provoke feelings of <strong>stress</strong> and <strong>anxiety</strong>. Not only was this the least amount of time I've had to prep for a talk, it was (prior to the traffic issue on the day that caused many to turn back in frustration, leaving the venue half full) the biggest crowd I'd be speaking to. Petrifying. Yet I did manage to pull it off without fluffing my talk.

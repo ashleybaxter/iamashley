@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 There is a formula for successful product launches.
 

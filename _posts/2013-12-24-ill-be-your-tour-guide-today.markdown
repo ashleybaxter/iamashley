@@ -6,6 +6,8 @@ categories: personal
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 <p>During a monthly <a href="http://refreshglasgow.org/" title="Refresh Glasgow">Refresh</a> meet-up, <a href="http://twitter.com/stevieg_83" title="Steven Grant's Twitter">Steven</a> and I casually discussed the idea of a photo walk around Glasgow. I can&#8217;t recall the specifics, but somebody – perhaps even Steven – was hoping to learn to use their camera, and I suggested a photo walk being a good tool to do so.</p>
 <!--more-->

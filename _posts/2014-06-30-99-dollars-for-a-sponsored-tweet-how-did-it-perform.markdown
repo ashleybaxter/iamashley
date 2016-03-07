@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 Every month I'll be attempting a different, low cost marketing experiment. This month I tried buying ads. Dirty, filthy, paid ads. Not through the money sink that is Google Adwords, but via <a href="http://buysellads.com">BuySellAds</a> and Twitter ads for business. It works in my favour that both these networks have a strong presence in the design community, because that's a portion of the market I aim to zone in on (creative professionals).

@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 _[UPDATE] Due to me being a n00b with the software I'm using for the drip campaign, the actual figure is 260 subscribers. Not 108. Nice!_

@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 Tomorrow I head to London for what I'm considering to be my last shot at this whole 'simplifying technology in the insurance industry' ambition.

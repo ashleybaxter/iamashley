@@ -8,6 +8,8 @@ author_url : /about
 author_avatar: avatar
 show_avatar : true
 show_related_posts: false
+displayed: no
+hidden: true
 ---
 
 Hello, burn out.
@@ -28,15 +30,15 @@ I had hoped to have an epiphany during my break and arrive at this conclusion na
 
 _"What matters to me?"_
 
-So, I made lists. Lots of lists. Lists of things I enjoy doing, lists of things I want to learn, lists of things I'm good at, lists of things that can support me financially, and lists of things that I'm good at _and_ can support me financially.
+I made lists. Lots of lists. Lists of things I enjoy doing, lists of things I want to learn, lists of things I'm good at, lists of things that can support me financially, and lists of things that I'm good at _and_ can support me financially.
 
 I asked myself, _"If I could start all over again and do anything I wanted, what would it be?"_.
 
 That's a loaded question, but it's one we should occasionally revisit to ensure we're on the right path. It's easy to get sidetracked.
 
-After much consideration, list making and reading <a href="http://sethgodin.typepad.com/">Seth Godin's</a> 'The Dip' (best book <a href="https://www.pinterest.com/insurancebyjack/books/">I've read this year</a>. Seriously, read it), I chose insurance (again).
+After much consideration, list making and reading <a href="http://sethgodin.typepad.com/">Seth Godin's</a> 'The Dip' (best book <a href="https://www.pinterest.com/insurancebyjack/books/">I've read this year</a>. Seriously, read it), I chose insurance. Again.
 
-<h2>Why Insurance (again)?</h2>
+<h2>Why Insurance. Again?</h2>
 
 When my Dad died, I faced a choice of continuing my music studies or inheriting his insurance business. I chose the latter.
 
@@ -74,4 +76,4 @@ All this to say: <a href="http://insurancebyjack.co.uk">Insurance by Jack</a>, y
 
 <h2>What's Next?</h2>
 
-I'm providing a transparent account of building an insurance business. From my current status as affiliate to authorised insurer, I'll be sharing my journey. The outcome is unknown and success is far from guaranteed.
+I'm providing a transparent account of <a href="/newsletter/">building an insurance business</a>. From my current status as affiliate to authorised insurer, I'll be sharing my journey.

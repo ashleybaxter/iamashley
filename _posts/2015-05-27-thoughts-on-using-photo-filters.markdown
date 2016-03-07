@@ -6,6 +6,8 @@ categories: personal
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 Filters, are they good or bad? I'm not talking about iPhone snaps via Instagram, but the more serious photographer using filters (such as <a href="http://vsco.co/film">VSCO</a>) to edit their photos.

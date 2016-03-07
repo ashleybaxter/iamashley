@@ -6,6 +6,8 @@ categories: personal
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 <p>The anniversary of my father&#8217;s death (21/07) should be a grim day, and I admit I could easily allow it to descend into that if I think not of the opportunities that have arisen as a result of his passing, but what I am missing by not having my old man here.</p>

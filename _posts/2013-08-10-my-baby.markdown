@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 <p>I have finished building the initial version of my first app, <a title="Lodger" href="http://lodgerapp.com">Lodger</a>. Of course, I use the word &#8220;finished&#8221; loosely. I don&#8217;t think my work will ever be done, and the very reason I&#8217;ve yet to officially announce it is because I still find myself using the app and scrutinising every detail. Every detail, including syntax indentations.</p>

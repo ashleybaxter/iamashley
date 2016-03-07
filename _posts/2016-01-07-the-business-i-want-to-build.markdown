@@ -8,6 +8,8 @@ author_url : /about
 author_avatar: avatar
 show_avatar : true
 show_related_posts: false
+displayed: no
+hidden: true
 ---
 
 <a href="http://insurancebyjack.co.uk">Insurance by Jack</a> in its current model is my MVP. The embarrassing thing is, though, that it's been in a minimally viable state for too long.
@@ -20,7 +22,7 @@ I didn't build an audience in an industry I was familiar with and promote a prod
 
 This was an established business in an industry I had nil experience with, and I was expected to make it work.
 
-I inherited the name of the company, its visual identity, the customer base and the products. All the factors that are vital to the success of a business had been predetermined for me.
+I inherited the name of the company, its visual identity, the customer base and products. All the factors that are vital to the success of a business had been predetermined for me.
 
 It had worked for my Dad, but it wasn't working for me.
 
@@ -48,17 +50,17 @@ Creating an insurance product and building a platform to distribute it through c
 
 I did't have the luxury of time on my side, so I started with a product a third party had created, using their platform to sell it through.
 
-The one thing I do control, and what I spent the majority of my time and money on, was an online presence. A website that embodies the type of insurance company I've always wanted to create (<a href="http://simpleasmilk.com/case-studies/insurance-by-jack/">case study</a>).
+The one thing I do control, and what I spent the majority of my time and money on, was an online presence. A website that embodies the type of insurance company I've always wanted to create (there's a <a href="http://simpleasmilk.com/case-studies/insurance-by-jack/">case study</a> on that).
 
 No corporate blabber, just insurance on a first-name basis with design at its core.
 
 <h2>The Cons</h2>
 
-It may be efficient and low-cost to launch as an affiliate, but there are a lot of cons.
+It may be efficient and low-cost to launch as an affiliate, but there are a lot of drawback.
 
 Firstly, I think the term itself has negative connotations. It conjures thoughts of sleazy marketing tactics or low quality products.
 
-The best way to approach being an affiliate is to develop a resource (for example, a blog) that delivers value to people. Through sharing this value you build trust with an audience, making it easier to sell recommended products through your blog.
+The best way to approach being an affiliate is to develop a resource (for example, a blog) that delivers value to people. Through sharing this value you build trust with an audience, making it easier to sell recommended products through your blog. Read <a href="http://www.smartpassiveincome.com/affiliate-marketing-strategies/">Pat Flynn's blog</a> for a better idea.
 
 In other words, being an affiliate works much better when it isn't your primary or sole source of income.
 
@@ -66,7 +68,7 @@ And then there's the lack of control. With everything.
 
 The customer journey, the quote system, any interactions beyond my landing page. The second someone clicks 'Get a quote', they're gone from my watchful eye. I have no idea if I made a sale, or what they thought of the experience.
 
-As I'm not authorised, I'm not allowed access to customer data. Who is buying from me? Am I attracting the market I think I am? Which marketing channel is converting best?
+As I'm not authorised, I'm not allowed access to customer data. Who is buying from me? Am I attracting the audience I think I am? Which marketing channel is converting best?
 
 It's impossible to build a business based on blind assumption, yet that's what I'm doing.
 
@@ -76,7 +78,7 @@ My goal is to build a personable insurer with design at its core, using technolo
 
 The lack of control with customer interaction, design and technology contradicts the business I want to build.
 
-I've portrayed aspects of the brand I want to create through the design, illustrations and words on the site, but that's all they are. Words and pictures on a screen. They don't yet reflect a real company.
+I've portrayed aspects of the brand I want to create through the design, illustrations and words on the site. But that's all they are—words and pictures on a screen. They don't yet reflect a real company.
 
 <img src="/img/blog/jack-home.jpg" alt="Insurance by Jack">
 

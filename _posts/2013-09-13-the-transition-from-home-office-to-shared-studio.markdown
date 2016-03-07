@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 <p>Aside from a short stint in a call centre during college, I&#8217;ve spent most of my adult life working from home. In fact, this summer would have marked <a title="8 Years Later" href="http://iamashley.co.uk/blog/8-years-later/">8 years</a> of this routine; one that had grown to feel solitary and monotonous.</p>

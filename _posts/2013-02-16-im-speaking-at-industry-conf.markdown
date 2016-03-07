@@ -6,6 +6,8 @@ categories: personal
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 <p>In a little over 2 months, I will be delivering my first public talk at <a title="Industry Conf" href="http://industryconf.com/">Industry</a> – a conference for web industry professionals in Newcastle.</p>

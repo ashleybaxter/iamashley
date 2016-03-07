@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 <p>Public speaking is <em>scary</em>—I hate, hate, <em>hate</em> it. Starting a business is scary. Yet I knew speaking at <a href="http://dotyork.com" title="Dot York">Dot York</a> to 200 people, where I talked of my struggle with my previous business and subsequently launched my new venture, was actually going to be the easy part. Now I have to make this thing work.</p>
 

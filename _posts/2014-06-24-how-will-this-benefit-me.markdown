@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 "How will this benefit me?" When presented with a work-related opportunity, this is the question I ask myself.

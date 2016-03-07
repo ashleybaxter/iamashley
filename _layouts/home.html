@@ -9,6 +9,7 @@ layout: with-sidebar
 
 <div class="home-page-posts animated fadeIn ">
     {% for post in paginator.posts %}
+
     <article class="post">
         <div class="post-preview col-xs-10  no-gutter">
             <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
@@ -16,8 +17,10 @@ layout: with-sidebar
             {{ post.excerpt | truncatewords: 38 }}
         </div>
     </article>
+
     {% endfor %}
 
+{% if post.displayed == yes and > 7  %}
     <div class="pagination">
       {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
@@ -31,6 +34,7 @@ layout: with-sidebar
       <span class="next ">Next</span>
       {% endif %}
     </div>
+  {% endif %}
 
 </div><!-- Home page posts -->
 

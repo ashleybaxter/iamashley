@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 <p>I was awarded &#8216;Most Likely To Be Famous&#8217; in my high school&#8217;s yearbook. Complete with fake Oscar-like trophy (seriously, I <em>must</em> dig out this yearbook), I remember awkwardly posing for the camera, the charming naïvety of my 16-year-old self unaware that touring the world as a drummer in the back of a filthy van <em>wouldn&#8217;t</em> be my future. My future, in fact, would be to <a href="http://brokersdirect.co.uk">sell insurance</a>.</p>
 <p>If I had known the reality of not going on to fulfil my adolescent dreams, my teenage years would have been plagued by hopelessness, likely even depression.</p>

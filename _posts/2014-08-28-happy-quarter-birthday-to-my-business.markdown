@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 My business, <a href="http://insurancebyjack.co.uk">Insurance by Jack</a>, has survived a whole quarter. Not exactly worthy of a feature on <a href="https://thedistance.com/">The Distance</a>, but I'm working on it. Whilst it certainly hasn't made me rich, I have recouped over 50% of what I've invested into the business.

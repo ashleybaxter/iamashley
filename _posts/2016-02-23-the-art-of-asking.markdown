@@ -8,6 +8,8 @@ author_url : /about
 author_avatar: avatar
 show_avatar : true
 show_related_posts: false
+displayed: no
+hidden: true
 ---
 
 This started out as a very different post. I was planning on sharing my insurance business roadmap—what explicit steps are needed to make <a href="http://iamashley.co.uk/business/2016/01/07/the-business-i-want-to-build/">my vision</a> a reality.

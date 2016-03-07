@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 
 It fascinates me that a series of seemingly insignificant events can potentially be tiny dots connecting to something much bigger—something which can change the course of your life, or simply provide you with options that weren't previously available to you.

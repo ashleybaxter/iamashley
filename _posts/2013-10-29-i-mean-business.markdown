@@ -6,6 +6,8 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
+displayed: no
+hidden: true
 ---
 <p>Most people are feeling the pinch. Times are tough, and in every industry companies are working twice as hard to generate half as much money. At least that&#8217;s how it feels to me.</p>
 <p>I&#8217;ve noticed a definite shift in the insurance industry – which I work in – over the past decade, watching the landscape grow more competitively. Comparison websites are dominating the media, and major supermarkets, who have the budget and ability to reach more people, are now offering an extensive range of insurance products. How am I meant to compete with this?</p>
