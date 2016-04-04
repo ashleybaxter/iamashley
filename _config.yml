@@ -15,6 +15,7 @@ footer_links:
     Home: ['Blog', '/']
     About: ['About', '/about']
     Coworking: ['Coworking', '/coworking']
+    Newsletter: ['Newsletter', '/newsletter']
     Contact: ['hello@iamashley.co.uk', 'mailto:hello@iamashley.co.uk']
 gems: [jekyll-paginate]
 future: true
