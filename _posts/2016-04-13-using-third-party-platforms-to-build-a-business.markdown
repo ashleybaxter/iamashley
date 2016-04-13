@@ -30,11 +30,11 @@ A couple of significant changes happened in 2005, just as my Dad passed away and
 
 1. Comparison websites burst onto the scene and changed the way people shop for insurance. Fewer people used Google to find cover. Instead they flocked to aggregator sites for a list of insurers based on who was the cheapest. This impacted the industry negatively. For insurers, it became about cost competing. This drove the price of premiums down, leaving little (if any) profit. Consumers made decisions based on price instead of level of cover or service.
 
-2. Google overhauled their ranking algorithm. Gone was the emphasis on keywords—now it was about content and social factors, of which we had invested no time into. Our rankings dropped significantly. We were now invisble on the one channel that sustained us.
+2. Google overhauled their ranking algorithm. Gone was the emphasis on keywords—now it was about content and social factors, of which we had invested no time into. Our rankings dropped significantly. We were now invisible on the one channel that sustained us.
 
 Even if we focused on improving our rankings, the buying behaviour of consumers shopping for insurance had changed. Since we'd recklessly put all our eggs in Google's basket, the business was at risk.
 
-This was over a decade ago. Our customer aquisition has diversified, but we're still more vulnerable than I'd like to be.
+This was over a decade ago. Our customer acquisition has diversified, but we're still more vulnerable than I'd like to be.
 
 Even now, my business relies on third-parties. I sell someone else's product (insurance policy), use someone else's platform (quote system), and market on someone else's service (Twitter, Facebook etc.).
 
