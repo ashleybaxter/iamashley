@@ -46,7 +46,7 @@ To reduce my platform dependency and have better control over my business, I'm w
 * Selling a policy I had influence in creating
 * Building my own system to distribute it through
 
-The consequences of putting your livelihood in other platforms can be huge.
+The consequences of putting your trust in other platforms can be huge.
 
 <a href="http://arstechnica.com/business/2013/09/how-zynga-went-from-social-gaming-powerhouse-to-has-been/">A famous example is Zynga</a>, whose entire business model was built around publishing games on Facebook. Facebook changed its policies and Zynga's traffic fell substantially.
 
@@ -54,6 +54,6 @@ Facebook wanted to limit Zynga's activity… and they _could_, because Zynga had
 
 Just recently, one of the insurers I was an affiliate for ceased their partner program entirely. This is why I'd discourage people from hosting their blog on <a href="https://medium.com/">Medium</a>, or centering their marketing strategy around <a href="https://www.producthunt.com/">Product Hunt</a>, or building a business selling another company's product.
 
-When you build your business on top of someone else’s platform, rather than building your own, you've given up control.
+When you build your business on top of someone else’s platform, rather than building your own, you're giving up control.
 
 If the conditions change or the platform disappears altogether, you're screwed. Using third-party platforms may be the quickest way to getting started, but it's also the quickest way to go out of business.
