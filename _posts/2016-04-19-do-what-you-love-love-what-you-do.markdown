@@ -44,4 +44,4 @@ The 'Do What You Love' message is everywhere. It's a <a href="https://www.ted.co
 
 Your happiness doesn't hinge on doing what you love.
 
-Whatever it is you're working on, it's your responsibilty to make it fun and relevant to your passion. You don't have to do what you love, but—with the same approach as coffee serving, music lovin' John—you can love what you do.
+Whatever it is you're working on, it's your responsibility to make it fun and relevant to your passion. You don't have to do what you love, but—with the same approach as coffee serving, music lovin' John—you can love what you do.
