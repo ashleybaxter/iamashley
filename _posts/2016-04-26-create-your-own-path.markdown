@@ -26,7 +26,7 @@ My set of circumstances was unique, but anybody can create their own path. It's 
 
 Curious about a topic? Follow your nose and learn about it. Commitment and consistency go a long way where self-education is concerned. Apply what you're learning to a side project or portfolio and, hey presto, you're a candidate for a career in tech.
 
-<img src="/img/blog/techpanel.jpg" alt="Me on the Digital World tech panel">
+<img src="/img/blog/panel.jpg" alt="Me on the Digital World tech panel">
 
 I talk about my path in tech, yet I work in a non-technical business. Insurance. Landing in a role in 2005 that didn't gel with my personality or interests, I created my own version of the job. I inherited my Dad's business, yet I don't approach or run it like he did.
 
