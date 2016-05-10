@@ -20,7 +20,7 @@ I had to learn on the job—_and quickly_.
 
 With it being a small business, I learned a bit of everything. Front-end / back-end development, marketing, <a href="/business/2016/04/13/using-third-party-platforms-to-build-a-business/">SEO</a> etc. Just enough to get by. I'm a generalist.
 
-I touched upon my background during the panel, but I didn't go into depth for fear of getting too personal.
+I touched upon my background during the panel, but avoided going into depth for fear of getting too personal.
 
 My set of circumstances was unique, but anybody can create their own path. It's 2016—there is no set route into tech! You can bypass university and traditional employment, _if_ that's what you want.
 
@@ -40,7 +40,9 @@ I'm building <a href="http://insurancebyjack.co.uk">an insurance company</a> wit
 
 In this era, it's possible to _create_ a career unique to your strengths and interests.
 
-In terms of transitioning from student to traditional employment, there wasn't anything I could contribute to the panel, but I had an alternative message to deliver. With 7 of us discussing the options with a limited timeframe of 20 minutes—and my lack of confidence with public speaking—I felt my message was lost.
+In terms of transitioning from student to traditional employment, there wasn't anything I could contribute to the panel. I had an alternative message to deliver.
+
+With 7 of us discussing the options within a limited timeframe of 20 minutes—and my lack of confidence with public speaking—I felt my message was lost.
 
 Fortunately, <a href="http://www.jamesaltucher.com/">James Altucher</a> sums up my thoughts perfectly.
 
