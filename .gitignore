@@ -1,2 +1,6 @@
+#Ignore any build files
 _site/
 _drafts/
+
+#Ignore Sass Cache
+.sass-cache
