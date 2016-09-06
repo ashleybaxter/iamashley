@@ -6,7 +6,6 @@ categories: personal
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
-displayed: no
 hidden: true
 ---
 

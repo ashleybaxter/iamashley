@@ -8,8 +8,7 @@ author_url : /about
 author_avatar: avatar
 show_avatar : true
 show_related_posts: false
-displayed: yes
-hidden: false
+hidden: true
 ---
 During the 5-hour drive to <a href="https://www.instagram.com/p/BFGONzHrXZY/?taken-by=ashleybaxter">Skye</a> I caught up on podcasts. Lewis Howes' episode <a href="http://lewishowes.com/podcast/lone-wolf/">'Are You A Lone Wolf?'</a> from The School of Greatness stood out to me. Particulary the African Proverb he opened with.
 

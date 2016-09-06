@@ -8,8 +8,7 @@ author_url : /about
 author_avatar: avatar
 show_avatar : true
 show_related_posts: false
-displayed: yes
-hidden: false
+hidden: true
 ---
 
 Seth Godin's <a href="https://www.amazon.co.uk/Dip-extraordinary-benefits-knowing-stick/dp/0749928301/ref=sr_1_1?ie=UTF8&qid=1461228064&sr=8-1&keywords=the+dip">The Dip</a> is a tiny book. It's 96 pages short, yet it helped me arrive at an important life decision.

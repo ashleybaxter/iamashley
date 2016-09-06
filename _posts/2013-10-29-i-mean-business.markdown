@@ -6,7 +6,6 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
-displayed: no
 hidden: true
 ---
 <p>Most people are feeling the pinch. Times are tough, and in every industry companies are working twice as hard to generate half as much money. At least that&#8217;s how it feels to me.</p>

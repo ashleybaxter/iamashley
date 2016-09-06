@@ -8,8 +8,7 @@ author_url : /about
 author_avatar: avatar
 show_avatar : true
 show_related_posts: false
-displayed: yes
-hidden: false
+hidden: true
 ---
 
 Last week the <a href="https://www.digitalworld.net/">Digital World</a> roadshow arrived in Edinburgh. Alongside two of Scotland's billion-dollar tech companies (that's a whole other post about <a href="https://twitter.com/iamashley/status/722014688180051968">imposter syndrome</a>), I joined the panel to discuss careers in tech.

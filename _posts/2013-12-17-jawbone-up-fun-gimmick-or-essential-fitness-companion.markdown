@@ -6,7 +6,6 @@ categories: personal
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
-displayed: no
 hidden: true
 ---
 <p>I don&#8217;t wear jewellery. It&#8217;s something I never think to spend money on, unless it can track my sleep, diet and movement. I&#8217;m referring to the <a href="http://www.amazon.co.uk/s/?_encoding=UTF8&#038;camp=1634&#038;creative=19450&#038;field-keywords=jawbone%20up&#038;linkCode=ur2&#038;sprefix=jawbone%2Caps%2C202&#038;tag=rockedelig-21&#038;url=search-alias%3Daps" title="Jawbone Up">Jawbone Up</a>, of course, which I&#8217;ve consistently worn for six months. Day. And. Night. Throughout the six months, my relationship with Up has meandered from fun gimmick and downright frustrating, to essential fitness companion.</p>

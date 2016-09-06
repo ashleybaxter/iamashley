@@ -8,8 +8,7 @@ author_url : /about
 author_avatar: avatar
 show_avatar : true
 show_related_posts: false
-displayed: yes
-hidden: false
+hidden: true
 ---
 
 Creatives have a lot of ideas and interests, but it often leads to a lack of focus. If, like me, you want to build a business but have multiple interests, choosing just one to concentrate on is difficult. And downright scary.

@@ -6,7 +6,6 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
-displayed: no
 hidden: true
 ---
 <p>A year ago, I answered <a href="http://www.quora.com/Ruby-on-Rails-web-framework/How-can-I-get-better-at-using-Ruby-on-Rails">a question on Quora</a> regarding Ruby on Rails and how I learned to program. It got voted up a bit, and now I sometimes receive contact from Quora users probing for a more detailed description on the topic of &#8216;how to learn to program&#8217;.</p>

@@ -6,7 +6,6 @@ categories: business
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
-displayed: no
 hidden: true
 ---
 … I set up Goals in Google Analytics. I'm kicking myself for not doing it sooner. 

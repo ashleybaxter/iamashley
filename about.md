@@ -1,10 +1,8 @@
 ---
-layout: author
+layout: page
 title: About
-permalink: /about/
-feature_image: feature-indie
-author_avatar: avatar
-author_name: Ashley Baxter
+description: Who is Ashley?
+banner_image: aboutPage.jpg
 ---
 
-Ashley Baxter is currently building <a href="http://withjack.co.uk">Jack</a>, business insurance on a first name basis. She is also Director of <a href="https://brokersdirect.co.uk/">Brokers Direct</a>. Ashley likes video games, <a href="http://girlwithacamera.co.uk">photography</a>, and her dog, <a href="https://www.instagram.com/p/7nf5yJLXYt/?taken-by=ashleybaxter">Indie</a>. She is based in Glasgow, Scotland.
+**Ashley Baxter** is currently building [Jack](https://withjack.co.uk), business insurance on a first name basis. She is also Director of [Brokers Direct](https://brokersdirect.co.uk). Ashley likes video games, photography, and her dog, Indie. She is based in Glasgow, Scotland.

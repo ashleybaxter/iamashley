@@ -6,7 +6,6 @@ categories: personal
 author_name : Ashley
 author_url : /about
 author_avatar: ashley
-displayed: no
 hidden: true
 ---
 <p>Every time I&#8217;ve taken to something new, whether it be photography or &#8211; more recently – programming, I&#8217;ve been humbled by the help, advice and encouragement I&#8217;ve received from those smarter than myself. I&#8217;m eternally grateful for the fact someone is willing to selflessly give me their time or expertise and expect nothing in return.</p>

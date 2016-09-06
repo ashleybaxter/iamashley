@@ -1,21 +1,63 @@
-# Site settings
-title: Ashley Baxter
-email: hello@iamashley.co.uk
-description: > # A blog about building an insurance business
-url: "http://iamashley.co.uk"
-enable_retina: true
-permalink: pretty
-paginate: 7
-nav_list:
-  Home : ['Blog', '/', 'fa-home']
-  About : ['About', '/about', 'fa-user']
-  Coworking : ['Coworking', '/coworking', 'fa-anchor']
-single_footer: '<p>&copy; Ashley Baxter | <a href="https://twitter.com/iamashley">Twitter</a> | <a href="https://instagram.com/ashleybaxter">Instagram</a></p>'
-footer_links:
-    Home: ['Blog', '/']
-    About: ['About', '/about']
-    Coworking: ['Coworking', '/coworking']
-    Newsletter: ['Newsletter', '/newsletter']
-    Contact: ['hello@iamashley.co.uk', 'mailto:hello@iamashley.co.uk']
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site title
+title: "Ashley Baxter"
+
+# A description of your site for social meta tag, search engines, and feed.xml
+description: "A transparent account of building an insurance business"
+
+# Tagline near the site title
+tagline: ""
+
+# The subpath of your site, e.g. /blog, for generating urls
+baseurl:
+
+sass:
+  sass_dir: _sass
+
+# The base hostname & protocol of your site for where absolute urls are needed
+url: "iamashley.co.uk"
+
+# Site navigation - each item must have a title and a url.
+navigation:
+- text: Home
+  url: /
+- text: About
+  url: /about/
+- text: Newsletter
+  url: /newsletter/
+- text: Archives
+  url: /tags/
+
+# The shortname for your Disqus site to enable comments.
+disqus:
+
+# Author information - author info at the bottom of the post
+author_name: "Ashley Baxter"
+author_bio: "Ashley is building Jack, business insurance on a first name basis. She likes video games, photography, and her dog, Indie. Based in Glasgow, Scotland."
+author_url:  "iamashley.co.uk"
+author_location: "Glasgow, Scotland"
+author_image: /images/authorimage.png
+
+# Sidebar Add banner
+banner_url: "https://jwithjack.co.uk"
+banner_image: images/banner.jpg
+
+# Social links in the site footer
+twitter_username: "iamashley"
+instagram_username: "ashleybaxter"
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 5
+paginate_path: '/blog/page:num/'
 gems: [jekyll-paginate]
-future: true
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+    auto_ids: false

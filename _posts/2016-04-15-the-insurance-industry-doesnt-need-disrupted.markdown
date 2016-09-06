@@ -8,8 +8,7 @@ author_url : /about
 author_avatar: avatar
 show_avatar : true
 show_related_posts: false
-displayed: yes
-hidden: false
+hidden: true
 ---
 
 It's buzzword central in the insurance industry at the moment. There's a lot of rumbling about 'disruption', innovation and moving things in a digital direction.

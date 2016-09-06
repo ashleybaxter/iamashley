@@ -8,8 +8,7 @@ author_url : /about
 author_avatar: avatar
 show_avatar : true
 show_related_posts: false
-displayed: yes
-hidden: false
+hidden: true
 ---
 
 When my Dad first founded <a href="https://brokersdirect.co.uk">the business</a> I'd later inherit, SEO was very much a 'thing'. It was the late 90's—you could build an entire business around keyword optimisation.

@@ -8,7 +8,6 @@ author_url : /about
 author_avatar: avatar
 show_avatar : true
 show_related_posts: false
-displayed: no
 hidden: true
 ---
 

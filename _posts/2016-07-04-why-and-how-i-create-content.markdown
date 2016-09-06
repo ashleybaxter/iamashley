@@ -8,8 +8,7 @@ author_url : /about
 author_avatar: avatar
 show_avatar : true
 show_related_posts: false
-displayed: yes
-hidden: false
+hidden: true
 ---
 
 After cutting <a href="https://www.instagram.com/p/BGwcMryLXeH/?taken-by=ashleybaxter">my holiday</a> down to just one week, <a href="https://twitter.com/_mdhayes">Michael</a> asked me to speak at RookieOven Academy on the subject of marketing and creating content.
