@@ -175,4 +175,4 @@ It's taken me a long time to get to this point. My journey began in 2005 when I 
 
 Despite the lengthy build-up towards launch—not to mention the intensity of launch week itself—the reality is the hard work begins **now**.
 
-I'm blogging about how I'm building my insurance business. Never miss an update by signing up to <a href="/newsletter">my newsletter</a>.
+I'm blogging about how I'm building my insurance business. Never miss an update by signing up to <a href="/newsletter">the newsletter</a>.
