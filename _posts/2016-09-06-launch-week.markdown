@@ -169,11 +169,9 @@ Channels with highest conversions:
 
 Unleashing your idea into the world is intense. I felt a number of things. Excitement, fear, elation, *deliriousness*…
 
-What if people hate Jack? What if it's a success and my life changes? Am I ready for whatever this is going to throw at me?
+What if people hate Jack? What if it's a success and my life changes? Am I ready for whatever this throws at me?
 
-It's taken me a long time to get to this point. My journey began in 2005 when I inherited <a href="https://brokersdirect.co.uk">my Dad's insurance business</a>. Although things are getting better, I noticed insurers weren't investing adequate resources into their design and technology. As a result, I wanted to build an insurance company with design and technology at the heart of it. It took years to get the ball rolling with this. I experienced lot of rejection and setbacks.
-
-Irrespective of how Jack pans out, it's a triumph in itself to even get to this point.
+It's taken me a long time to get to this point. My journey began in 2005 when I inherited <a href="https://brokersdirect.co.uk">my Dad's insurance business</a>. Although things are getting better, I noticed insurers weren't investing adequate resources into their design and technology. As a result, I wanted to build an insurance company with design and technology at the heart of it. It took years to get the ball rolling with this. I experienced lot of rejection and setbacks. Irrespective of how Jack pans out, it's a triumph in itself to even get to this point.
 
 Despite the lengthy build-up towards launch—not to mention the intensity of launch week itself—the reality is the hard work begins **now**.
 
