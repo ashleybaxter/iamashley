@@ -24,7 +24,7 @@ Since Jack launched I've processed 70+ quotes, all of which are at various stage
 
 ### Custom-built CRM
 
-<a href="http://scottriley.im/">Scott</a> has been a dream to work with. Not only did he design and build <a href="http://withjack.co.uk/quote">Jack's quote form</a>, but he created a CRM tool to integrate it with. He's one talented guy. Hire him.
+<a href="http://www.scott.is/">Scott</a> has been a dream to work with. Not only did he design and build <a href="http://withjack.co.uk/quote">Jack's quote form</a>, but he created a CRM tool to integrate it with. He's one talented guy. Hire him.
 
 This is where all of the quote data lives. I'm notified when new quotes come in and each one is assigned a unique code.
 
@@ -36,9 +36,9 @@ We built this on a shoestring budget. It's super lightweight and very much a MVP
 
 ### DocuSign
 
-Next year I'll be processing quotes and issuing cover instantly online. In the meantime, however, there are a couple of extra steps involved with manually processing cover.
+Next year I'll be processing quotes and issuing cover instantly online. In the meantime, there are a couple of extra steps involved with manually processing cover.
 
-Every customer has to sign a 'Statement of Fact' document once they purchase insurance, which I then forward to the insurer.
+Every customer has to sign a 'Statement of Fact' document once they purchase insurance. I forward this to the insurer.
 
 Imagine a digital insurance company needing you to print, sign and return a form in the post? Ain't nobody got time for that.
 
