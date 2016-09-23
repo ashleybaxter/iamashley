@@ -18,7 +18,7 @@ My sales funnel looks like this:
 
 ##### Lead In > Contact Made > Quote > Risk Questions
 
-Since Jack launched I've processed 70+ quotes, all of which are at various stages in the funnel. On average it takes 5 days to close a sale. I'd be lost without Pipedrive.
+Since Jack launched I've processed 70+ quotes, all of which are at various stages in the funnel. On average it takes 5 days to close a sale. I'd be lost without a means of tracking quotes.
 
 <strong>Cost: £120 per year</strong>
 
@@ -32,7 +32,7 @@ This is where all of the quote data lives. I'm notified when new quotes come in 
 
 If the customer wishes to progress to the next step, I can send the risk questions from the CRM tool. The unique code tracks who has answered them.
 
-We built this on a shoestring budget. It's super lightweight and very much a MVP, but it does exactly what I need it to do—no bells and whistles.
+We built this on a shoestring budget. It's super lightweight and very much a MVP, but it does what I need it to do—no bells and whistles.
 
 ### DocuSign
 
