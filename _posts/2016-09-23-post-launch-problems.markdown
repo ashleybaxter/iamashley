@@ -30,11 +30,11 @@ This could also be filed under _"learning to understand my audience's needs"_.
 
 My goal is to make insurance simpler. I may be biased, but I think <a href="https://withjack.co.uk/quote">Jack's quote system</a> ticks that box. It asks the questions it needs to get you a quote—nothing more.
 
-All insurers have different question sets for cover. Some insurers demand endless forms to be filled in, while others require a few key details. We work with an insurer who falls into the latter category, but it comes at a cost (quite literally). Higher premiums.
+All insurers have different question sets for cover. Some demand endless forms to be filled in, while others require a few key details. We work with an insurer who falls into the latter category, but it comes at a cost (quite literally). Higher premiums.
 
 Recently I added another insurer to my roster. While their premiums are cheaper, they request _a lot_ more information upfront—some of which doesn't feel relevant for freelancing. It doesn't jive with the simple, freelance friendly process we're creating at Jack.
 
-But maybe I've got this all wrong. Perhaps people _are_ willing to spend an extra 15 minutes when buying insurance to save money.
+But maybe I've got this all wrong. Perhaps freelancers _are_ willing to spend an extra 15 minutes when buying insurance to save money.
 
 Should I compromise on Jack's ethos to give my customers access to cheaper premiums, or do they value convenience and simplicity more?
 
