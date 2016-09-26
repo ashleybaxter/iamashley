@@ -24,9 +24,7 @@ Jack experienced a surge of traffic during launch week, which in turn brought le
 
 But what happens when launch traffic dries up? You need to find a way to keep a steady stream of traffic (and leads) coming in. How do you do that once the initial buzz has died down? That's what I'm trying to figure out.
 
-### Making Difficult Decisions
-
-This could also be filed under _"learning to understand my audience's needs"_.
+### Understanding My Audience's Preferences
 
 My goal is to make insurance simpler. I may be biased, but I think <a href="https://withjack.co.uk/quote">Jack's quote system</a> ticks that box. It asks the questions it needs to get you a quote—nothing more.
 
@@ -56,7 +54,7 @@ A lot of insurers have been around for a long time. They're decades old. They've
 
 Jack is __one month old__, yet I'm competing against insurers who have decades of experience.
 
-This can work _in_ my favour—the industry needs fresh thinking and ideas. But at the moment, with starting a company from scratch, Jack is a little lean compared to its competitors.
+This can work _in_ my favour—the industry needs fresh thinking and ideas. But at the moment, with starting a company from scratch, Jack is a little lean compared to its competitors in terms of features, tools and benefits.
 
 How do I convince people to get onboard with a new business?
 
