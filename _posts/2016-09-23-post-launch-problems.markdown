@@ -10,7 +10,7 @@ If it was easy everybody would be self-employed. Last month I launched <a href="
 
 ### Traffic Slump
 
-Launch day (<a href="http://iamashley.co.uk/2016/09/06/launch-week/">or week in my case</a>) brings a surge of traffic.
+Launch day (<a href="http://iamashley.co.uk/2016/09/06/launch-week/">or week</a>) brings a surge of traffic.
 
 {% include image_full.html imageurl="/images/posts/launch_week_traffic.jpg" title="Launch week traffic" caption="Launch week traffic" %}
 
@@ -18,9 +18,9 @@ You've shipped something new, people are eager to check it out. They'll tweet ab
 
 You might even get <a href="https://www.producthunt.com/tech/insurance-by-jack">'Hunted'</a> or featured on <a href="https://www.designernews.co/stories/73720-site-design-jack--bespoke-business-insurance-for-freelance-creatives">Designer News</a>. The really smart people will have built a list of loyal followers to launch to.
 
-If you've done things right in the build-up, launch day will do the work for you when it comes to driving traffic and generating interest in your product.
+If you've done things right in the build-up, launch day will do the work for you when it comes to driving traffic.
 
-Jack experienced a surge of traffic during launch week, which in turn brought leads. Lots of them. Some of those leads became my first customers.
+Jack experienced a surge of traffic during launch week, which in turn brought leads. Lots of 'em. Some of those leads became my first customers.
 
 But what happens when launch traffic dries up? You need to find a way to keep a steady stream of traffic (and leads) coming in. How do you do that once the initial buzz has died down? That's what I'm trying to figure out.
 
@@ -50,8 +50,23 @@ Some days are quiet in terms of leads coming in, but with busy periods these pro
 
 I haven't sent that newsletter, written that blog post, published those adverts, updated social media etc.
 
+### The Insurance Industry Is Hundreds of Years Old
+
+A lot of insurers have been around for a long time. They're decades old. They've had years to hone their processes and improve their product.
+
+Jack is __one month old__, yet I'm competing against insurers who have decades of experience.
+
+This can work _in_ my favour—the industry needs fresh thinking and ideas. But at the moment, with starting a company from scratch, Jack is a little lean compared to its competitors.
+
+How do I convince people to get onboard with a new business?
+
 #### These Are Good Problems To Have
 
-It's taken me a long time to launch Jack, so I'm happy to be having these 'problems'. It's fun figuring this stuff out. I've been in business long enough to know that it never does get easy.
+* Keeping traffic flowing post-launch
+* Finding out what's important to my customers
+* Balancing bringing in new business with binding new business
+* Getting people onboard with a new company
 
-Challenge accepted.
+It's taken me a long time to launch Jack, so I'm happy to be having these 'problems'. It's fun figuring this stuff out.
+
+I've been in business long enough to know that it never does get easy. Challenge accepted.
