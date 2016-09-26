@@ -8,7 +8,7 @@ tags: [business, jack]
 
 If it was easy everybody would be self-employed. Last month I launched <a href="https://withjack.co.uk">Jack</a>, so what issues have I faced with the first month in business?
 
-### Traffic Slump
+### That Post-Launch Traffic Slump
 
 Launch day (<a href="http://iamashley.co.uk/2016/09/06/launch-week/">or week</a>) brings a surge of traffic.
 
@@ -48,7 +48,7 @@ Some days are quiet in terms of leads coming in, but with busy periods these pro
 
 I haven't sent that newsletter, written that blog post, published those adverts, updated social media etc.
 
-### Starting A Business In An Industry That's Hundreds of Years Old
+### Starting A Business In An Industry That's Hundreds Of Years Old
 
 A lot of insurers have been around for a long time. They're decades old. They've had years to hone their processes and improve their product.
 
