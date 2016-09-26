@@ -48,7 +48,7 @@ Some days are quiet in terms of leads coming in, but with busy periods these pro
 
 I haven't sent that newsletter, written that blog post, published those adverts, updated social media etc.
 
-### The Insurance Industry Is Hundreds of Years Old
+### Starting A Business In An Industry That's Hundreds of Years Old
 
 A lot of insurers have been around for a long time. They're decades old. They've had years to hone their processes and improve their product.
 
