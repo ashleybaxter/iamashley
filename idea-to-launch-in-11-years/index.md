@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Idea To Launch In 11 Years
-description: 
+description: The talk I gave at Hybrid Conf, Idea To Launch In 11 Years
 banner_image: ideaPage.jpg
 ---
 
