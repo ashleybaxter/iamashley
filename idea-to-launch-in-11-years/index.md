@@ -63,7 +63,7 @@ Insurance is vastly different to creative industries. It's different to the web 
 
 Insurance isn't like that. It's not very transparent. It's difficult to find real, tangible advice on how to take your idea and turn it into a business in the insurance sector.
 
-If you enter the industry from an unconventional background, like I did, with no formal work experience, qualifications or contacts… you're going to have a hard time of it.
+I entered the industry from an unconventional background, with no formal work experience, qualifications or contacts.
 
 It makes what's already an industry with a high barrier to entry even more challenging to break into.
 
@@ -115,7 +115,7 @@ I definitely did some brand damage to Jack by going down that route. People came
 
 {% include image_full.html imageurl="/images/ideatolaunch/021.jpg" %}
 
-People's expectations not being met resulted in poor sales. With that first version of Jack, it took me _3 weeks_ to make my first sale. But with the current version—where I've put in the time, effort and expense to build my own platform—I made my first sale 3 weeks _before_ I even launched.
+People's expectations not being met resulted in poor sales. With that first version of Jack, it took me _3 weeks_ to make my first sale. But with the current version—where I've put in the time, effort and expense to build my own platform—I made my first sale 3 weeks _before_ I launched.
 
 But that wasn't even the biggest problem I had. The company I'd built my business on top of ended their partnership program, which they were within their rights to do so. But as I was building my business on top of that platform… suddenly I had no business and there was nothing I could do about it.
 
@@ -129,7 +129,7 @@ The harder route may involve more work, time, effort and expense, but at least y
 
 I'd have gotten to where I want to be a lot quicker had I put in the work in the first place to build my own platform, instead of cutting corners.
 
-Taking the easy route may be the quickest way to getting started, but it’s also the quickest way to go out of business.
+Cutting corners may be the quickest way to getting started, but it’s also the quickest way to go out of business.
 
 {% include image_full.html imageurl="/images/ideatolaunch/024.jpg" %}
 

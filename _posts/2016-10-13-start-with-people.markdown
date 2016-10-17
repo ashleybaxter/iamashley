@@ -46,4 +46,4 @@ Maybe you're just starting out. Perhaps you don't have an audience, idea or prod
 
 Don't get distracted with selling, just focus on helping and serving the network you're building.
 
-Make things easier for future you by starting with people.
+Make things easier for your future self by starting with people.
