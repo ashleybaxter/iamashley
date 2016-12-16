@@ -3,7 +3,7 @@ layout: post
 title:  "Tools I Use"
 date:   2016-09-13
 banner_image: tools_i_use.jpg
-tags: [business, jack]
+tags: [business, jack, tools]
 ---
 
 ### Pipedrive

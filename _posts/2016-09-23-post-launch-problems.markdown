@@ -3,7 +3,7 @@ layout: post
 title:  "Post-Launch Problems"
 date:   2016-09-23
 banner_image: launch_week_traffic.jpg
-tags: [business, jack]
+tags: [business, jack, launch]
 ---
 
 If it was easy everybody would be self-employed. Last month I launched <a href="https://withjack.co.uk">Jack</a>, so what issues have I faced with the first month in business?
