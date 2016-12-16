@@ -20,7 +20,7 @@ Building a business is challenging enough, but doing so without creative control
 
 Anyway… let's get into this.
 
-Almost 4 months in Jack has 40 customers. They're evenly split down the middle with designers and developers, then there's the odd marketer and consultant.
+Almost 4 months in Jack has 41 customers. They're evenly split down the middle with designers and developers, then there's the odd marketer and consultant.
 
 <h3>Top Sources Of Traffic</h3>
 
@@ -83,10 +83,10 @@ Making mistakes is inevitable, as long as they're occasional. Next time I try th
 
 * 16,449 Visitors
 * 660 Quotes
-* 152 Legit Quotes
-* 40 Customers
+* 153 Legit Quotes
+* 41 Customers
 * 26% Conversion Rate
-* £10127.93 Gross Premium Written
+* £10293.93 Gross Premium Written
 
 <h3>Accountability</h3>
 
@@ -107,7 +107,7 @@ I want to grow Jack into a community for freelancers. To have a body of designer
 
 My big goal is to punch an insurer's rates into my system so quotes and cover are instant. I hope I can make that happen in 2017, but it all depends on the volume of business I continue placing.
 
-I want to thank those first 40 customers! Jack doesn't have many features right now–it's pretty barebones. It will get somewhere, but not without support from designers, developers and other freelancers.
+I want to thank those first 41 customers! Jack doesn't have many features right now–it's pretty barebones. It will get somewhere, but not without support from designers, developers and other freelancers.
 
 <h3>Looking Back</h3>
 
