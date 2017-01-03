@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "My Goals For 2017"
+date:   2016-12-31
+banner_image: new_year.jpg
+tags: [personal, business]
+---
+
+Every year I'm guilty of setting too many goals (and vague ones at that). _'Be more successful'_, _'Earn more money'_, _'Get fitter'_. This year I've put more thought into defining my goals.
+
+Business, creativity and fitness are the themes of the year.
+
+<h3>#1: Add more cover features to the quote system</h3>
+
+I launched with one product, professional indemnity insurance. This is the most common type of cover for freelancers and it kept the build process simple for the quote system. Lean startup and all that.
+
+After giving 160+ quotes and putting 47 freelancers on cover, I have a better idea of what cover they commonly require. Worldwide cover, contents insurance and public liability are often requested.
+
+Now I have access to a wide suite of insurance products, I'll be building these into the quote system.
+
+It's a win / win situation and my priority going into 2017. I earn more commission per policy, and freelancers can customise cover to their individual needs. I know I've lost sales due to the quoting process focusing solely on professional indemnity.
+
+Where the money to invest in this will come from is another blog post for another day. (Fun fact: Jack is bootstrapped on £10,000 I earned <a href="http://girlwithacamera.co.uk/weddings">photographing weddings</a>.)
+
+<h3>#2: Build a dashboard for customers</h3>
+
+Customers will be able to login and access their documents, freebies and have an overview of their insurance.
+
+I'm going hack on this project solo to keep costs down (but hire a designer). I've built a Rails app in the past, and I spent the Christmas period brushing up on my Ruby skills… and levelling up in Dragon Age: Inquisiton.
+
+I can already envisage it being a frustrating project to tackle, but I'm open to the challenge.
+
+<h3>#3: Create a referral scheme</h3>
+
+A lot of my first customers have come from referrals. This is handy because Jack is bootstrapped and I'm marketing on a tight budget.
+
+I haven't put much thought into the referral scheme just yet. It will, of course, begin with asking customers, _"What can I do to encourage you to recommend Jack to your friends?"_.
+
+<h3>#4: Double the number of policies I'm selling</h3>
+
+At the moment I'm putting 2-4 people on cover a week. This works out at 150+ customers after a year. I'd like to get to 300.
+
+Right now this feels unlikely, but it's a numbers game, right? With a conversion rate of 26%, it means I need to deliver 1200-odd quotes to get to 300 customers.
+
+Now to attract thousands of freelancers primed to buy insurance to <a href="https://withjack.co.uk">Jack's website</a>. That won't be hard. /sarcasm
+
+<h3>#5: Run a half marathon</h3>
+
+In October I started training for a half marathon. No race in particular, but I was inspired by <a href="https://medium.com/@chadtomkiss/chicago-marathon-2016-4d1cb30c1e8c#.9eb20lxi8">Chad's 27.2 mile jaunt around Chicago</a>. After running four 10K's in the space of a year, I knew I needed to step up to the next milestone.
+
+I've never enjoyed running, but following a training plan on Runkeeper has (mostly) kept me on track. I did contract the flu on Christmas day, so I've fallen a little behind with the plan. This sucks because Santa brought me new trainers.
+
+My goal for 2017 is to sign up and run a half marathon, finishing around the 2 hour mark.
+
+<h3>#6: Sit my next insurance exam</h3>
+
+In March of 2016 I sat and passed my first insurance exam. Studying for this was as painfully dull as you're imagining.
+
+Although it doesn't benefit my career right now, it'll come in handy down the line when I'm aiming for full authorisation (I'm currently an Appointed Representative with limited responsibility).
+
+The best approach I found to studying was blocking out 30 minutes a day. No intensive 2-3 hour sessions, otherwise I wouldn't do it. I love the challenge the insurance industry presents—_not_ the ins-and-outs of the industry itself.
+
+<h3>#7: Do a photo project</h3>
+
+One thing I slacked on in 2016 was photography. I shot a lot of weddings, but I didn't take many photos _for me_. <a href="http://girlwithacamera.co.uk">My blog</a> was updated only 33 times. Compare this to 2011 when it was updated 149 times, it's clear I've fallen behind on doing photography for fun.
+
+I tell people who are just getting started with photography to carry their camera everywhere for 30 days. I need to follow my own advice, so I'll be doing a project that requires a degree of commitment.
+
+I haven't decided what that project will be yet. I'm open to suggestions (but no Project 365, please). 
+
+My ultimate aim for 2017 is for Jack to be delivering instant quotes and cover. I can only get there if I'm generating enough business for an insurer to consider giving me their rates to plug into my system. 
+
+It costs an insurer _a lot_ of money to onboard a broker, so they need to ensure it's worth their resources. If I keep building my book of customers and focusing on creating a good customer experience, I'm confident it'll happen.
