@@ -14,7 +14,7 @@ Launch day (<a href="http://iamashley.co.uk/2016/09/06/launch-week/">or week</a>
 
 {% include image_full.html imageurl="/images/posts/launch_week_traffic.jpg" title="Launch week traffic" caption="Launch week traffic" %}
 
-You've shipped something new, people are eager to check it out. They'll tweet about your product, share on Facebook or maybe mention you on their blog.
+You've shipped something new, people are eager to check it out. They'll tweet about your product, share it on Facebook or mention you on their blog.
 
 You might even get <a href="https://www.producthunt.com/tech/insurance-by-jack">'Hunted'</a> or featured on <a href="https://www.designernews.co/stories/73720-site-design-jack--bespoke-business-insurance-for-freelance-creatives">Designer News</a>. The really smart people will have built a list of loyal followers to launch to.
 
