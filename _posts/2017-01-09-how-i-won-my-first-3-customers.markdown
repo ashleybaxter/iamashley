@@ -42,7 +42,7 @@ Email number 2—where I asked people to test the quote form—was the ideal way
 
 This is how I won my first customer _before_ I launched.
 
-Lesson: Involve your target audience in the build process. At the very least be transparent about what you're working on—people will take an interest and want to support you. 
+<strong>Lesson:</strong> Involve your target audience in the build process. At the very least be transparent about what you're working on—people will take an interest and want to support you. 
 
 <h2>My Second Customer</h2>
 
@@ -50,11 +50,11 @@ I quietly pushed Jack live from a hotel room in Berlin with terrible WIFI.
 
 When I say _quietly_, I didn't announce the service was available. I deployed it to GitHub Pages, walked away and played tourist in Berlin.
 
-The following day I checked my CRM tool and was surprised to see a quote had come through. It was from a name I recognised.
+The following day I checked <a href="/2016/09/13/tools-i-use/">my CRM tool</a> and was surprised to see a quote had come through. It was from a name I recognised.
 
 This person had been following me <a href="http://twitter.com/iamashley">on Twitter</a> for years. Our first exchange was 5 years ago—back in 2012! This was two years before I had even started my crusade into business insurance.
 
-Lesson: Marketing is about <a href="https://justinjackson.ca/play-the-long-game/">the long game</a>. Relationships established years ago can blossom into paying customers.
+<strong>Lesson:</strong> Marketing is about <a href="https://justinjackson.ca/play-the-long-game/">the long game</a>. Relationships established years ago can blossom into paying customers.
 
 <h2>My Third Customer</h2>
 
@@ -70,7 +70,7 @@ As a quote had come through from someone that _wasn't_ a beta tester, I asked wh
 
 What do you know, public speaking _can_ convert. Thanks to the <a href="https://hybridconf.net/">HybridConf</a> attendee who passed along Jack's name.
 
-Lesson: Share your story everywhere. All it takes is for one person to hear it and share it with their friend.
+<strong>Lesson:</strong> Share your story everywhere. All it takes is for one person to hear it and share it with their friend.
 
 <h2>tl;dr</h2>
 
@@ -84,4 +84,4 @@ I'm having a lot of fun building Jack and finding ways to win customers, but I d
 
 I'm heading to Switzerland for my birthday in a few weeks for a (working) holiday. One of the books I plan on reading is <a href="http://tractionbook.com/">Traction</a>. I'm hoping to use their three-step framework to discover the best channels for marketing Jack.
 
-Hopefully one day I'll be writing about winning my 3000th customer, but it's important to start from the beginning. I'm <a href="/newsletter">documenting my journey</a> of building an insurance business. I'll never forget the feeling of that first sale.
+Hopefully one day I'll be writing about winning my 3000th customer, but I'm <a href="/newsletter">documenting my journey</a> of building an insurance business from the start.

@@ -3,7 +3,7 @@ layout: post
 title:  "Start With People"
 date:   2016-10-13
 banner_image: people.jpg
-tags: [business, jack]
+tags: [business, jack, lessons]
 ---
 
 Let's begin with the good news. I've put 20 freelancers on cover already, which is over £5700 Gross Premium Written. This is 20 freelancers <a href="https://withjack.co.uk">Jack</a> is helping build a bulletproof business. Yay!
