@@ -89,6 +89,7 @@ Some of the other factors I'd like to have launched with:
 * Instant quotes and cover
 * Customer dashboard
 * Better benefits
+* Referral program
 
 Not having these features hasn't prevented people from using Jack to arrange their insurance. Instead I was able to launch quickly, start generating income and use feedback to influence the direction of the business.
 
