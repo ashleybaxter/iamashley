@@ -8,7 +8,7 @@ tags: [business, jack, launch]
 
 <blockquote>If you are not embarrassed by the first version of your product, you've launched too late. — Reid Hoffman</blockquote>
 
-Anybody in the start-up world will have heard the above quote. It makes a lot of sense, but it's testing to launch with an incomplete vision. After refining your idea for so long, launching with anything less than perfect doesn't feel right.
+Anybody in the start-up world will have heard the above quote. It makes a lot of sense, but it's challenging to launch with an incomplete vision. After refining your idea for so long, launching with anything less than perfect doesn't feel right.
 
 You want to share the end result with the world and get it right from day one. It's this danger that prevents people from shipping at all.
 
@@ -16,7 +16,7 @@ In August I launched <a href="https://withjack.co.uk">Jack</a>. I wouldn't say I
 
 Jack started with just one type of insurance.
 
-I'm glad I did. If I was to build another business I'd adopt the same approach. Below are the reasons why.
+Despite it not being the industry norm to offer only one type of cover, I'm glad I did. If I was to build another business I'd adopt the same one product approach. Below are the reasons why.
 
 <h3>Avoid Making Assumptions By Gathering Data</h3>
 
