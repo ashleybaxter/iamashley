@@ -98,7 +98,7 @@ It took a long time to realise the problem I was addressing just didn't exist fo
 
 Whilst all of these factors contributed to the business not performing as well as it once did, I don't see this as a failure.
 
-I was able to use my Dad's business as a platform to learn coding, marketing and about insurance. Through inheriting his business I developed a passion for design. I used this as a stepping stone to do something I love.
+I was able to use my Dad's business as a platform to learn coding, marketing and about insurance. Through inheriting his business I developed a passion for design. I used my experience as a stepping stone to do something I love.
 
 On the topic of failure, reflect on why it happened and what you can learn from it. Failing at something simply means you're trying something new. Failing at something means you'll do better next time.
 
