@@ -26,7 +26,7 @@ Where the money to invest in this will come from is another blog post for anothe
 
 Customers will be able to login and access their documents, freebies and have an overview of their insurance.
 
-I'm going hack on this project solo to keep costs down (but hire a designer). I've built a Rails app in the past, and I spent the Christmas period brushing up on my Ruby skills… and levelling up in Dragon Age: Inquisiton.
+I'm going to hack on this project solo to keep costs down (but hire a designer). I've built a Rails app in the past, and I spent the Christmas period brushing up on my Ruby skills… and levelling up in Dragon Age: Inquisiton.
 
 I can already envisage it being a frustrating project to tackle, but I'm open to the challenge.
 
