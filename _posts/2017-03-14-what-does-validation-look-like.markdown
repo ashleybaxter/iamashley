@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What Does Validation Look Like?"
-date:   2017-03-13
+date:   2017-03-14
 banner_image: validation.png
 tags: [business, jack]
 ---
