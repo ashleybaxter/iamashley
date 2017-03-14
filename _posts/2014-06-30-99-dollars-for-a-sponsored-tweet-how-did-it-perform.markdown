@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "$99 For A Sponsored Tweet: How Did It Perform?"
+title:  "99 Dollars For A Sponsored Tweet: How Did It Perform?"
 date:   2014-06-30 09:17:00
 categories: business
 author_name : Ashley
