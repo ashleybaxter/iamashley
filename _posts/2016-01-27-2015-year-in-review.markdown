@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2015: Year In Review"
+title:  "2015&#58; Year In Review"
 date: 2016-01-27 13:37:00
 categories: personal
 author_name : Ashley
@@ -18,6 +18,7 @@ I felt 2015 was a quiet year, failing to nudge myself out of my comfort zone eno
 With that said, I looked back over the year and realised a lot did happen. The past 12 months are something I _can_ be proud of.
 
 <h2>New Beginnings</h2>
+
 
 I kicked the year off by moving into my dream office, <a href="http://rookieoven.com/coworking/">RookieOven</a>. It's a converted shipyard with a focus on people working in tech.
 

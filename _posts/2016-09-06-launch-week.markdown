@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Launch Week: The Good, The Bad And The Instant Noodles"
+title:  "Launch Week&#58; The Good, The Bad And The Instant Noodles"
 date:   2016-09-06
 banner_image: stickers.jpg
 tags: [business, jack, launch]
