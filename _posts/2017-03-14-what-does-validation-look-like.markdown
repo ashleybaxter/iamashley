@@ -23,7 +23,7 @@ Here's how I personally measure validation:
 <li><strong>No Sunday dread.</strong> I'm not on Facebook anymore, but I'd log in on Sunday evenings to be met with a wall full of 'Sunday dread'. These are the people who aren't looking forward to work on Monday. There are 52 (or 53) Sundays in the year—that's a lot of dread!</li>
 <li><strong>Comparing it to my previous attempt.</strong> With Insurance by Jack, I won 55 customers in 2 years. Compare this to 73 customers in 6 months and With Jack is looking encouraging. It supports what I was saying all along. A better customer journey will delight visitors and improve the conversion rate.</li>
 <li><strong>Customer feedback.</strong> Emails, tweets. Every time someone <a href="https://twitter.com/Grinstead/status/839945638670438400">vouches for With Jack</a>, I feel a sense of validation. With Jack's goal is to make business insurance accessible to freelancers and those working in the digital sector. <a href="https://twitter.com/martinbean/status/839561965840306178">Statements like this</a> affirm I'm closer to fulfilling that goal.</li>
-<li><strong>Making money.</strong> With Jack has been making money from day one. Every week we're putting new customers on cover.</li>
+<li><strong>Making money.</strong> With Jack has been making money from day one, although it still isn't enough to support me. Every week we're putting new customers on cover.</li>
 </ul>
 
 But maybe I wouldn't think Jack has been validated if I had 3 kids to feed.
