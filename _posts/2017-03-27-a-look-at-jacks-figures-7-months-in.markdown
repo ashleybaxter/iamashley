@@ -73,6 +73,6 @@ Content is performing well. I think this is because most insurers don't cater th
 
 I also built <a href="https://whatinsurance.withjack.co.uk">a tool</a> that generated more quotes in 2 days than the entire week before. Few of these have converted yet, but I'm hoping there's a delayed effect. The response to the tool has been positive.
 
-![Check out those RT's!]({{ site.url }}/images/posts/twitter_tool_reaction.jpg)
+![Check out those RT's!](http://iamashley.co.uk/images/posts/twitter_tool_reaction.jpg)
 
 As the months progress, I'm hoping less of my marketing will be guesswork and more decisions will be informed by analytics and data. Something tells me, though, that it doesn't matter if you're 7 months or 7 years in—marketing is largely about guesswork!
