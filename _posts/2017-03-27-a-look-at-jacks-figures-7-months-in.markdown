@@ -53,7 +53,7 @@ Today, they look like this:
 * Organic search
 * Twitter
 
-I've been focusing on <a href="/blog">creating content</a>, so I'm happy to see organic search performing well.
+I've been focusing on <a href="https://withjack.co.uk/blog">creating content</a>, so I'm happy to see organic search performing well.
 
 What I'm _more_ interested in is traffic that converts. Whilst I stupidly didn't track this from day one, I have Goals set up in Analytics. They monitor my CTA click-throughs and those who complete a quote and submit their details.
 
