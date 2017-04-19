@@ -60,7 +60,7 @@ What I'm _more_ interested in is traffic that converts. Whilst I stupidly didn't
 The traffic that converts best is:
 
 * Organic search
-* <a href="https://blog.prototypr.io/the-future-of-web-forms-4578485e1461#.hxsjcd77p">This blog post</a> (Difficult to know if these are legit. I've yet to sell a policy to someone who cites this source)
+* <a href="https://blog.prototypr.io/the-future-of-web-forms-4578485e1461#.hxsjcd77p">This blog post</a> (Difficult to know if these are legit or out of curiousity)
 * Twitter
 * <a href="http://checkup.withjack.co.uk/">Business Health Checkup Tool</a>
 * This blog (_hiya!_)
@@ -69,10 +69,14 @@ The traffic that converts best is:
 
 When I launched Jack I had no idea what would work. I still don't. But 6-7 months in I'm building a better picture of where to focus my time, energy and money.
 
-Content is performing well. I think this is because most insurers don't cater their content to creative professionals. They can tell you why a tradesman needs insurance or a solicitor, but not a <a href="https://withjack.co.uk/insurance-for-web-designers/">web designer</a> or developer. Some of the <a href="https://withjack.co.uk/insurance/2017/03/21/4-horror-stories-about-creative-businesses-that-should-have-had-insurance.html">stories I'm sharing</a> about insurance for creatives invoke action or <a href="https://withjack.co.uk/insurance/2017/01/18/planting-the-insurance-seed.html">plant a seed</a>.
+Content is performing well. I think this is because most insurers don't cater their content to creative professionals. They can tell you why a tradesman needs insurance or a solicitor, but not a <a href="https://withjack.co.uk/insurance-for-web-designers/">web designer</a> or developer.
 
-I also built <a href="https://whatinsurance.withjack.co.uk">a tool</a> that generated more quotes in 2 days than the entire week before. Few of these have converted yet, but I'm hoping there's a delayed effect. The response to the tool has been positive.
+Some of the <a href="https://withjack.co.uk/insurance/2017/03/21/4-horror-stories-about-creative-businesses-that-should-have-had-insurance.html">stories I'm sharing</a> about insurance for creatives invoke action or <a href="https://withjack.co.uk/insurance/2017/01/18/planting-the-insurance-seed.html">plant a seed</a>. I've just paid for sponsored content on a popular blog, so it will be interesting to see how that converts.
+
+I also built <a href="https://whatinsurance.withjack.co.uk">a tool</a> that generated more quotes in 2 days than the entire week before. Few of these have converted yet, but I'm hoping there's a delayed effect and it's a slow burner. The response to the tool has been positive.
 
 ![Check out those RT's!](http://iamashley.co.uk/images/posts/twitter_tool_reaction.jpg)
 
-As the months progress, I'm hoping less of my marketing will be guesswork and more decisions will be informed by analytics and data. Something tells me, though, that it doesn't matter if you're 7 months or 7 years in—marketing is largely about guesswork!
+As the months progress, I'm hoping less of my marketing will be guesswork and more decisions will be informed by data.
+
+Something tells me, however, that it doesn't matter if you're 7 months or 7 years in—marketing is a constant experiment and full of surprises.
