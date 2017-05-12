@@ -48,7 +48,7 @@ Despite an insight into how my dad built his business, my mind wrestles with the
 
 While they're fun to read and (maybe) spark ideas to apply to your own business, they're unrealistic. They make business sound easy. The overnight success story. My worry is people read these articles thinking that's how business should look.
 
-Nobody writes about "How It Took Me 500 Days Of Showing Up And Making Lots Of Mistakes To Earn Enough Money To Pay My Bills". That's partly why I blog about <a href="/tags/#lessons">where I'm going wrong</a>, because that part is just as educational as when you get it right.
+Nobody writes about "How It Took Me 500 Days Of Showing Up And Making Lots Of Mistakes To Earn Enough Money To Pay My Bills". That's partly why I blog about <a href="/tags/#lessons">where I'm going wrong</a>, because that part is just as important as when you get it right.
 
 <em>Side note: A business blog I enjoy reading that's refreshingly honest is <a href="http://adii.me/">Adii Pienaar's</a>.</em>
 
