@@ -3,7 +3,7 @@ layout: post
 title:  "Jack's Year In Review"
 date:   2016-12-16
 banner_image: year_review.jpg
-tags: [business, jack]
+tags: [business, jack, stats]
 ---
 
 Maybe 4 months in business is too soon for a 'Year In Review', but I'm a sucker for those posts (and I've learned a lot in 4 months).

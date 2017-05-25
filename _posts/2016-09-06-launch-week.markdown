@@ -3,7 +3,7 @@ layout: post
 title:  "Launch Week&#58; The Good, The Bad And The Instant Noodles"
 date:   2016-09-06
 banner_image: stickers.jpg
-tags: [business, jack, launch]
+tags: [business, jack, launch, stats]
 ---
 Last week I launched my insurance company, <a href="https://withjack.co.uk/?utm_source=iamashley&utm_medium=blog&utm_campaign=launch-analysis">Jack</a>. I’d been in closed beta for 3 weeks prior, sourcing feedback from people who’d volunteered to test the onboarding process (thanks, people!).
 

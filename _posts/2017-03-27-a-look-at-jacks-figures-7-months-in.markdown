@@ -3,7 +3,7 @@ layout: post
 title:  "A Look At Jack's Figures 7 Months In"
 date:   2017-03-27
 banner_image: 7_months.jpg
-tags: [business, jack, launch]
+tags: [business, jack, launch, stats]
 ---
 3 months ago I wrote <a href="/2016/12/16/jacks-year-in-review/">Jack's year in review</a> post. This was after only 4 months in business—1 of which was a soft launch. After putting my 81st customer on cover this week, I looked at some of the same figures that lead to that post.
 
@@ -37,7 +37,7 @@ Our overall footprint is smaller, but our target market footprint is bigger.
 
 This sounds right. More than 50% of my visitors have come from the States. (I still receive quotes from people outside of the UK—even thought it's a .co.uk. domain and the currency is in GBP—but fewer than before.)
 
-I'm also seeing more sign-ups through recommendations. I'd love to encourage this behaviour with a referral program
+I'm also seeing more sign-ups through recommendations. I'd love to encourage this behaviour with a referral program.
 
 <h3>Top Sources of Traffic</h3>
 
