@@ -28,7 +28,7 @@ Today I reached the 100 customer mark.
 
 To say I'm excited is an understatement! 100 isn't a sustainable business, yet it's a milestone that validates I'm headed in the right direction. If you can get 100 customers, you can scale beyond that to 200, 400, 1000 etc.
 
-Simply <a href="/idea-to-launch-in-11-years">getting to launch day was a hurdle</a>. Reaching 100 customers is… I can't describe it. It makes me feel optimistic. Like this idea for Jack has potential. It's got legs.
+Simply <a href="/idea-to-launch-in-11-years">getting to launch day was a hurdle</a>. Reaching 100 customers fills me with optimism. Like this idea for Jack has potential. It's got legs.
 
 <h3>How Did I Get 100 Customers?</h3>
 
