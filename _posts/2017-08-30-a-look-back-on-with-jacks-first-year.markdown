@@ -68,6 +68,12 @@ It wasn't.
 
 I don't think insurance translates well to ads. You're only shopping for insurance when it's something you need—not something you see and think, _"That would be nice to have"_.
 
+<h4>My Highlights of the Year</h4>
+
+* <strong>Winning The Rookie Award</strong> at <a href="https://www.instagram.com/p/BNevzISgXPO/?taken-by=_withjack">the Digital Insurance Awards</a>.
+* <strong>Meeting my customers.</strong> With each city I've visited in the UK, I've made a point of meeting my customers. <a href="https://withjack.co.uk/interviews/2017/08/09/building-a-freelance-business-with-a-chronic-illness.html">Katherine, Rachel</a> and <a href="https://withjack.co.uk/interviews/2016/09/12/case-study-mikleo.html">Mikleo</a> in Manchester, <a href="https://withjack.co.uk/interviews/2017/06/06/going-freelance-and-finding-clients-after-redundancy.html">Martin</a> in Newcastle, and <a href="https://www.instagram.com/p/BUer_IklEcL/?taken-by=_withjack">Sabine</a> and <a href="https://withjack.co.uk/interviews/2016/10/24/case-study-mindfulness-everywhere.html">Rohan</a> in Glasgow.
+* <strong>Applying to an accelerator.</strong> I did not get investment from Ignite, but attending the monthly off-sites has provided me with so much value. Being around other founders, learning from other startups… it's been invaluable.
+
 <h4>What's Next?</h4>
 
 Instant quotes.
@@ -85,3 +91,9 @@ I've had to ask myself how serious I am about this and how much I believe in wha
 Getting to 135 customers with no money and bootstrapping as a solo founder is good validation, but now it's time to up the ante.
 
 Thank you to my 135 customers who have supported With Jack and are helping to shape insurance for freelancers.
+
+<h4>Follow With Jack</h4>
+
+* <a href="https://twitter.com/_withjack">Twitter</a>
+* <a href="https://www.instagram.com/_withjack/">Instagram</a>
+* <a href="https://withjack.co.uk">Website</a>
