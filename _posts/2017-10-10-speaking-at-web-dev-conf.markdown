@@ -25,6 +25,6 @@ Here are the resources I mentioned in my talk:
 * <a href="https://iteratehq.com/">Iterate</a>
 * <a href="https://answerthepublic.com/">Answer The Public</a>
 
-I compiled a <a href="https://storify.com/withjack/speaking-at-web-dev-conf">Storify of the event</a> and made a <a href="https://www.youtube.com/watch?v=dvM8mxl9oik&t=122s">YouTube video</a> of the experience.
+I compiled a <a href="https://storify.com/withjack/speaking-at-web-dev-conf">Storify of the event</a> and made a <a href="https://www.youtube.com/watch?v=dvM8mxl9oik&t">YouTube video</a> of the experience.
 
 10/10. Would Web Dev Conf again.
