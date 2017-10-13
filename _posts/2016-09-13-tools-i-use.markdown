@@ -6,6 +6,8 @@ banner_image: tools_i_use.jpg
 tags: [business, jack, tools]
 ---
 
+Psst. I keep an updated list of this over at <a href="/tools">my tools page</a>.
+
 ### Pipedrive
 
 <a href="https://www.pipedrive.com/">Pipedrive</a> was recommended to me by <a href="https://justinjackson.ca/">Justin Jackson</a>. It's the tool I use to track my sales funnel.
