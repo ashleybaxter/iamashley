@@ -27,7 +27,9 @@ The list goes on…
 
 {% include image_full.html imageurl="/images/posts/projects.jpg" title="A list of my projects" %}
 
-I had all of these projects that I was giving a little of my time to. I wanted to build and launch With Jack, but I wasn't putting 100% into it. I thought I was, but in hindsight I was giving 5% to one project, 20% to another etc. What did this leave for With Jack?
+I had all of these projects that I was giving a little of my time to. I wanted to build and launch With Jack, but I wasn't putting 100% into it.
+
+I thought I was, but in hindsight I was giving 5% to one project, 20% to another etc. What did this leave for With Jack?
 
 I was good at dreaming up ideas and executing on them. I thought this was something to be proud of, but now I realise it was holding me back. We all have a limit of time, energy and focus. Having so many projects meant spreading myself thin.
 
@@ -35,7 +37,7 @@ I was owner of a bunch of half-baked projects or inactive domains that never had
 
 Maybe you are, too.
 
-Ideas need an extraordinary amount of work behind them to become great projects. An extraordinary amount of work. Unless you're Superhuman, you can't do that with 3, 4 or 5 projects on the go. I wish I'd learned that earlier.
+Ideas need an extraordinary amount of work behind them to become great projects. _An extraordinary amount of work._ Unless you're Superhuman, you can't do that with 3, 4 or 5 projects on the go. I wish I'd learned that earlier.
 
 Coming to this realisation was twofold. It first struck me after reading about Nathan Barry's experiences. His product, <a href="https://convertkit.com/">ConvertKit</a>, was failing and he was considering shutting it down. Instead he decided to focus on it full-time.
 
