@@ -54,7 +54,7 @@ An avenue I've just started experimenting with is YouTube. A few weeks ago <a hr
 
 It's too early to gauge if this is a good marketing channel, but the reaction has been positive and I'm enjoying learning something new (filming and editing).
 
-On the topic of learning something new, it's important I give myself permission to 'be crap' in the beginning while finding my feet. That's what's enabled me to dive in with YouTube—this acceptance that it's rough and imperfect.
+On the topic of learning something new, I thought I'd find taking up video frustrating because I'm just learning and not very good at it. It was important I gave myself permission to 'be crap' in the beginning while finding my feet. That's what's enabled me to dive in with YouTube—this acceptance that it's rough and doesn't need to be perfect.
 
 <h4>Paid Ads Suck</h4>
 
@@ -72,7 +72,7 @@ I don't think insurance translates well to ads. You're only shopping for insuran
 
 * <strong>Winning The Rookie Award</strong> at <a href="https://www.instagram.com/p/BNevzISgXPO/?taken-by=_withjack">the Digital Insurance Awards</a>.
 * <strong>Meeting my customers.</strong> With each city I've visited in the UK, I've made a point of meeting my customers. <a href="https://withjack.co.uk/interviews/2017/08/09/building-a-freelance-business-with-a-chronic-illness.html">Katherine, Rachel</a> and <a href="https://withjack.co.uk/interviews/2016/09/12/case-study-mikleo.html">Mikleo</a> in Manchester, <a href="https://withjack.co.uk/interviews/2017/06/06/going-freelance-and-finding-clients-after-redundancy.html">Martin</a> in Newcastle, and <a href="https://www.instagram.com/p/BUer_IklEcL/?taken-by=_withjack">Sabine</a> and <a href="https://withjack.co.uk/interviews/2016/10/24/case-study-mindfulness-everywhere.html">Rohan</a> in Glasgow.
-* <strong>Applying to an accelerator.</strong> I did not get investment from Ignite, but attending the monthly off-sites has provided me with so much value. Being around other founders, learning from other startups… it's been invaluable.
+* <strong>Applying to an accelerator.</strong> I didn't get investment from Ignite, but attending the monthly off-sites has provided me with so much value. Being around other founders, learning from other startups… it's been invaluable.
 
 <h4>What's Next?</h4>
 
@@ -84,7 +84,7 @@ _Side note: For customer development I've started using a neat tool called <a hr
 
 I won't bore you with the logistics of why we haven't implemented instant quotes, but things are moving in that direction. <a href="http://scottriley.im/">Scott</a> is mocking up the customer journey as I type. However, in the insurance world this could take a while to roll out…
 
-Ultimately, I want to build __the best suite of tools for freelancers to buy and manage their insurance__. This requires money and <a href="http://iamashley.co.uk/2017/06/07/my-experience-applying-to-an-accelerator/">I didn't get investment from Ignite</a> (more in that another time).
+Ultimately, I want to build __the best suite of tools for freelancers to buy and manage their insurance__. This requires money and I'm self-funded. <a href="http://iamashley.co.uk/2017/06/07/my-experience-applying-to-an-accelerator/">I didn't get investment from Ignite</a> (more in that another time), so weekend photography jobs are funding the development of With Jack.
 
 I've had to ask myself how serious I am about this and how much I believe in what I'm building. The answer is _"100% serious"_. Now I'm weighing up my options for putting money into With Jack.
 
