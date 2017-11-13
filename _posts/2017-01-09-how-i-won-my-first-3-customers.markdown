@@ -6,15 +6,15 @@ banner_image: 50_customers.jpg
 tags: [business, sales, jack, launch]
 ---
 
-When I launched Insurance by Jack in 2014, I struggled to win sales.
+When I launched my MVP, Insurance by Jack, in 2014 I struggled to win sales.
 
 One week passed… nothing. Week two… zilch. 
 
 It took me three weeks to make my first sale. It was a slither of momentum, but it wasn't the start of my business gaining steam. 
 
-I knew why I was struggling. Insurance by Jack had a strong brand, but the process of getting a quote involved a third-party form. This resulted in a customer journey that wasn't cohesive and made for a poor user experience.
+I knew why I was struggling. Insurance by Jack had a strong brand, but the process of getting a quote involved a third-party. This resulted in a customer journey that wasn't cohesive and made for a poor user experience.
 
-Fast forward two years, Insurance by Jack has evolved into <a href="https://withjack.co.uk">Jack</a> and I've been granted more permission and responsibility. Now that I've taken control of the design and technology, I've created a customer journey that compliments Jack's brand.
+Fast forward two years, Insurance by Jack has evolved into <a href="https://withjack.co.uk">With Jack</a> and I've been granted more permission and responsibility. Now that I've taken control of the design and technology, I've created a customer journey that compliments With Jack's brand.
 
 The theory that this would improve sales was true. So much so, I made my first sale three weeks _before_ I launched. A stark contrast to 2014's launch to crickets.
 
@@ -46,7 +46,7 @@ This is how I won my first customer _before_ I launched.
 
 <h2>My Second Customer</h2>
 
-I quietly pushed Jack live from a hotel room in Berlin with terrible WIFI.
+I quietly pushed With Jack live from a hotel room in Berlin with terrible WIFI.
 
 When I say _quietly_, I didn't announce the service was available. I deployed it to GitHub Pages, walked away and played tourist in Berlin.
 
@@ -54,21 +54,21 @@ The following day I checked <a href="/2016/09/13/tools-i-use/">my CRM tool</a> a
 
 This person had been following me <a href="http://twitter.com/iamashley">on Twitter</a> for years. Our first exchange was 5 years ago—back in 2012! This was two years before I had even started my crusade into business insurance.
 
-<strong>Lesson:</strong> Marketing is about <a href="https://justinjackson.ca/play-the-long-game/">the long game</a>. Relationships established years ago can blossom into paying customers.
+<strong>Lesson:</strong> Marketing is about playing <a href="https://justinjackson.ca/play-the-long-game/">the long game</a>. Relationships established years ago will blossom into paying customers.
 
 <h2>My Third Customer</h2>
 
-By this point I still hadn’t announced I’d launched Jack. I was aiming to do a few weeks in soft launch, so I was expecting any quotes that came through to be from beta testers.
+By this point I still hadn’t announced I’d launched With Jack. I was aiming to do a few weeks in soft launch mode, so I was expecting any quotes that came through to be from beta testers.
 
 During this time I gave <a href="/idea-to-launch-in-11-years/">a talk at Hybrid</a>, a conference for creatives.
 
-With the first iteration of Jack (Insurance by Jack), I had no control over the customer journey. I had no idea who my customers were or where they were coming from. It made tracking marketing very difficult. Especially public speaking.
+With the first iteration of With Jack (Insurance by Jack), I had no control over the customer journey. I had no idea who my customers were or where they were coming from. It made tracking marketing very difficult. Especially public speaking.
 
 As a quote had come through from someone that _wasn't_ a beta tester, I asked where they'd heard of Jack.
 
 <blockquote>We heard about Jack through friends that'd been chilling at Hybrid. We looked at your site and we're suckers for a good design. Truth be told we'd never thought about insurance, but the site was fun, friendly and didn't feel like chewing glass.</blockquote>
 
-What do you know, public speaking _can_ convert. Thanks to the <a href="https://hybridconf.net/">HybridConf</a> attendee who passed along Jack's name.
+What do you know, public speaking _can_ convert. Thanks to the <a href="https://hybridconf.net/">HybridConf</a> attendee who passed along With Jack's name.
 
 <strong>Lesson:</strong> Share your story everywhere. All it takes is for one person to hear it and share it with their friend.
 
@@ -80,7 +80,7 @@ I won my first three customers through the following channels:
 * Twitter
 * Public speaking
 
-I'm having a lot of fun building Jack and finding ways to win customers, but I do need a better formula.
+I'm having a lot of fun building With Jack and finding ways to win customers, but I do need a better formula.
 
 I'm heading to Switzerland for my birthday in a few weeks for a (working) holiday. One of the books I plan on reading is <a href="http://tractionbook.com/">Traction</a>. I'm hoping to use their three-step framework to discover the best channels for marketing Jack.
 

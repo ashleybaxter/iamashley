@@ -28,7 +28,7 @@ Today I reached the 100 customer mark.
 
 To say I'm excited is an understatement! 100 isn't a sustainable business, yet it's a milestone that validates I'm headed in the right direction. If you can get 100 customers, you can scale beyond that to 200, 400, 1000 etc.
 
-Simply <a href="/idea-to-launch-in-11-years">getting to launch day was a hurdle</a>. Reaching 100 customers fills me with optimism. Like this idea for Jack has potential. It's got legs.
+Simply <a href="/idea-to-launch-in-11-years">getting to launch day was a hurdle</a>. Reaching 100 customers fills me with optimism. Like this idea for With Jack has potential. It's got legs.
 
 <h3>How Did I Get 100 Customers?</h3>
 
@@ -73,7 +73,7 @@ When a designer or developer asks for business insurance recommendations, With J
 <blockquote class="twitter-tweet" data-lang="en" align="center"><p lang="en" dir="ltr">If you are a freelancer and not yet insured, I recommend <a href="https://twitter.com/_withjack">@_withjack</a> Super simple onboarding and a human touch <a href="https://twitter.com/hashtag/freelance?src=hash">#freelance</a> <a href="https://t.co/fXO7RVWIsY">pic.twitter.com/fXO7RVWIsY</a></p>&mdash; Mark Bucknell (@markbucknell) <a href="https://twitter.com/markbucknell/status/863071799218720768">May 12, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Jack immediately pops into their head instead of 'that insurer that offers every type of insurance for every type of occasion'.
+With Jack immediately pops into their head instead of 'that insurer that offers every type of insurance for every type of occasion'.
 
 <strong>Lesson:</strong> These referrals came my way without prompt or actively encouraging them. I think referrals happen when you do something well and are generally just helpful.
 
@@ -81,11 +81,11 @@ Jack immediately pops into their head instead of 'that insurer that offers every
 
 When I say Twitter I'm not talking about sponsored tweets (that's no.7 on the list), but from being <a href="https://twitter.com/iamashley">active on Twitter</a> for the past decade.
 
-_Wow._ For 10 years I've been tweeting about the video games I'm playing and what lunch I'm eating.
+_Wow._ For 10 years I've been tweeting about the video games I'm playing and what I'm eating for lunch.
 
-On a serious note, I joined Twitter in 2007. Back then there was no With Jack. I was unhappy in my job and had never owned a camera. I was a hardcore gamer with an anxiety disorder.
+On a serious note, I joined Twitter in 2007 when there was no With Jack. I was unhappy in my job and had never owned a camera. I was a hardcore gamer with an anxiety disorder.
 
-Over the years, people have followed my journey in insurance through Twitter. The idea of <a href="https://twitter.com/iamashley/status/366808810561994752">improving technology</a> in the insurance industry. Building my first <a href="https://twitter.com/iamashley/status/400955108646977536">quote system prototype</a>. Starting to get invited to <a href="https://twitter.com/iamashley/status/215804695405527040">speak at conferences</a>. Launching Insurance by Jack (and that not doing so well). Trying to <a href="/business/2015/05/19/last-chance/">find an insurer to come onboard</a> with Jack. Being totally burnt out and <a href="https://twitter.com/iamashley/status/608616786016251904">admitted to hospital</a>. Passing my first <a href="https://twitter.com/iamashley/status/707521740595970048">insurance exam</a>. And finally <a href="https://twitter.com/iamashley/status/771323714952695808">launching With Jack</a>.
+Over the years, people have followed my journey in insurance through Twitter. The idea of <a href="https://twitter.com/iamashley/status/366808810561994752">improving technology</a> in the insurance industry. Building my first <a href="https://twitter.com/iamashley/status/400955108646977536">quote system prototype</a>. Starting to get invited to <a href="https://twitter.com/iamashley/status/215804695405527040">speak at conferences</a>. Launching Insurance by Jack (and that not doing so well). Trying to <a href="/business/2015/05/19/last-chance/">find an insurer</a> to come onboard with Jack. Being totally burnt out and <a href="https://twitter.com/iamashley/status/608616786016251904">admitted to hospital</a>. Passing my first <a href="https://twitter.com/iamashley/status/707521740595970048">insurance exam</a>. And finally <a href="https://twitter.com/iamashley/status/771323714952695808">launching With Jack</a>.
 
 Inviting people on this journey with me has been invaluable. Not all of them are in the market to become Jack's customers, but for those who are they feel like they've gotten to know me. They want to support the business I've worked hard to launch.
 
@@ -95,13 +95,15 @@ Inviting people on this journey with me has been invaluable. Not all of them are
 
 In May of 2014 I launched Insurance by Jack. I've described this as my MVP, but I'm in two minds as to whether I should have ever taken that route. (I'll write a post dissecting where and why this business went wrong. <a href="/newsletter">Subscribe to my newsletter</a> if you don't want to miss it.)
 
-I did a lot of brand damage with this business. I had a website that did a great job at communicating my vision, but fell short where it actually mattered. _Delivering_ on that vision.
+I did a lot of brand damage with this business. I had a website that did a great job at communicating my vision, but fell short where it actually mattered—_delivering_ on that vision.
 
 People came to the web site with certain expectations, but those expectations weren't being met. People's first experience with Insurance by Jack was poor—and first impressions matter.
 
-On the other hand, some of the people that stumbled upon Insurance by Jack took an interest in where it _could_ go. They signed up to the newsletter or became followers on social media. Some of those leads are now With Jack customers.
+On the other hand, some of the people that stumbled upon Insurance by Jack took an interest in where it _could_ go. They signed up to the newsletter or became followers on social media. Some of those leads are now With Jack customers. 
 
-{% include image_full.html imageurl="/images/posts/pitching.jpg" title="Speaking about Insurance by Jack" caption="Speaking about taking a chance with Insurance by Jack, and how it may not be a success but a stepping stone to something else. Spoiler: It wasn't a success, but it was a stepping stone to what became With Jack." %}
+It validated the idea I had, but I do wish I could have made a better first impression.
+
+{% include image_full.html imageurl="/images/posts/pitching.jpg" title="Speaking about Insurance by Jack" caption="Speaking about Insurance by Jack and how it may not be a success but a stepping stone to something else. Spoiler: It wasn't a success, but it was a stepping stone to what became With Jack." %}
 
 <strong>Lesson:</strong> Although I'm disappointed that Insurance by Jack delivered a poor first impression, it served a purpose despite its imperfections. I got a lot of mistakes out of the way and drummed up interest from people that would later become customers.
 
@@ -117,9 +119,9 @@ Currently, the customer journey via organic search looks like this:
 * They <a href="https://withjack.co.uk/quote">get a quote</a>
 * They become a customer
 
-Jack's rankings will only improve as I write more content. I use <a href="http://answerthepublic.com/">Answer The Public</a> to discover what questions people are asking, then I create blog posts or landing pages around it.
+With Jack's rankings will only improve as I write more content. I use <a href="http://answerthepublic.com/">Answer The Public</a> to discover what questions people are asking, then I create blog posts or landing pages around it.
 
-Again, because I'm focusing on a specific audience it's easy to find out what to write about. I can learn what confuses them about insurance and use examples that hit home.
+Because I'm focusing on a specific audience it's easy to find out what to write about. I can learn what confuses them about insurance and use examples that hit home.
 
 <strong>Lesson:</strong> I don't think I need to tell you the value of ranking in Google with valuable content. Your audience is searching for answers. By providing value, you build trust and potentially win customers.
 
@@ -162,4 +164,4 @@ I believe I can scale this business, but I want to take a moment to appreciate g
 
 In business you always look forward. _"Okay, we launched. What's next? Okay, we have 100 customers. How do we get to 200?"_. But this milestone is one I want to savour. It took so bloody long to get here. 
 
-Thank you to each of you who have used Jack to arrange your insurance.
+Thank you to each of you who have used With Jack to arrange your insurance.

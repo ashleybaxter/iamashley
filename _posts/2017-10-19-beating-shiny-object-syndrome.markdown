@@ -39,7 +39,7 @@ Maybe you are, too.
 
 Ideas need an extraordinary amount of work behind them to become great projects. _An extraordinary amount of work._ Unless you're Superhuman, you can't do that with 3, 4 or 5 projects on the go. I wish I'd learned that earlier.
 
-Coming to this realisation was twofold. It first struck me after reading about Nathan Barry's experiences. His product, <a href="https://convertkit.com/">ConvertKit</a>, was failing and he was considering shutting it down. Instead he decided to focus on it full-time.
+Two unrelated events brought me to this conclusion. It first struck me after reading about Nathan Barry's experience. His product, <a href="https://convertkit.com/">ConvertKit</a>, was failing and he was considering shutting it down. Instead he decided to focus on it full-time.
 
 What resonated with me was the following quote from Nathan's post on <a href="http://nathanbarry.com/30k/">growing ConvertKit to $30,000 in monthly recurring revenue</a>.
 
@@ -47,13 +47,13 @@ What resonated with me was the following quote from Nathan's post on <a href="ht
 
 And look at ConvertKit now.
 
-Secondly, getting admitted to hospital with pneumonia caused me to reconsider where I was investing my time. I love my life and I'm very lucky, but one business was failing and the other wasn't even up and running. I was stressed and my body was trying to tell me something.
+Secondly, getting admitted to hospital with pneumonia caused me to reconsider where I was investing my time. I love my life and I'm very lucky, but one of my businesses was failing and the other wasn't even up and running. I was stressed and my body was trying to tell me something.
 
 Realising this, I culled my personal projects and gave With Jack my full commitment.
 
 I don't have anything against personal projects, and I'll certainly come back to some of mine in the future. They're great for learning a new skill or figuring out what you enjoy doing. But they played a vital part in holding me back from launching.
 
-And due to a lack of funding, With Jack doesn't yet have 100% of my focus. I'm still juggling <a href="https://girlwithacamera.dunked.com/weddings">wedding photography</a> with building With Jack (wedding photography has funded a lot of my development costs).
+With Jack still doesn't yet have 100% of my focus. Due to a lack of funding, I'm still juggling <a href="https://girlwithacamera.dunked.com/weddings">wedding photography</a> with building With Jack (wedding photography has funded a lot of my development costs).
 
 <h4>Ruthless Prioritisation</h4>
 

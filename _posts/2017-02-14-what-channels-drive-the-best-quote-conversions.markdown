@@ -6,7 +6,7 @@ banner_image: bulletproof_business.jpg
 tags: [business, jack, sales]
 ---
 
-When writing a recent business plan for an underwriter, I had to dive into Google Analytics to gauge what channels convert best for <a href="https://withjack.co.uk">Jack</a>. This is something I should do regularly, _I know_, but juggling everything as a solo founder is hard.
+When writing a recent business plan for an underwriter, I had to dive into Google Analytics to gauge what channels convert best for <a href="https://withjack.co.uk">With Jack</a>. This is something I should do regularly, _I know_, but juggling everything as a solo founder is hard.
 
 Conversions are based on the number of quote completions. People who haven't just clicked 'Get a Quote', but have supplied all of the requested information to receive a formal quote.
 
@@ -52,7 +52,7 @@ I covered the importance of monitoring cashflow, having insurance, working with 
 
 If something goes wrong, the reality of freelancing is that there's nobody to hold accountable. __You are your business.__ If a client's unhappy, it's you they'll be pointing the finger at. It's a lot of responsibility on one person's shoulder, which is why I think freelancers should protect themselves.
 
-While this tool hasn't driven as much traffic as I'd have liked (partly down to my poor marketing effort), the leads it has sent have been high quality and converted to quotes. It's Jack's 4th best channel for conversions.
+While this tool hasn't driven as much traffic as I'd have liked (partly down to my poor marketing effort), the leads it has sent have been high quality and converted to quotes. It's With Jack's 4th best channel for conversions.
 
 Investing in building tools like this—which are useful to my audience—makes more sense than throwing money away on ads. <a href="https://producthabits.com/why-your-saas-business-needs-free-tools/">Even Hiten Shah says so</a>.
 
@@ -65,17 +65,18 @@ If I was to make a list of places my target market hang out, it would look somet
 * Reddit
 * Hacker News
 * Twitter
+* Dribbble
 
 Designer News drives a lot of traffic. The downside is that it's time sensitive. Your submission will get buried quickly, so it isn't evergreen traffic.
 
 Jack's been featured on Designer News a few times. <a href="https://www.designernews.co/stories/73720-site-design-jack--bespoke-business-insurance-for-freelance-creatives">When we launched</a>, for <a href="https://www.designernews.co/stories/76147-why-should-a-web-designer-have-insurance">a landing page</a> I created, with the <a href="https://www.designernews.co/stories/77964-how-bulletproof-is-your-freelance-business">business health check-up tool</a> and also for a paid slot.
 
-I was surprised the traffic it's sent my way converted so well. When I send customers their policy documents, I ask how they heard of Jack. Designer News has been cited on a few occasions.
+I was surprised the traffic it's sent my way converted so well. When I send customers their policy documents, I ask how they heard of With Jack. Designer News has been cited on a few occasions.
 
 It isn't an immediate conversion. They see the name, they bookmark us for later.
 
 This also ties into the channels I covered above (the business health check-up tool and organic content). To take advantage of Designer News' audience, I have to keep creating useful tools or content to help my audience.
 
-It's worth mentioning that the second best converter, <a href="https://blog.prototypr.io/the-future-of-web-forms-4578485e1461">The Future of Web Forms</a>, is curious users. I don't think any of them have become paying customers and that's OK. I welcome people to <a href="https://withjack.co.uk">check out Jack</a>.
+It's worth mentioning that the second best converter, <a href="https://blog.prototypr.io/the-future-of-web-forms-4578485e1461">The Future of Web Forms</a>, is curious users. I don't think any of them have become paying customers and that's OK. I welcome people to <a href="https://withjack.co.uk">check out With Jack</a>.
 
 The channels that drive the best quote conversions will change as the business develops. I'm learning as I go along and there are still many avenues I haven't explored.
