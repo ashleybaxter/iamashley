@@ -6,7 +6,7 @@ banner_image: ignite_01.jpg
 tags: [business, jack, accelerator]
 ---
 
-Last Tuesday I drove to Newcastle for <a href="https://blog.ignite.io/launching-ignite-2-0-a-new-breed-of-accelerator-a430304c3fe5">Ignite's new off-site programme</a>. It was the final stage of the application process for the <a href="https://ignite.io/">Ignite Accelerator</a>, and I had no idea what I was getting myself into.
+Last Tuesday I drove to Newcastle for <a href="https://blog.ignite.io/launching-ignite-2-0-a-new-breed-of-accelerator-a430304c3fe5">Ignite's distributed accelerator programme</a>. It was the final stage of the application process for the <a href="https://ignite.io/">Ignite Accelerator</a>, and I had no idea what I was getting myself into.
 
 Everything about accelerators scare me. It's a world that I'm not familiar with. Prior to last week, I did't know the difference between a Venture Capitalist and an Angel Investor.
 
@@ -23,9 +23,9 @@ With a conversion rate of 30%+, it was an indication to keep on trucking to 1000
 
 My confidence didn't last. A couple of days before setting off for Newcastle, doubt set in.
 
-_I'm not good enough as a founder. My business isn't solving a pressing enough problem. Everyone else is going to be further along than me. What if I don't know my figures? I'm afraid I'll look stupid._
+_I'm not good enough as a founder. My business isn't solving a big enough problem. Everyone is going to be further along than me. What if I don't know my figures? I'm afraid I'll look stupid._
 
-It turns out this was normal. Having spoken to the other startups at Ignite off-site, most felt the same.
+It turns out this was normal. Having spoken to the other startups at the offsite, most felt the same.
 
 {% include image_full.html imageurl="/images/posts/ignite_02.jpg" title="Some of the other startups at Ignite off-site" %}
 
@@ -47,7 +47,7 @@ For several of those years I also battled a crippling anxiety disorder. At my an
 
 I don't recognise that person anymore, but I often joke that the 8 years I spent working from home—and with the little social interaction I had—my social skills have been affected. In other words, this was _way_ out of my comfort zone!
 
-I was asked difficult questions. I didn't have answers to all of them. At times it probably did look like I don't know what I'm doing. I met some disinterested and stony-faced Venture Capitalists. I went into these sessions feeling proud of what I'm building, but left wondering why I was even there.
+I was asked difficult questions. I didn't have answers to all of them. At times it looked like I don't know what I'm doing. I met disinterested and stony-faced Venture Capitalists. I went into these sessions feeling proud of what I'm building, but left wondering why I was even there.
 
 While some of what I'm saying sounds negative, _it isn't_.
 
@@ -77,4 +77,4 @@ Although I love my friends, I sometimes feel I'm wired up differently. I want to
 
 There was an instant bond with the group. I liked everybody I met. So much so that if I don't get accepted onto the Ignite programme, I won't feel resentment or bitterness. I'll be happy for the startups that get through.
 
-I extracted enough value from the off-site that my 48 hours in Newcastle, irrespective of the outcome, was worthwhile. What a whirlwind experience!
+I extracted enough value from the offsite that my 48 hours in Newcastle, irrespective of the outcome, was worthwhile. What a whirlwind experience!

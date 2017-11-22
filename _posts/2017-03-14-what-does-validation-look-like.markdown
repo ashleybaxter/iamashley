@@ -28,9 +28,9 @@ Here's how I personally measure validation:
 
 But maybe I wouldn't think Jack has been validated if I had 3 kids to feed.
 
-Maybe I wouldn't think Jack has been validated if I'd left a job with a £60K salary to pursue it.
+Maybe I wouldn't think Jack has been validated if I'd left a job with a £60K salary.
 
-I'm fortunate that I'm building Jack with a financial cushion from other projects. This is why it's impossible to have a blanket response to <em>"What does validation look like?"</em>. Everybody's circumstances / goals are different, therefore validation looks different to everyone.
+I'm fortunate that I'm building Jack with a financial cushion from other projects. This is why it's impossible to have a blanket response to, <em>"What does validation look like?"</em>. Everybody's circumstances / goals are different, therefore validation looks different to everyone.
 
 <h3>Playing The Long Game</h3>
 
@@ -46,11 +46,9 @@ Despite an insight into how my dad built his business, my mind wrestles with the
 
 "How We Got 100,000 Users In 24 Hours"
 
-While they're fun to read and (maybe) spark ideas to apply to your own business, they're unrealistic. They make business sound easy. The overnight success story. My worry is people read these articles thinking that's how business should look.
+While they're fun to read and (maybe) spark ideas to apply to your own business, they're unrealistic. They make business sound easy. That it's an overnight success. My worry is people read these articles thinking that's how business should look.
 
-Nobody writes about "How It Took Me 500 Days Of Showing Up And Making Lots Of Mistakes To Earn Enough Money To Pay My Bills". That's partly why I blog about <a href="/tags/#lessons">where I'm going wrong</a>, because that part is just as important as when you get it right.
-
-<em>Side note: A business blog I enjoy reading that's refreshingly honest is <a href="http://adii.me/">Adii Pienaar's</a>.</em>
+Nobody writes about, "How It Took Me 500 Days Of Showing Up And Making Lots Of Mistakes To Earn Enough Money To Pay My Bills". That's partly why I blog about <a href="/tags/#lessons">where I'm going wrong</a>, because that part is just as important as when I get it right.
 
 In 2015 I changed a lot about the way I do business. I used to follow my creative itch, starting a new project whenever inspiration hit. I'd then move onto the next thing when I got bored or lost steam.
 
