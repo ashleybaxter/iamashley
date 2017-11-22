@@ -37,13 +37,13 @@ _"You need to disrupt an existing business model."_
 
 These were just a few of my thoughts.
 
-As well as the cash injection I wanted validation. Getting investment was like somebody saying, _"I believe you can do this."_. After years of insurers rejecting me, my fragile ego craved validation.
+As well as the cash injection I wanted validation. Getting investment was like somebody saying, _"I believe you can do this"_. After years of insurers rejecting me, my fragile ego craved validation.
 
 But I didn't get investment.
 
 After the initial disappointment, I felt OK about it. No, _really_. I trust the accelerator. I respect the people who made that decision. I _understand_ why they passed on investing. It wasn't right for them… and in hindsight it wasn't right for me.
 
-_Side note: You may be wondering why I didn't get investment. I think it was down to being a solo founder, not solving a big enough problem and being unclear on where the £25,000 would go. I'm sure there were other factors, too.)_
+_Side note: You may be wondering why I didn't get investment. I think it was down to being a solo founder, not solving a big enough problem and being unclear on where the £25,000 would go. I'm sure there were other factors, too._
 
 I had no desire to apply for other accelerators. I'd been on the fence about investment, so when it fell through my thoughts turned back to bootstrapping.
 
