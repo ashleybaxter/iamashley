@@ -1,0 +1,159 @@
+---
+layout: post
+title:  "2017: Year In Review"
+date:   2017-12-29
+banner_image: year_review_17.jpg
+tags: [business, jack, stats]
+---
+
+My last <a href="/2016/12/16/jacks-year-in-review/">Year in Review</a> was written when With Jack had barely launched. I was getting to grips with what <a href="/tools">tools to use</a>, where to find customers and even _who_ my customers were.
+
+Now I've been building <a href="https://withjack.co.uk">With Jack</a> for over a year.
+
+Spoiler: It doesn't matter how far into the journey I am, I'm still figuring things out! With that said, With Jack is definitely growing up.
+
+I've found that each year has a theme. 2015 was all about filtering out distractions and focusing on my goal with insurance. 2016 benefited from my laser focus in 2015 and I finally launched With Jack. 2017 was slow and steady improvements. Iterating and inching forward. One foot in front of the other.
+
+This is my personal and professional reflection of 2017.
+
+<h2>Q1—January, February, March</h2>
+
+{% include image_full.html imageurl="/images/posts/geneva.jpg" title="Geneva" %}
+
+The year started badly. I was celebrating <a href="https://girlwithacamera.co.uk/my-birthday-in-switzerland/">my 30th birthday in Geneva</a> when my house was burgled. Over £5000 worth of belongings were stolen. Fortunately I had insurance.
+
+Everything was replacable, but the emotional impact of having a stranger in my house, touching my personal possessions was… disturbing.
+
+When I returned from Geneva I found a lump on my dog's leg. Cue a lot of anxiety and visits to the vet with Indie. The bad news: it was a cancerous lump. The good news: I caught it quickly.
+
+What followed was an operation, a difficult recovery, another lump and a lot of stress.
+
+{% include image_full.html imageurl="/images/posts/indie_recovering.jpg" title="Indie recovering in the sun" %}
+
+The year improved after a rocky start. One highlight of January was my profile in <a href="https://www.thetimes.co.uk/article/i-belong-to-glasgow-dear-old-start-up-town-5rgmv8k99">The Sunday Times</a>. Indie and I had a photo shoot and were featured on the cover of the business section playing a game of pool (she won). I was also profiled in <a href="http://www.eveningtimes.co.uk/news/15171651.Glasgow_Means_Business__Ashley_Baxter__founder_of_With_Jack_/">The Evening Times</a> in March.
+
+Q1 saw big changes to With Jack! I rolled out new products to the quote system, almost doubling my average commission. I worked with <a href="https://twitter.com/naomisusi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">Naomi</a> on improving the onboarding experience and removing friction. This took my conversion rate of quote to purchase from 26% to 40%.
+
+March came to a close with Naomi and I escaping to Loch Fyne for a few days of relaxation.
+
+{% include image_full.html imageurl="/images/posts/loch_fyne.jpg" title="Naomi at Loch Fyne" %}
+
+<h2>Q2—April, May, June</h2>
+
+In April I traveled to Uist—<a href="https://girlwithacamera.co.uk/south-uist/">an island in the Outer Hebrides</a>—to watch a close friend get married. Shawshank and I have been friends since college, so visiting her home town of Benbecula was overdue.
+
+It was an experience on many levels. The propellor plane, barren landscapes and slow pace of island life with the juxtaposition of a wild wedding. Those islanders know how to party.
+
+{% include image_full.html imageurl="/images/posts/island_wedding.jpg" title="What an island wedding looks like" %}
+
+May is when things ramped up. I travelled to Southport to film a segment of Right on the Money for the BBC. This was about earning extra income from a hobby like I do with photography, which has enabled me to fund the development costs of With Jack. Being on TV is scary.
+
+I celebrated <a href="/2017/05/25/my-first-100-customers/">reaching 100 customers</a>. I'd _love_ to have ended the year hitting the 200 milestone, but I'll be about 20 customers short. I'm still giving myself a pat on the back for reaching this point manually submitting quotes and as a one-woman, bootstrapped startup.
+
+Q2 also saw me apply to join an accelerator, <a href="https://ignite.io">Ignite</a>. This has been a highlight of the year (even if I didn't get accepted into the programme). The amount of knowledge I've accrued has been invaluable. I've met interesting people and got a better grasp of what I need to do with Jack. I can thank this experience for a lot of what I've learned this year.
+
+{% include image_full.html imageurl="/images/posts/ignite_01.jpg" title="The first Ignite offsite in Newcastle" %}
+
+I finished Q2 by building in support for more professions. 70% of With Jack's customers are made up of the initial audience I launched to (designers and developers), but I started to get interest from photographers and marketers. Improving the experience for them has encouraged more sign-ups.
+
+<h2>Q3—July, August, September</h2>
+
+Q3 was quiet. I continued attending Ignite's monthly offsites in Manchester, London and Edinburgh and chipping away at With Jack. Insurance sales dipped in the summer, but I've learned this is a pattern I can't do much about.
+
+In August I started <a href="https://www.youtube.com/user/AshleyBaxter87">a YouTube channel</a>. My only plan with this was to commit to an upload every week and be transparent (a contrast to the _"We're always killing it"_ culture). However, my plans will be changing for the channel in 2018. Stepping away from weekly videos, but creating meatier content.
+
+<h2>Q4—October, November, December</h2>
+
+In October I did something I'm proud of. I completed a half-marathon! It was sprung upon me 2 weeks before when a friend pulled out of the race. With minimal training I got around the course in 2 hours and 30 minutes. It was the farthest I've ran. I am not a runner. I lift weights.
+
+Speaking of weights, I also managed a 90KG deadlift. That's a personal best!
+
+The latter part of this year has been great for fitness. Joining park run and taking up circuits has meant getting back on track with exercise.
+
+After the half-marathon I flew to Bristol and gave my talk, Idea to Execution and Beyond, at <a href="https://2017.webdevconf.com/">Web Dev Conf</a>. Public speaking still terrifies me, but I've vowed to continue practicing. Once back in Glasgow I delivered the same talk at GlasgowJS.
+
+{% include image_full.html imageurl="/images/posts/ashley_speaking.jpeg" title="Speaking at Web Dev Conf" %}
+
+The highlight of Q4 was <a href="http://scottriley.im/">Scott Riley</a> visiting Glasgow. This was the beginning of us redesigning the customer journey for the self-service quote platform (in other words, instant quotes!).
+
+I didn't expect to be manually submitting quotes this long, but it's given me an opportunity to speak to my customers. When most insurers think customer development is a pop-up survey upon exiting their site, I've had some eye-opening conversations that have directly shaped Jack.
+
+An unexpected addition to revenue was event insurance. At the end of November I <a href="https://twitter.com/iamashley/status/935542446641090560">tweeted about offering insurance for digital conferences and meet-ups</a>. Within a couple of weeks—without building it into the system—I had sold 3 policies. I think I just validated something without writing a line of code!
+
+<h3>Last Year's Review</h3>
+
+<blockquote>My big goal is to punch an insurer’s rates into my system so quotes and cover are instant. I hope I can make that happen in 2017, but it all depends on the volume of business I continue placing.</blockquote>
+
+This is happening. As with everything in insurance it takes time. Forms to be filled out, applications to be submitted… But it's happening.
+
+I also wrote a separate post with <a href="/2016/12/31/my-goals-for-2017/">my goals for 2017</a>. How did I do?
+
+* Add more cover features to the quote system _(Nailed it)_
+* Build a dashboard for customers _(In progress along with the self-service quote system)_
+* Create a referral scheme _(It's basic, but customers are using it)_
+* Double the number of policies I'm selling _(Nope)_
+* Run a half marathon _(Woah, I totally did this)_
+* Sit my next insurance exam _(Currently studying. It's boring)_
+* Do a photo project _(Only if you count <a href="https://twitter.com/search?f=tweets&vertical=default&q=iamashley%20weekend%20in%20photos&src=typd">'My Weekend In Photos' tweets</a>. I generally took more photos and kept <a href="https://girlwithacamera.co.uk">my photo blog</a> regularly updated, so I count this as a win)_
+
+The goal I stumbled with was doubling my sales. Every time activity picks up and I think it's the start of a trend, there's a period of stagnation. In fact, With Jack's growth looks a lot like the image below (taken from <a href="https://baremetrics.com/blog/long-slow-saas-ramp-of-death">Navigating The Long, Slow SaaS Ramp of Death</a>). 
+
+{% include image_full.html imageurl="/images/posts/saas_ramp_of_death.png" title="This is how my sales look" %}
+
+I've spent the latter part of this year learning how to convey the value of insurance and describe what With Jack does without saying, _"We sell business insurance"_.
+
+This is where I'm currently at, but I'm constantly iterating.
+
+<h5>The Problem</h5>
+
+44% of freelancers will be stung by a bad client. This can set the freelancer back financially and be emotionally taxing.
+
+<h5>The Solution</h5>
+
+With Jack helps freelancers get the policy they need to protect them financially and legally if that happens. We're on your side and offer emotional support, so it doesn't feel like you're facing the problem alone.
+
+<h5>The Reward</h5>
+
+Freelancers are free to focus on the important stuff—securing that next project and doing great work.
+
+<h5>The Pitch</h5>
+
+44% of freelancers will be stung by a bad client. With Jack helps freelancers get the policy they need to protect them financially and legally if that happens, freeing them up to focus on the important stuff.
+
+Nailing Jack's messaging should improve sign-ups. That and building the self-service platform!
+
+It has been a struggle bootstrapping. I haven't invested anything into With Jack beyond money I've earned photographing weddings. I do feel like I'm moving slowly—from developing product features to growing the company.
+
+Bootstrapping requires a lot of patience. When you see others moving quicker or having more resources, practicing patience can be challenging. But I've thought _a lot_ about this topic and <a href="/2017/11/22/why-im-bootstrapping/">bootstrapping feels right</a>.
+
+Other things I did that didn't fit anywhere else:
+
+* Built a <a href="https://whatinsurance.withjack.co.uk/">'What insurance do I need?'</a> tool
+* Attended Startup Summit, Turing Fest, Startup Grind, Virgin Startup, Tech Masterclass and GAB
+* Visited Newcastle, Manchester, London, Bristol, Southport and Cambridge for work
+* Watched lots of my friends have babies (3 had babies, 1 is pregnant)
+* Got back into drumming. Once a week I book a studio for an hour and practice
+* <a href="https://www.pinterest.co.uk/insurancebyjack/books/">Read some books.</a> Business for Punks, Shoe Dog, Sprint, Lean In, Creativity Inc, The Subtle Art of Not Giving a Fuck, and Confessions of a Public Speaker.
+
+<h3>Cold, Hard Stats</h3>
+
+With Jack's ending 2017 with the following stats:
+
+* 25,366 Visitors
+* 435 Quotes
+* 176 Customers
+* 40% Conversion Rate
+* £56,000+ Gross Premium Written
+* 87% Renewal Rate
+
+I'm doing _something_ right. 40% of quotes become customers and 87% of them choose to stay with Jack come renewal time. What I'm lacking is volume. I've known this all along, and it's a problem I'm not yet sure how to solve.
+
+<h3>Looking Forward</h3>
+
+Even though 2018 is only a few days away, I haven't given much thought to it. I've been wrapped up in what's happening _right now_. I'll possibly write down my goals once I've given them some more thought.
+
+I do know I'm itching to be more creative; with the content I write, videos I produce and photos I take. I do know I have another year ahead of being laser focused on building With Jack.
+
+It's likely much of the same as 2017, but with more experience, more resources (I have 176 customers and a renewal rate of 87%. That's a decent chunk of recurring revenue) and continuing to iterate.
+
+Oh, and hopefully no more vet visits or break-ins.

@@ -8,7 +8,7 @@ tags: [business, jack, stats]
 
 Maybe 4 months in business is too soon for a 'Year In Review', but I'm a sucker for those posts (and I've learned a lot in 4 months).
 
-I quietly launched Jack at the tail-end of August. I was sitting in a hotel room in Berlin with my sister. <a href="/idea-to-launch-in-11-years/">After a bumpy few years</a> getting Jack off the ground, I deployed the code to GitHub and went out to explore the city. Great city, by the way.
+I quietly launched <a href="https://withjack.co.uk">With Jack</a> at the tail-end of August. I was sitting in a hotel room in Berlin with my sister. <a href="/idea-to-launch-in-11-years/">After a bumpy few years</a> getting With Jack off the ground, I deployed the code to GitHub and went out to explore the city. Great city, by the way.
 
 To finally implement my own design and technology (a work in progress) after years of trying… I can't describe how it felt! It's the beginning of building the company that's been swirling around in my head for years.
 
@@ -20,7 +20,7 @@ Building a business is challenging enough, but doing so without creative control
 
 Anyway… let's get into this.
 
-Almost 4 months in Jack has 41 customers. They're evenly split down the middle with designers and developers, then there's the odd marketer and consultant.
+Almost 4 months in With Jack has 41 customers. They're evenly split down the middle with designers and developers, then there's the odd marketer and consultant.
 
 <h3>Top Sources Of Traffic</h3>
 
@@ -39,7 +39,9 @@ Marketing insurance is about planting a seed. It may not be a freelancer's time 
 Provided I can get Jack in front of the right people, I'll plant that seed for renewal time. That's what micro-sites like the <a href="http://checkup.withjack.co.uk/">business health checkup tool</a> are helping me do.  <a href="https://justinjackson.ca/play-the-long-game/
 ">I'm playing the long game.</a>
 
-<h3>Tools For Building Jack</h3>
+<h3>Tools For Building With Jack</h3>
+
+*Update 06/12/17: Here's an updated list of <a href="/tools">the tools I use</a>*
 
 * <a href="http://pipedrive.com">Pipedrive</a>
 * Custom CRM tool
@@ -103,7 +105,7 @@ It's not the same as having a co-founder, but it helps me to feel a little less 
 
 <h3>What's Next?</h3>
 
-I want to grow Jack into a community for freelancers. To have a body of designers, developers and more, it seems wasteful to not build in community features. A forum for discussion, a job board, accountability or collaboration features… I don't know yet. If there's anything you'd like to see from Jack, <a href="http://twitter.com/iamashley">let me know</a>.
+I want to grow With Jack into a community for freelancers. To have a body of designers, developers and more, it seems wasteful to not build in community features. A forum for discussion, a job board, accountability or collaboration features… I don't know yet. If there's anything you'd like to see from With Jack, <a href="http://twitter.com/iamashley">let me know</a>.
 
 My big goal is to punch an insurer's rates into my system so quotes and cover are instant. I hope I can make that happen in 2017, but it all depends on the volume of business I continue placing.
 
@@ -115,6 +117,6 @@ This jumped out at me when looking over my 2015 review:
 
 <blockquote>I’m confident that with the effort I put into phasing out distractions in 2015, I’ll have a more focused and productive 2016.</blockquote>
 
-2015 was all about phasing out distractions and focusing on insurance. It felt like a quiet and uneventful year, but it ultimately lead to launching Jack in 2016. With that said, 2016 was just a warm-up for Jack.
+2015 was all about phasing out distractions and focusing on insurance. It felt like a quiet and uneventful year, but it ultimately lead to launching With Jack in 2016. With that said, 2016 was just a warm-up for Jack.
 
 I've dipped my toe in the water. I like it. I'm going all in.
