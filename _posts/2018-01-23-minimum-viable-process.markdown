@@ -69,7 +69,7 @@ After the fear of launching without instant quotes, it turns out people are OK w
 
 When I launched in 2016 I wasn't thinking along the lines of customer development. I didn't even know what that was. The manual process was simply the quickest way to ship.
 
-16 months later and I echo Alex's comment above—it's been the most valuable thing to inch With Jack forward.
+16 months later and I echo Alex's comment above—customer development has been the most valuable thing to inch With Jack forward. Speaking to customers has been as a direct result of having to manually process quotes.
 
 <h4>The Downside Of The Manual Process</h4>
 
@@ -115,9 +115,9 @@ I can't stress this enough. With Jack's growth has been slow and steady—this i
 
 40% of people who get a quote convert to customers, but that leaves 60% who don't. I don't ignore them, even if it does mean having uncomfortable conversations about why they didn't sign up.
 
-It's trickier getting a follow-up from lost sales. The direct approach has had little success for me. A final email to ask why they didn't sign up mostly goes ignored.
+It's trickier getting a follow-up from lost sales. They're not invested in the service, so likely won't take the time to provide constructive feedback.
 
-I've had more success using a survey tool (I use <a href="https://iteratehq.com/">Iterate</a>). I still won't get a high response rate, but it's worked better than email. I create a short survey with 3 questions and stress it's anonymous.
+The direct approach has had little success for me. A final email to ask why they didn't sign up mostly goes ignored. I've had more success using a survey tool (I use <a href="https://iteratehq.com/">Iterate</a>). I still won't get a high response rate, but it's worked better than email. I create a short survey with 3 questions and stress it's anonymous.
 
 When I send a link to the survey, I try appealing for feedback on a personal level (_"As a one-woman startup, this feedback really helps and goes into shaping With Jack"_).
 
