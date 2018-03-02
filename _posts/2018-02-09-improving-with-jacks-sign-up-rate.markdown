@@ -96,8 +96,8 @@ The sticking point is still the copy. The nature of the questions and the legal 
 
 It's a case of getting a cup of coffee, putting on your headphones and spending a few minutes pushing through the pain. A small trade-off for the sake of protecting your business from shit like <a href="https://withjack.co.uk/insurance/2018/01/12/how-insurance-helped-this-designer-with-a-strained-client-relationship.html">this</a> and <a href="https://withjack.co.uk/insurance/2017/07/12/how-insurance-helped-this-developer-fight-scope-creep.html">this</a>.
 
-With that said, Scott (the designer I'm working with) and I brainstormed how we're going to address this with the next version.
+With that said, Scott (the designer I'm working with) and I brainstormed how we're going to address this with the next version. We think we've come up with a solution.
 
-Another issue we're tackling with the redesign is the feeling of abandonment once you buy your insurance. At the moment, the customer journey is optimised around quoting and buying. Once you become a customer it can feel a bit like being deserted. That is until things get hairy or your annual renewal is due. We're tackling this next. More on that soon…
+Another issue we're tackling with the redesign is the feeling of abandonment once you buy your insurance. At the moment, the customer journey is optimised around quoting and buying. Once you become a customer it can feel like you're being deserted. That is until things get hairy or your annual renewal is due. We're tackling this next. More on that soon…
 
 This is what I love best about building With Jack. Listening to feedback and implementing it, then watching the effect it has. Finding problems or inefficiencies and trying to solve them. Getting more freelancers insured.
