@@ -33,7 +33,7 @@ Since then I've taken online courses, listened to podcasts and read blog posts o
 
 That's the opposite of what I did with Lodger. I had an idea, locked myself away in my office and built it.
 
-This wasn't a quick mistake I got out of the way after a few evenings and weekends spent coding. This was the project that taught me _how_ to code, so it wasn't built overnight. 9 months of intense coding, learning Ruby and a lot of hours on Stack Overflow. Women grow human beings in that time.
+This wasn't a quick mistake I got out of the way after a few evenings and weekends spent coding. This was the project that taught me _how_ to code, so it wasn't built overnight. 9 months of intense coding, learning Ruby and a lot of hours on Stack Overflow. Women grow human beings in that time!
 
 With Lodger being my first app I wanted it to be perfect. As I was progressing with learning Ruby, I'd go back and refactor my early code. A completely pointless act given I had 0 users. Hey, at least I felt like I was being productive!
 
@@ -41,7 +41,7 @@ Not only did I invest _a lot_ of time building it, I wanted it to look slicker t
 
 {% include image_full.html imageurl="/images/posts/lodger.jpg" title="Lodger" %}
 
-This approach meant I received compliments like this:
+I received compliments like this:
 
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Beautiful holding (sign up) page for <a href="http://t.co/DpBYITEou1">http://t.co/DpBYITEou1</a> by <a href="https://twitter.com/iamashley?ref_src=twsrc%5Etfw">@iamashley</a>.</p>&mdash; Rob Such (@robertsuch) <a href="https://twitter.com/robertsuch/status/319468831997300737?ref_src=twsrc%5Etfw">April 3, 2013</a></blockquote>
@@ -77,7 +77,7 @@ This looks very different to my experience building Lodger. I intentionally did 
 
 With Jack is the first project I've made money from prior to launching. It's the first project I've embraced imperfections with and built in a public way, with the input of my customers. Maybe that's why it made money prior to launch.
 
-I started small. I tested the water by signing up as an affiliate for an insurance broker. Whilst I couldn't build my own tech and customer journey, it meant I could launch something quickly and guage interest. That interest was 55 sign-ups, £14,000 and positive feedback towards the brand.
+I started small. I tested the water by signing up as an affiliate for an insurance broker. Whilst I couldn't build my own tech and customer journey, it meant I could launch something quickly and gauge interest. That interest was 55 sign-ups, £14,000 Gross Premium Written and positive feedback towards the brand.
 
 That was my first step in validating With Jack.
 
@@ -93,11 +93,11 @@ Unlike the SaaS app, With Jack is growing every month. It's consistently made mo
 
 Maybe I've skirted around why I'm writing about this, but I wanted to open by sharing my different experiences of building Lodger and With Jack.
 
-The point of this post is to prevent people from making the same mistake I did with Lodger. Coming up with an idea, convinced it'll work without validating it, then spending months building out a complete vision. More often than not, the idea doesn't take off. It's a lot of work and disappointment that could have been avoided had there been some initial validation.
+The point of this post is to prevent people from making the same mistake I did. Coming up with an idea, convinced it'll work without validating it, then spending months building out a complete vision. More often than not, the idea doesn't take off. It's a lot of work and disappointment that could have been avoided had there been some initial validation.
 
 Recently I've seen a couple of people ignore idea validation. That's been the catalyst for this blog post.
 
-After I gave my talk—Idea to Execution and Beyond—<a href="https://frontendne.co.uk/talks/idea-to-execution-and-beyond">at Frontend NE in February</a>, somebody approached me to ask a question. Our conversation went like this:
+After I gave my talk—Idea to Execution and Beyond—<a href="https://frontendne.co.uk/talks/idea-to-execution-and-beyond">at Frontend NE in February</a>, somebody approached me with a question. Our conversation went like this:
 
 __Guy:__ "How much would insurance for my startup cost?"
 
