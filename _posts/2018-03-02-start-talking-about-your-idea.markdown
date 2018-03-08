@@ -27,15 +27,15 @@ It's easy to see why Lodger failed. There's nothing I did right at any step in t
 
 I built something I _thought_ landlords would value, instead of researching what they _actually_ need.
 
-Not having an audience to market to was also an issue, but that's secondary to me failing to recruit feedback prior to and during the development stage. After all, it doesn't matter how big your audience is. If what you're building only solves an imaginary problem, nobody's going to give you money for it.
+Not having an audience to market to was also an issue, but that's secondary to not recruiting feedback prior to and during the development stage. After all, it doesn't matter how big your audience is—if what you're building only solves an imaginary problem, nobody's going to give you money for it.
 
-Since then I've taken online courses, listened to podcasts and read blog posts on the subject of product creation. They've all taught me the same thing. To have any chance at building a successful business, you must uncover a pain a group of people have and work with them to develop a solution to it.
+Since then I've taken online courses, listened to podcasts and read blog posts on the subject of product creation. They've all taught me the same thing. To have any chance at building a successful business, you must uncover a pain or desire a group of people have and work with them to develop a solution to it.
 
 That's the opposite of what I did with Lodger. I had an idea, locked myself away in my office and built it.
 
-This wasn't a quick mistake I got out of the way after a few evenings and weekends spent coding. This was the project that taught me _how_ to code, so it wasn't built overnight. 9 months of intense coding, learning Ruby and a lot of hours on Stack Overflow. Women grow human beings in that time!
+This wasn't a quick mistake I got out of the way after a few evenings and weekends spent coding. This was the project that taught me _how_ to code, so it wasn't built overnight. 9 months of learning Ruby and a lot of hours on Stack Overflow. Women grow human beings in that time!
 
-With Lodger being my first app I wanted it to be perfect. As I was progressing with learning Ruby, I'd go back and refactor my early code. A completely pointless act given I had 0 users. Hey, at least I felt like I was being productive!
+With Lodger being my first app I wanted it to be perfect. As I was progressing with learning Ruby, I'd go back and refactor my early code. A completely pointless act given I had 0 users. Hey, at least I felt like I was being productive.
 
 Not only did I invest _a lot_ of time building it, I wanted it to look slicker than the competition. This was going to be the edge against my competitors (or so I thought), many of which were desktop apps with clip-art inspired icons. So, I hired a designer and Lodger looked great.
 
@@ -57,11 +57,11 @@ And this:
 
 On the surface these compliments felt like validation and made me feel good, but there was a big problem. These words weren't coming from the people who would pay for the app. There were no glowing testimonials from landlords who'd finally found the solution to their burning problem, because Lodger wasn't solving a burning problem.
 
-Speaking to my target market and validating there was a need for Lodger—instead of diving into Sublime and Photoshop—would have saved me 9 months of work. _(Another lesson I'd learn is that landlords don't care if software looks nice or has squeaky clean code.)_
+Speaking to my target market and validating there was a need for Lodger—instead of diving into Sublime Text and Photoshop—would have saved me 9 months of work. _(Another lesson I'd learn is that landlords don't care if software looks nice or has squeaky clean code.)_
 
 <blockquote>What design can’t do is solve a fundamental problem in your business model — Reid Hoffman</blockquote>
 
-Where I failed was by not talking to landlords and uncovering a pressing pain they all had. I didn't design a solution they'd pay for. I just built something I thought they would like, which is naive because I'm not a landlord. 
+Where I failed was by not talking to landlords and uncovering a pressing pain they all had. I didn't design a solution they'd pay for. I just built something I thought they would like, which is stupid because I'm not a landlord. 
 
 This all sounds obvious, but I'm not alone in doing this. A lot of people take this approach when building stuff.
 
@@ -93,11 +93,13 @@ Unlike the SaaS app, With Jack is growing every month. It's consistently made mo
 
 Maybe I've skirted around why I'm writing about this, but I wanted to open by sharing my different experiences of building Lodger and With Jack.
 
-The point of this post is to prevent people from making the same mistake I did. Coming up with an idea, convinced it'll work without validating it, then spending months building out a complete vision. More often than not, the idea doesn't take off. It's a lot of work and disappointment that could have been avoided had there been some initial validation.
+The point of this post is to prevent people from making the same mistake I did. Coming up with an idea, convinced it'll work without validating it, then spending months building out a complete vision.
 
-Recently I've seen a couple of people ignore idea validation. That's been the catalyst for this blog post.
+More often than not, the idea doesn't take off. It's a lot of work and disappointment that could have been avoided had there been some initial validation.
 
-After I gave my talk—Idea to Execution and Beyond—<a href="https://frontendne.co.uk/talks/idea-to-execution-and-beyond">at Frontend NE in February</a>, somebody approached me with a question. Our conversation went like this:
+I’ve seen a lot of people skip idea validation. Recent experiences of seeing this happen have been the catalyst for this blog post.
+
+Last month I gave my talk—Idea to Execution and Beyond—<a href="https://frontendne.co.uk/talks/idea-to-execution-and-beyond">at Frontend NE</a> in Newcastle. Afterwards somebody approached me with a question. Our conversation went like this:
 
 __Guy:__ "How much would insurance for my startup cost?"
 
@@ -105,7 +107,7 @@ __Me:__ "It depends. What does your startup do?"
 
 __Guy:__ "I can't tell you. We haven't launched yet and we don't want anybody stealing our idea".
 
-I had _just_ given a talk about the importance of idea validation. He said he'd enjoyed most of my talk, but disagreed with that part. That's OK—I don't expect everyone to agree with me, yet I couldn't help but feel he's shooting himself in the foot before he's even started. And I told him that.
+I had _just_ given a talk about the importance of idea validation. He said he'd enjoyed most of my talk, but disagreed with that part. That’s OK, I don’t expect everyone to agree with me. Yet I couldn’t help but feel he’s shooting himself in the foot before he’s even started. And I told him that.
 
 _"How do you know this idea is worth your time and money if you aren't speaking to people and validating it?"_
 
@@ -144,9 +146,9 @@ When it came to building Lodger, I had three reasons for diving into the build i
 2. I was embarrassed by the thought of sharing a product that was less than perfect
 3. I didn't have any connections in the buy-to-let scene. Rounding up a herd of landlords for customer development seemed intimidating
 
-I'm a big fan of Reid Hoffman's podcast, Masters of Scale. <a href="https://mastersofscale.com/payal-kadakia-how-to-price-your-product-to-scale/">One of the recent episodes</a> saw Reid Hoffman interviewing Payal Kadakia about her startup, Classtivity. Classtivity didn't have a successful launch and would later pivot to ClassPass.
+I'm a big fan of Reid Hoffman's podcast, Masters of Scale. <a href="https://mastersofscale.com/payal-kadakia-how-to-price-your-product-to-scale/">One of the recent episodes</a> saw Reid Hoffman interview Payal Kadakia about her startup, Classtivity. Classtivity didn't have a successful launch and would later pivot to ClassPass.
 
-I'll paste part of the transcript below, but really you should download and listen to <a href="https://mastersofscale.com/">all of the episodes</a>.
+I'll paste part of the transcript below, but you should really download and listen to <a href="https://mastersofscale.com/">all of the episodes</a>.
 
 __Hoffman:__ Frequent listeners of this show may recall my theory that you never want to release a fully realized vision in the software world — because it’s most likely flawed. In fact, if you’re not embarrassed by your first release, you’ve released it too late. Many successful entrepreneurs have discovered this counterintuitive theory the hard way. They perfect their product, as Payal did, and then on launch day, well…I’ll let her tell the rest.
 
@@ -192,4 +194,4 @@ Pieter wrote about surpassing <a href="https://levels.io/50k/">$50K a month in r
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
-Please don't waste resources building something before validating it. I don't care how good you think your idea is, or how afraid you are that someone will steal it. You need to confirm it's something people want. How you validate it is up to you. Don't wait until your product is perfect. Involve your audience as early as possible. Never assume you have a million-pound idea.
+Please don't waste resources building something before validating it. I don't care how good you think your idea is or how afraid you are that someone will steal it. You need to confirm it's something people want. How you validate it is up to you. Don't wait until your product is perfect. Involve your audience as early as possible. Never assume you have a million-pound idea.
