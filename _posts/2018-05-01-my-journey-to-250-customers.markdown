@@ -3,7 +3,7 @@ layout: post
 title:  "My Journey To 250 Customers"
 date:   2018-05-01
 banner_image: ashley_bootstrapping.jpg
-tags: [business]
+tags: [business, launch, jack, stats]
 ---
 
 Somebody I follow on Twitter recently launched a new product. Within 2 months he had tweeted about hitting $10,000 MRR. Wow. I'm 1.5 years into building <a href="https://withjack.co.uk">With Jack</a> and nowhere near that figure.
@@ -84,7 +84,7 @@ They get to show clients they're equipped to get back to work quickly should som
 
 <h4>6-12 Months: Who Are These People?</h4>
 
-At the 6-12 month mark I was starting to get customers who weren't connected by one degree of seperation. They're still within the initial audience I built With Jack for, but they're finding us through organic search and marketing channels like that.
+At the 6-12 month mark I was starting to get customers who weren't connected by one degree of separation. They're still within the initial audience I built With Jack for, but they're finding us through organic search and marketing channels like that.
 
 Because of the channels they're discovering With Jack through, they know little about the company itself. Their first interaction isn't from seeing a tweet or blog post by me. In fact, many don't know that With Jack is a one-woman, bootstrapped startup.
 
