@@ -55,7 +55,7 @@ There's now a trickle of quotes from occupations that have no connection to With
 Getting friends and family to be your first customers is a smart move with any product launch. It's easy for a couple of reasons.
 
 1. You don't have to convince them to trust you
-2. They'll naturally want to support your business
+2. They'll want to support your business
 
 I'd spent a lot of time in the web industry before launching With Jack because of my interest in design and tech. I was attending conferences, speaking at meet-ups and was active <a href="https://iamashley.co.uk">on Twitter</a>. Because of this I made friends in the industry.
 
@@ -108,13 +108,13 @@ It did feel like a natural progression, though, because they fall on the fringes
 
 Provided the role doesn't stray too far from the audience I built With Jack for, they'll be able to buy insurance without any hiccups.
 
-If I get a lot of copywriters consistently requesting quotes, that's when I decide it's time to build support for them directly into the quote system.
+If I see a lot of one sector consistently requesting quotes, that's when I decide it's time to build support for them into the quote system.
 
 <h4>18 Months+: Turd Sandwich Making</h4>
 
 Lately the phone has been ringing and quotes have been coming through from businesses I didn't build With Jack for. This isn't a bad thing, but more often than not I'll send them elsewhere.
 
-I've designed the customer journey for a very specific group of people. I don't want With Jack to be the insurance platform for everyone—I feel like that's what most other insurers are trying to be. __I want to build a remarkable product for a small group of people.__
+I've designed the customer journey for a specific group of people. I don't want With Jack to be the insurance platform for everyone—I feel like that's what most other insurers are trying to be. __I want to build a remarkable product for a small group of people.__
 
 Being laser-focused on a specific audience means offering insurance that suits the work they do, instead of confusing them with products that aren't relevant. The customer journey, the products we offer… it's designed with my target audience in mind.
 
