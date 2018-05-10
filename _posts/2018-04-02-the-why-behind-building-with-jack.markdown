@@ -5,6 +5,11 @@ date:   2018-04-02
 banner_image: toads_caravan.jpg
 tags: [business]
 ---
+
+<iframe src='https://share.transistor.fm/e/48f42147' width='100%' height='180px' frameborder='0' scrolling='no' seamless='true'></iframe>
+
+_This post is available in audio format._
+
 Last week was challenging. Personally and professionally I felt worn down and tested. It was one of those moments where I question why I'm doing this. Those times don't happen often, but when they strike they're debilitating.
 
 Breaking into the insurance industry is tough. Doing it as a self-funded, solo founder is crazy.

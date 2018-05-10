@@ -6,6 +6,10 @@ banner_image: risk_form.jpg
 tags: [business, jack, stats, sales]
 ---
 
+<iframe src='https://share.transistor.fm/e/41b59ef4' width='100%' height='180px' frameborder='0' scrolling='no' seamless='true'></iframe>
+
+_This post is available in audio format._
+
 I first mentioned With Jack's conversion rate when writing about <a href="/2016/12/31/my-goals-for-2017/">my goals for 2017</a>. As of December 2016, 26% of people who got a quote with Jack became customers.
 
 Over the past 12 months we've been tweaking key parts of the customer journey. The conversion rate is now at 40%—a 14% improvement from 2016.

@@ -6,6 +6,10 @@ banner_image: ashley_bootstrapping.jpg
 tags: [business, launch, jack, stats]
 ---
 
+<iframe src='https://share.transistor.fm/e/1d283c7b' width='100%' height='180px' frameborder='0' scrolling='no' seamless='true'></iframe>
+
+_This post is available in audio format._
+
 Somebody I follow on Twitter recently launched a new product. Within 2 months he had tweeted about hitting $10,000 MRR. Wow. I'm 1.5 years into building <a href="https://withjack.co.uk">With Jack</a> and nowhere near that figure.
 
 For a minute I felt disheartened. Maybe I'm not good enough. Maybe I'm not cut out for this.
@@ -104,7 +108,7 @@ This is an interesting challenge and poses the question, _"How can I turn these 
 
 At this stage I started getting quotes for industries I hadn't advertised to. I hadn't built landing pages to target them or wasn't creating content to attract them.
 
-It did feel like a natural progression, though, because they fall on the fringes of the audience I launched to. For example, it's not difficult to see how a service built for web designers and internet marketers may attract copywriters.
+It does feel like a natural progression, though, because they fall on the fringes of the audience I launched to. For example, it's not difficult to see how a service built for web designers and internet marketers may attract copywriters.
 
 Provided the role doesn't stray too far from the audience I built With Jack for, they'll be able to buy insurance without any hiccups.
 

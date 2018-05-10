@@ -6,6 +6,10 @@ banner_image: volcano_two.jpg
 tags: [business, jack, launch]
 ---
 
+<iframe src='https://share.transistor.fm/e/ad5adb01' width='100%' height='180px' frameborder='0' scrolling='no' seamless='true'></iframe>
+
+_This post is available in audio format._
+
 I'm probably the only person to launch <a href="https://withjack.co.uk">an insurance company</a> in 2016 without automated quotes. How very internet of 1996. This was because I had:
 
 * no existing book of customers
