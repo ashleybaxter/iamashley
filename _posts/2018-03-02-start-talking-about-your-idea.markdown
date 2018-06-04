@@ -6,6 +6,8 @@ banner_image: lodger_teaser.png
 tags: [business, lessons, launch]
 ---
 
+<iframe src='https://share.transistor.fm/e/2d1e50f0' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>
+
 I've built (and shipped!) various projects over the years. These have ranged from online courses to SaaS apps and podcasts. Some of these projects have failed. Others did OK. And <a href="https://withjack.co.uk">With Jack</a>—the business I'm building now—made money before it even launched.
 
 The failed projects taught me a lot. Each mistake I made culminated in a successful launch for the project that's mattered most—With Jack. _(Well, successful by my standards given I had no money for marketing.)_
