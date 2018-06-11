@@ -6,6 +6,8 @@ banner_image: positioning.png
 tags: [business, jack]
 ---
 
+<iframe src='https://share.transistor.fm/e/b6fc77a8' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>
+
 <blockquote>There is no silver bullet in building a remarkable product and it might take you months or even years to find the right recipe, but if you start with a small audience and gather feedback on the way, your chance of coming up with a remarkable product or service will get much, much higher. — <a href="https://medium.com/the-mission/seth-godin-new-business-5-step-fdb354988c23">How Seth Godin Would Launch a New Business</a></blockquote>
 
 My business, <a href="https://withjack.co.uk">With Jack</a>, isn't reinventing the wheel. It's all manual processes and I'm not doing anything innovative. 
