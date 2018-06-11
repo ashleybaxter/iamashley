@@ -22,7 +22,7 @@ Here are some things I learned from my chat with Chris, but I recommend you <a h
 * At some point Niice shifted from an advertising model to subscription model. The advertising model wasn't great for advertisers as people didn't use Niice to click an ad and be taken elsewhere
 * Chris launched at 2.30AM and quickly made his first sale. He's since become friends with his first customer, Mark, and has lunch with him when he's in the USA
 * To Chris, bootstrapping means slow but sustainable
-* Hi goal isn't to get rich. It's to have freedom
+* His goal isn't to get rich. It's to have freedom
 * Chris says that being in business is being able to pay your bills. It doesn't matter what the rest of them (competitors, other startups) are doing
 * Initially he wasn't sure what problem he was tapping into. He figured that out as the app developed by speaking to people and building new features
 * Niice had 100,000 visits in the first month of launch and was covered in The Next Web. Growth has been organic
