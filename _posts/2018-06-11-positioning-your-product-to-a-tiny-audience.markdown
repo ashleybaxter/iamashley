@@ -78,7 +78,7 @@ If I can answer 'yes' to those questions it's the right fit for me as a founder.
 
 We've established that With Jack isn't doing anything innovative. What it does a good job of is positioning. This means freelancers feel With Jack is unique to them.
 
-Take these tweets as an example. This is people talking about With Jack:
+Take these tweets as an example.
 
 <blockquote>Only offered in UK currently but this is the kind of insurance I want for freelance work in the US.</blockquote>
 
@@ -110,7 +110,7 @@ Justin acknowledges the successful job ConvertKit did of positioning themselves.
 
 <blockquote>Your positioning matters a lot. Is there a huge difference between Nathan Barry's ConvertKit, which is email marketing for bloggers, and MailChimp, which is email marketing for whatever. Is there a big differentiator? No. A lot of it is the language they're speaking.</blockquote>
 
-ConverKit is now <a href="https://convertkit.baremetrics.com/">doing $1,000,000 MRR</a>. They carved a niche as email marketing for professional bloggers, and have evolved their positioning to email marketing for creators.
+ConvertKit is now <a href="https://convertkit.baremetrics.com/">doing $1,000,000 MRR</a>. They carved a niche as email marketing for professional bloggers, and have evolved their positioning to email marketing for creators.
 
 At With Jack, being clear on our positioning allows us to build a customer experience that's easy to navigate, use content to deliver a focused message and offer the neccessary products to our target audience.
 
