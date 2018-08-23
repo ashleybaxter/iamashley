@@ -6,6 +6,8 @@ banner_image: wedding.jpg
 tags: [business, personal, jack]
 ---
 
+<iframe src='https://share.transistor.fm/e/ce965955' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>
+
 On Sunday 12th August I photographed my last wedding. Not of the season, but forever.
 
 When I tell people this they seem surprised. _"But you love photography and you're good at taking photos!"_. I still love photography. That hasn't changed because I don't want to do wedding photography any longer.
