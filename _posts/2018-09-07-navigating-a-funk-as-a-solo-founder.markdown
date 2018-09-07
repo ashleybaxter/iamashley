@@ -6,6 +6,8 @@ banner_image: epicurrence_03.jpg
 tags: [business, jack]
 ---
 
+<iframe src='https://share.transistor.fm/e/1aed6ea8' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>
+
 One of the most challenging aspects of building With Jack is staying motivated as a solo founder. When I recognise I'm having one of *those* days I give myself permission to write it off.
 
 I'll do the bare minimum at work, go home and play video games or hit the gym. I'll do whatever I'm in the mood to do that takes me away from work—that's the point.
