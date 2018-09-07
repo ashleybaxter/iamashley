@@ -84,7 +84,7 @@ During the day we'd go on adventures such as hiking, kayaking and mountain bikin
 
 As the sun set, we'd gather around a fire and have candid conversations about burnout, diversity and creativity. All egos were left at the door. This was about creatives connecting on a level beyond just work.
 
-{% include image_full.html imageurl="/images/posts/epicurrence_02.jpg" title="Being interviewed by Pablo at Epicurrence" caption="Being interviewed by Pablo at Epicurrence. Photo by Edgar Chaparro" %}
+{% include image_full.html imageurl="/images/posts/epicurrence_02.JPG" title="Being interviewed by Pablo at Epicurrence" caption="Being interviewed by Pablo at Epicurrence. Photo by Edgar Chaparro" %}
 
 Epicurrence was a once in a life-time opportunity, so it won't be around to solve my next funk. However, it has reminded me of the importance of being involved in a community of like-minded individuals. Sometimes just being around others is enough to inspire creativity. This makes a huge difference to your day when you're a solo founder.
 
