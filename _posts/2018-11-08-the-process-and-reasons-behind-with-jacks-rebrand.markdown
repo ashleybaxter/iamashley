@@ -124,18 +124,11 @@ I made a decision to launch the new quote system alongside the rebrand, instead 
 
 <h4>A Lot Of Work For Something That Never Materialised</h4>
 
-
 We started redesigning the quote system because I thought I was getting a binder with the insurer (being able to bind polices from With Jack's website), but that fell through.
 
 This was the most frustrating part of the year because I had spent many hours working on my application—something I felt out of my depth with—only for it to not happen. It's an awful feeling to work really hard on something only for it to never materialise. Especially when my time is already spread so thin being a solo founder.
 
 We stripped our redesign back to just instant quotes, but that problem with the binder delayed the project and took us on a detour.
-
-<h4>I Am Not A Good 'Project Manager'</h4>
-
-I mentioned the team responsible for this rebrand and I consider each of them to be friends. Working with friends is a lot of fun, but one thing I felt awkward about was setting deadlines and telling them when I needed things done by.
-
-It sounds obvious, but milestones are for everyone's benefit and it turns out they needed deadlines to work to. Setting those boundaries earlier would have helped push the project along, but I was too inexperienced to realise this. I wanted this project to work around my friends' lives, but they wanted to work around me and needed deadlines to plan accordingly.
 
 Hopefully it's apparent how much thought and work went into this from everyone involved. I'd _love_ for you to check out the new <a href="https://withjack.co.uk">With Jack</a>. Let me know what you think of it and please help us spread the word. With Jack grows solely on word of mouth, so telling others about it really helps.
 
