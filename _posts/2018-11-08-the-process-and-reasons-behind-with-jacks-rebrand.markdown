@@ -6,6 +6,8 @@ banner_image: new_jack.png
 tags: [business, jack, launch]
 ---
 
+<iframe src='https://share.transistor.fm/e/f0313cde' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>
+
 In 2016 I launched the first version of With Jack from a hotel room in Germany. I remember that moment well. My sister was with me and I quietly pushed it live before heading out to explore Berlin. I had no idea what lay ahead, but I was ready for the journey. This was a long time coming.
 
 {% include image_caption.html imageurl="/images/posts/berlin.JPG" caption="August 2016. Just after I'd launched With Jack I explored Berlin with a beer and some Haribo" %}
