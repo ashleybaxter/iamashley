@@ -4,7 +4,7 @@ title: About
 featured_image: /assets/images/pages/about.jpg
 ---
 
-Ashley Baxter is currently building <a href"https://withjack.co.uk">With Jack</a>. Ashley likes video games, photography and her dog, Indie. She is based in Glasgow, Scotland.
+Ashley Baxter is currently building <a href="https://withjack.co.uk">With Jack</a>. Ashley likes video games, photography and her dog, Indie. She is based in Glasgow, Scotland.
 
 <h3>My Story</h3>
 
