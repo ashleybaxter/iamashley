@@ -2,8 +2,8 @@
 layout: post
 title:  "Beating Shiny Object Syndrome"
 date:   2017-10-19
-banner_image: projects.jpg
-tags: [business, jack, launch]
+featured_image: assets/images/posts/projects.jpg
+tags: [business, with-jack, launch]
 ---
 
 It took me over 2 years to launch <a href="https://withjack.co.uk">With Jack</a>. Here are three reasons why:
@@ -25,7 +25,7 @@ Here are just some of the projects I was working on:
 
 The list goes on…
 
-{% include image_full.html imageurl="/images/posts/projects.jpg" title="A list of my projects" %}
+{% include image-caption.html imageurl="/assets/images/posts/projects.jpg" title="A list of my projects" %}
 
 I had all of these projects that I was giving a little of my time to. I wanted to build and launch With Jack, but I wasn't putting 100% into it.
 
@@ -65,6 +65,6 @@ Ruthless prioritisation is where the magic happens.
 
 We're creatives, we're makers. We come up with new ideas and—because we have the skill set to execute on them—end up being pulled in different directions.
 
-Are you guilty of shiny object syndrome? Are you owner of a bunch of halk-baked projects or inactive domains? My advice is to pick one idea, give it the resources it needs to become a great project and cull the rest.
+Are you guilty of shiny object syndrome? Are you owner of a bunch of half-baked projects or inactive domains? My advice is to pick one idea, give it the resources it needs to become a great project and cull the rest.
 
 Each idea needs an extraordinary amount of work behind it to become a great project. Understanding that and realising I couldn't do that with multiple projects is what helped me beat shiny object syndrome.

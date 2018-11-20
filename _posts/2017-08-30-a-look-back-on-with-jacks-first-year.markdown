@@ -2,13 +2,13 @@
 layout: post
 title:  "A Look Back On With Jack's First Year"
 date:   2017-08-30
-banner_image: hybrid_launch.jpg
-tags: [business, launch, jack, stats]
+featured_image: assets/images/posts/hybrid_launch.jpg
+tags: [business, launch, with-jack, stats]
 ---
 
 Last week I cleaned out my home office and found a post-it note from 2013. It was a scribble of the insurance company I wanted to build, forming the basis of what would eventually become <a href="https://withjack.co.uk">With Jack</a>.
 
-{% include image_full.html imageurl="/images/posts/jack_postit.jpg" title="My post-it note of the insurance company I wanted to build" %}
+{% include image-caption.html imageurl="/assets/images/posts/jack_postit.jpg" title="My post-it note of the insurance company I wanted to build" %}
 
 1. It needs to be human.
 2. It rewards loyal customers.

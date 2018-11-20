@@ -2,7 +2,7 @@
 layout: post
 title:  "My Goals For 2017"
 date:   2016-12-31
-banner_image: new_year.jpg
+featured_image: assets/images/posts/new_year.jpg
 tags: [personal, business]
 ---
 
@@ -20,7 +20,7 @@ Now I have access to a wide suite of insurance products, I'll be building these 
 
 It's a win / win situation and my priority going into 2017. I earn more commission per policy, and freelancers can customise cover to their individual needs. I know I've lost sales due to the quoting process focusing solely on professional indemnity.
 
-Where the money to invest in this will come from is another blog post for another day. (Fun fact: Jack is bootstrapped on £10,000 I earned <a href="http://girlwithacamera.co.uk/weddings">photographing weddings</a>.)
+Where the money to invest in this will come from is another blog post for another day. (Fun fact: With Jack is bootstrapped on £10,000 I earned <a href="http://girlwithacamera.co.uk/weddings">photographing weddings</a>.)
 
 <h3>#2: Build a dashboard for customers</h3>
 
@@ -32,9 +32,9 @@ I can already envisage it being a frustrating project to tackle, but I'm open to
 
 <h3>#3: Create a referral scheme</h3>
 
-A lot of my first customers have come from referrals. This is handy because Jack is bootstrapped and I'm marketing on a tight budget.
+A lot of my first customers have come from referrals. This is handy because I'm bootstrapping and marketing on a tight budget.
 
-I haven't put much thought into the referral scheme just yet. It will, of course, begin with asking customers, _"What can I do to encourage you to recommend Jack to your friends?"_.
+I haven't put much thought into the referral scheme just yet. It will, of course, begin with asking customers, _"What can I do to encourage you to recommend us to your friends?"_.
 
 <h3>#4: Double the number of policies I'm selling</h3>
 
@@ -42,7 +42,7 @@ At the moment I'm putting 2-4 people on cover a week. This works out at 150+ cus
 
 Right now this feels unlikely, but it's a numbers game, right? With a conversion rate of 26%, it means I need to deliver 1200-odd quotes to get to 300 customers.
 
-Now to attract thousands of freelancers primed to buy insurance to <a href="https://withjack.co.uk">Jack's website</a>. That won't be hard. /sarcasm
+Now to attract thousands of freelancers primed to buy insurance to <a href="https://withjack.co.uk">my website</a>. That won't be hard. /sarcasm
 
 <h3>#5: Run a half marathon</h3>
 
@@ -68,6 +68,6 @@ I tell people who are just getting started with photography to carry their camer
 
 I haven't decided what that project will be yet. I'm open to suggestions (but no Project 365, please). 
 
-My ultimate aim for 2017 is for Jack to be delivering instant quotes and cover. I can only get there if I'm generating enough business for an insurer to consider giving me their rates to plug into my system. 
+My ultimate aim for 2017 is for With Jack to be delivering instant quotes and cover. I can only get there if I'm generating enough business for an insurer to consider giving me their rates to plug into my system. 
 
 It costs an insurer _a lot_ of money to onboard a broker, so they need to ensure it's worth their resources. If I keep building my book of customers and focusing on creating a good customer experience, I'm confident it'll happen.

@@ -2,10 +2,10 @@
 layout: post
 title:  "A Look At Jack's Figures 7 Months In"
 date:   2017-03-27
-banner_image: 7_months.jpg
-tags: [business, jack, launch, stats]
+featured_image: assets/images/posts/7_months.jpg
+tags: [business, with-jack, launch, stats]
 ---
-3 months ago I wrote <a href="/2016/12/16/jacks-year-in-review/">Jack's year in review</a> post. This was after only 4 months in business—1 of which was a soft launch. After putting my 81st customer on cover this week, I looked at some of the same figures that lead to that post.
+3 months ago I wrote <a href="/2016/12/16/jacks-year-in-review/">With Jack's year in review</a> post. This was after only 4 months in business—1 of which was a soft launch. After putting my 81st customer on cover this week, I looked at some of the same figures that lead to that post.
 
 Three months ago, my figures looked like this:
 
@@ -31,7 +31,7 @@ The consensus is:
 
 Insurance is a yearly purchase. Much of my audience wouldn't have been ready to buy insurance initially as they had existing policies.
 
-Secondly, Jack's launch garnered interest from a user base that isn't my market (geographic eligibility/fit the criteria). It also exposed Jack to people who <em>are</em> my market and used us to arrange their insurance. They now <a href="https://twitter.com/_withjack">follow Jack on social media</a> or recommend us to their friends, exposing us to more of our target market without the same footprint as launch.
+Secondly, With Jack's launch garnered interest from a user base that isn't my market (geographic eligibility/fit the criteria). It also exposed With Jack to people who <em>are</em> my market and used us to arrange their insurance. They now <a href="https://twitter.com/_withjack">follow With Jack on social media</a> or recommend us to their friends, exposing us to more of our target market without the same footprint as launch.
 
 Our overall footprint is smaller, but our target market footprint is bigger.
 
@@ -67,7 +67,7 @@ The traffic that converts best is:
 
 <h3>Jack's Strategy</h3>
 
-When I launched Jack I had no idea what would work. I still don't. But 6-7 months in I'm building a better picture of where to focus my time, energy and money.
+When I launched With Jack I had no idea what would work. I still don't. But 6-7 months in I'm building a better picture of where to focus my time, energy and money.
 
 Content is performing well. I think this is because most insurers don't cater their content to creative professionals. They can tell you why a tradesman needs insurance or a solicitor, but not a <a href="https://withjack.co.uk/insurance-for-web-designers/">web designer</a> or developer.
 

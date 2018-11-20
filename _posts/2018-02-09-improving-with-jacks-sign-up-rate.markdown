@@ -2,13 +2,11 @@
 layout: post
 title:  "Improving With Jack's Sign-Up Rate By 14%"
 date:   2018-02-09
-banner_image: risk_form.jpg
-tags: [business, jack, stats, sales]
+featured_image: assets/images/posts/risk_form.jpg
+tags: [business, with-jack, stats, sales]
 ---
 
 <iframe src='https://share.transistor.fm/e/41b59ef4' width='100%' height='180px' frameborder='0' scrolling='no' seamless='true'></iframe>
-
-_This post is available in audio format._
 
 I first mentioned With Jack's conversion rate when writing about <a href="/2016/12/31/my-goals-for-2017/">my goals for 2017</a>. As of December 2016, 26% of people who got a quote with Jack became customers.
 
@@ -32,7 +30,7 @@ It means not building features for the sake of it because I don't have the money
 
 After launching with one, polished feature (the conversational interface), we turned our attention to the risk questions. It was a quick win. We stepped away from Typeform and built a self-hosted form. Nothing fancy. It looked like this:
 
-{% include image_full.html imageurl="/images/posts/old_risk.jpg" title="The original risk questions form" %}
+{% include image-caption.html imageurl="/assets/images/posts/old_risk.jpg" title="The original risk questions form" %}
 
 The risk questions _suck_, but not answering them invalidates your policy. They're the worst part of the process and embody everything I hate about insurance.
 
@@ -84,7 +82,7 @@ Taking Direct Debit details makes it feel more like a check-out process. It's el
 
 This is what it looks like now:
 
-{% include image_full.html imageurl="/images/posts/new_risk.jpg" title="The redesigned risk questions form that improved sign-ups by 14%" %}
+{% include image-caption.html imageurl="/assets/images/posts/new_risk.jpg" title="The redesigned risk questions form that improved sign-ups by 14%" %}
 
 These tweaks significantly reduced the drop-off rate.
 

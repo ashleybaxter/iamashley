@@ -2,17 +2,17 @@
 layout: post
 title:  "Post-Launch Problems"
 date:   2016-09-23
-banner_image: launch_week_traffic.jpg
-tags: [business, jack, launch, lessons]
+featured_image: assets/images/posts/launch_week_traffic.jpg
+tags: [business, with-jack, launch, lessons]
 ---
 
-If it was easy everybody would be self-employed. Last month I launched <a href="https://withjack.co.uk">Jack</a>, so what issues have I faced with the first month in business?
+If it was easy everybody would start a business. Last month I launched <a href="https://withjack.co.uk">With Jack</a>, so what issues have I faced with the first month in business?
 
 ### That Post-Launch Traffic Slump
 
 Launch day (<a href="http://iamashley.co.uk/2016/09/06/launch-week/">or week</a>) brings a surge of traffic.
 
-{% include image_full.html imageurl="/images/posts/launch_week_traffic.jpg" title="Launch week traffic" caption="Launch week traffic" %}
+{% include image-caption.html imageurl="/assets/images/posts/launch_week_traffic.jpg" title="Launch week traffic" caption="Launch week traffic" %}
 
 You've shipped something new, people are eager to check it out. They'll tweet about your product, share it on Facebook or mention you on their blog.
 
@@ -26,7 +26,7 @@ But what happens when launch traffic dries up? You need to find a way to keep a 
 
 ### Understanding My Audience's Preferences
 
-My goal is to make insurance simpler. I may be biased, but I think <a href="https://withjack.co.uk/quote">Jack's quote system</a> ticks that box. It asks the questions it needs to get you a quote—nothing more.
+My goal is to make insurance simpler. I may be biased, but I think <a href="https://withjack.co.uk/quote">With Jack's quote system</a> ticks that box. It asks the questions it needs to get you a quote—nothing more.
 
 All insurers have different question sets for cover. Some demand endless forms to be filled in, while others require a few key details. We work with an insurer who falls into the latter category, but it comes at a cost (quite literally). Higher premiums.
 
@@ -34,7 +34,7 @@ Recently I added another insurer to my roster. While their premiums are cheaper,
 
 But maybe I've got this all wrong. Perhaps freelancers _are_ willing to spend an extra 15 minutes when buying insurance to save money.
 
-Should I compromise on Jack's ethos to give my customers access to cheaper premiums, or do they value convenience and simplicity more?
+Should I compromise on With Jack's ethos to give my customers access to cheaper premiums, or do they value convenience and simplicity more?
 
 This is a difficult question.
 
@@ -52,9 +52,9 @@ I haven't sent that newsletter, written that blog post, published those adverts,
 
 A lot of insurers have been around for a long time. They're decades old. They've had years to hone their processes and improve their product.
 
-Jack is __one month old__, yet I'm competing against insurers who have decades of experience.
+With Jack is __one month old__, yet I'm competing against insurers who have decades of experience.
 
-This can work _in_ my favour—the industry needs fresh thinking and ideas. But at the moment, with starting a company from scratch, Jack is a little lean compared to its competitors in terms of features, tools and benefits.
+This can work _in_ my favour—the industry needs fresh thinking and ideas. But at the moment, with starting a company from scratch, With Jack is a little lean compared to its competitors in terms of features, tools and benefits.
 
 How do I convince people to get onboard with a new business?
 
@@ -65,6 +65,6 @@ How do I convince people to get onboard with a new business?
 * Balancing bringing in new business with binding new business
 * Getting people onboard with a new company
 
-It's taken me a long time to launch Jack, so I'm happy to be having these 'problems'. It's fun figuring this stuff out.
+It's taken me a long time to launch With Jack, so I'm happy to be having these 'problems'. It's fun figuring this stuff out.
 
 I've been in business long enough to know that it never does get easy. Challenge accepted.

@@ -2,17 +2,17 @@
 layout: post
 title:  "Start With People"
 date:   2016-10-13
-banner_image: people.jpg
-tags: [business, jack, lessons]
+featured_image: assets/images/posts/people.jpg
+tags: [business, with-jack, lessons]
 ---
 
-Let's begin with the good news. I've put 20 freelancers on cover already, which is over £5700 Gross Premium Written. This is 20 freelancers <a href="https://withjack.co.uk">Jack</a> is helping build a bulletproof business. Yay!
+Let's begin with the good news. I've put 20 freelancers on cover already, which is over £5700 Gross Premium Written. This is 20 freelancers <a href="https://withjack.co.uk">With Jack</a> is helping build a bulletproof business. Yay!
 
 Secondly, I've been shortlisted for two awards at the <a href="www.postevents.co.uk/technologyawards/static/shortlist-1">Digital Insurance Awards 2016</a>. 'Young Insurance' and 'The Rookie Award'. High fives all around.
 
-The whole point of this blog, however, is to cover the challenges I face as well as triumphs. I've received a few emails from people complimenting me on my transparency, specifically when writing about building Jack.
+The whole point of this blog, however, is to cover the challenges I face as well as triumphs. I've received a few emails from people complimenting me on my transparency, specifically when writing about building with Jack.
 
-Now I'm into Jack's full second month of trading… _and it's hard_. I'm realising just how challenging it is to market and sell insurance, especially as a newcomer to an established industry.
+Now I'm into With Jack's full second month of trading… _and it's hard_. I'm realising just how challenging it is to market and sell insurance, especially as a newcomer to an established industry.
 
 + People are used to instant quotes and cover. I have to manually process everything (for now)
 + People expect cashback perks and financial incentives. I have a modest <a href="https://withjack.co.uk/benefits">list of benefits</a>
@@ -21,11 +21,11 @@ Now I'm into Jack's full second month of trading… _and it's hard_. I'm realisi
 
 Things have slowed down in my second full month of trading.
 
-This is because I've burned through my 'immediate network'. It's a lame term to describe my friends in the industry, Twitter followers, email subscribers etc. Those who have watched as I've built Jack and were ready to get on-board from the start (thanks, guys!).
+This is because I've burned through my 'immediate network'. It's a lame term to describe my friends in the industry, Twitter followers, email subscribers etc. Those who have watched as I've built With Jack and were ready to get on-board from the start (thanks!).
 
 Now leads are generated from paid resources, ads and organic search. That's fine, but these leads require more of the 'hard sell'.
 
-In hindsight, I'd have approached things differently to make post-launch easier. I wasn't nearly as active in the build-up to launching Jack as I could have been.
+In hindsight, I'd have approached things differently to make post-launch easier. I wasn't nearly as active in the build-up to launching With Jack as I could have been.
 
 <h3>A Different Approach</h3>
 
@@ -39,7 +39,7 @@ I'd go to conferences, attend meet-ups, blog regularly and participate in commun
 
 I did some of these things to a degree, but lacked the consistency needed to produce the best results.
 
-By the time Jack had launched, I had 4000-odd Twitter followers (not all freelancers) and 200 email subscribers. There are many things I could have done to double, triple or quadruple these numbers, yet I focused on building my business instead of relationships. 
+By the time With Jack had launched, I had 4000-odd Twitter followers (not all freelancers) and 200 email subscribers. There are many things I could have done to double, triple or quadruple these numbers, yet I focused on building my business instead of relationships. 
 
 That's stupid—you can't grow a business without relationships. Post-launch would be a little easier had I started with people.
 

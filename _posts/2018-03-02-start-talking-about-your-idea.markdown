@@ -2,7 +2,7 @@
 layout: post
 title:  "Start Talking About Your Idea"
 date:   2018-03-02
-banner_image: lodger_teaser.png
+featured_image: assets/images/posts/lodger_teaser.png
 tags: [business, lessons, launch]
 ---
 
@@ -41,7 +41,7 @@ With Lodger being my first app I wanted it to be perfect. As I was progressing w
 
 Not only did I invest _a lot_ of time building it, I wanted it to look slicker than the competition. This was going to be the edge against my competitors (or so I thought), many of which were desktop apps with clip-art inspired icons. So, I hired a designer and Lodger looked great.
 
-{% include image_full.html imageurl="/images/posts/lodger.jpg" title="Lodger" %}
+{% include image-caption.html imageurl="/assets/images/posts/lodger.jpg" title="Lodger" %}
 
 I received compliments like this:
 

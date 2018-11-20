@@ -2,8 +2,8 @@
 layout: post
 title:  "2017: Year In Review"
 date:   2017-12-29
-banner_image: year_review_17.jpg
-tags: [business, jack, stats]
+featured_image: assets/images/posts/year_review_17.jpg
+tags: [business, with-jack, stats, personal]
 ---
 
 My last <a href="/2016/12/16/jacks-year-in-review/">Year in Review</a> was written when With Jack had barely launched. I was getting to grips with what <a href="/tools">tools to use</a>, where to find customers and even _who_ my customers were.
@@ -18,7 +18,7 @@ This is my personal and professional reflection of 2017.
 
 <h2>Q1—January, February, March</h2>
 
-{% include image_full.html imageurl="/images/posts/geneva.jpg" title="Geneva" %}
+{% include image-caption.html imageurl="/assets/images/posts/geneva.jpg" title="Geneva" %}
 
 The year started badly. I was celebrating <a href="https://girlwithacamera.co.uk/my-birthday-in-switzerland/">my 30th birthday in Geneva</a> when my house was burgled. Over £5000 worth of belongings were stolen. Fortunately I had insurance.
 
@@ -28,7 +28,7 @@ When I returned from Geneva I found a lump on my dog's leg. Cue a lot of anxiety
 
 What followed was an operation, a difficult recovery, another lump and a lot of stress.
 
-{% include image_full.html imageurl="/images/posts/indie_recovering.jpg" title="Indie recovering in the sun" %}
+{% include image-caption.html imageurl="/assets/images/posts/indie_recovering.jpg" title="Indie recovering in the sun" %}
 
 The year improved after a rocky start. One highlight of January was my profile in <a href="https://www.thetimes.co.uk/article/i-belong-to-glasgow-dear-old-start-up-town-5rgmv8k99">The Sunday Times</a>. Indie and I had a photo shoot and were featured on the cover of the business section playing a game of pool (she won). I was also profiled in <a href="http://www.eveningtimes.co.uk/news/15171651.Glasgow_Means_Business__Ashley_Baxter__founder_of_With_Jack_/">The Evening Times</a> in March.
 
@@ -36,7 +36,7 @@ Q1 saw big changes to With Jack! I rolled out new products to the quote system, 
 
 March came to a close with Naomi and I escaping to Loch Fyne for a few days of relaxation.
 
-{% include image_full.html imageurl="/images/posts/loch_fyne.jpg" title="Naomi at Loch Fyne" %}
+{% include image-caption.html imageurl="/assets/images/posts/loch_fyne.jpg" title="Naomi at Loch Fyne" %}
 
 <h2>Q2—April, May, June</h2>
 
@@ -44,7 +44,7 @@ In April I traveled to Uist—<a href="https://girlwithacamera.co.uk/south-uist/
 
 It was an experience on many levels. The propellor plane, barren landscapes and slow pace of island life with the juxtaposition of a wild wedding. Those islanders know how to party.
 
-{% include image_full.html imageurl="/images/posts/island_wedding.jpg" title="What an island wedding looks like" %}
+{% include image-caption.html imageurl="/assets/images/posts/island_wedding.jpg" title="What an island wedding looks like" %}
 
 May is when things ramped up. I travelled to Southport to film a segment of Right on the Money for the BBC. This was about earning extra income from a hobby like I do with photography, which has enabled me to fund the development costs of With Jack. Being on TV is scary.
 
@@ -52,7 +52,7 @@ I celebrated <a href="/2017/05/25/my-first-100-customers/">reaching 100 customer
 
 Q2 also saw me apply to join an accelerator, <a href="https://ignite.io">Ignite</a>. This has been a highlight of the year (even if I didn't get accepted into the programme). The amount of knowledge I've accrued has been invaluable. I've met interesting people and got a better grasp of what I need to do with Jack. I can thank this experience for a lot of what I've learned this year.
 
-{% include image_full.html imageurl="/images/posts/ignite_01.jpg" title="The first Ignite offsite in Newcastle" %}
+{% include image-caption.html imageurl="/assets/images/posts/ignite_01.jpg" title="The first Ignite offsite in Newcastle" %}
 
 I finished Q2 by building in support for more professions. 70% of With Jack's customers are made up of the initial audience I launched to (designers and developers), but I started to get interest from photographers and marketers. Improving the experience for them has encouraged more sign-ups.
 
@@ -72,7 +72,7 @@ The latter part of this year has been great for fitness. Joining park run and ta
 
 After the half-marathon I flew to Bristol and gave my talk, Idea to Execution and Beyond, at <a href="https://2017.webdevconf.com/">Web Dev Conf</a>. Public speaking still terrifies me, but I've vowed to continue practicing. Once back in Glasgow I delivered the same talk at GlasgowJS.
 
-{% include image_full.html imageurl="/images/posts/ashley_speaking.jpeg" title="Speaking at Web Dev Conf" %}
+{% include image-caption.html imageurl="/assets/images/posts/ashley_speaking.jpeg" title="Speaking at Web Dev Conf" %}
 
 The highlight of Q4 was <a href="http://scottriley.im/">Scott Riley</a> visiting Glasgow. This was the beginning of us redesigning the customer journey for the self-service quote platform (in other words, instant quotes!).
 
@@ -98,7 +98,7 @@ I also wrote a separate post with <a href="/2016/12/31/my-goals-for-2017/">my go
 
 The goal I stumbled with was doubling my sales. Every time activity picks up and I think it's the start of a trend, there's a period of stagnation. In fact, With Jack's growth looks a lot like the image below (taken from <a href="https://baremetrics.com/blog/long-slow-saas-ramp-of-death">Navigating The Long, Slow SaaS Ramp of Death</a>). 
 
-{% include image_full.html imageurl="/images/posts/saas_ramp_of_death.png" title="This is how my sales look" %}
+{% include image-caption.html imageurl="/assets/images/posts/saas_ramp_of_death.png" title="This is how my sales look" %}
 
 I've spent the latter part of this year learning how to convey the value of insurance and describe what With Jack does without saying, _"We sell business insurance"_.
 

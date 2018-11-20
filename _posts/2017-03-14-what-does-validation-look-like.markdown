@@ -2,13 +2,13 @@
 layout: post
 title:  "What Does Validation Look Like?"
 date:   2017-03-14
-banner_image: validation.png
-tags: [business, jack]
+featured_image: assets/images/posts/validation.png
+tags: [business, with-jack]
 ---
 
 As <a href="https://withjack.co.uk">With Jack</a> has been live for 6+ months, this is a question I've been exploring.
 
-Whenever people ask, <em>"How's Jack going?"</em>, I'm never sure what to respond with. Do I tell them how many customers I have? Focus on the conversion rate? Or do I be upfront and say <em>"It's going well, but it's still not supporting me yet"</em>?
+Whenever people ask, <em>"How's Jack going?"</em>, I'm never sure what to respond with. Do I tell them how many customers I have? Focus on the conversion rate? Or do I be upfront and say <em>"It's going well, but it's not yet supporting me full-time"</em>?
 
 Depending on who's asking I'll say a mixture of those things. <em>"It's going well. We have 73 customers and are growing every week, but it's hit a plateau. We have a conversion rate of 25%, but it's volume we're lacking."</em>
 
@@ -26,11 +26,11 @@ Here's how I personally measure validation:
 <li><strong>Making money.</strong> With Jack has been making money from day one, although it still isn't enough to support me. Every week we're putting new customers on cover and inching towards a sustainable business.</li>
 </ul>
 
-But maybe I wouldn't think Jack has been validated if I had 3 kids to feed.
+But maybe I wouldn't think With Jack has been validated if I had 3 kids to feed.
 
-Maybe I wouldn't think Jack has been validated if I'd left a job with a £60K salary.
+Maybe I wouldn't think With Jack has been validated if I'd left a job with a £60K salary.
 
-I'm fortunate that I'm building Jack with a financial cushion from other projects. This is why it's impossible to have a blanket response to, <em>"What does validation look like?"</em>. Everybody's circumstances / goals are different, therefore validation looks different to everyone.
+I'm fortunate that I'm building With Jack with a financial cushion from other projects. This is why it's impossible to have a blanket response to, <em>"What does validation look like?"</em>. Everybody's circumstances / goals are different, therefore validation looks different to everyone.
 
 <h3>Playing The Long Game</h3>
 

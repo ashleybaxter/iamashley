@@ -2,8 +2,8 @@
 layout: post
 title:  "My First 100 Customers"
 date:   2017-05-25
-banner_image: 100.jpg
-tags: [business, jack, stats]
+featured_image: assets/images/posts/100.jpg
+tags: [business, with-jack, stats]
 ---
 
 9 months ago I launched <a href="https://withjack.co.uk">With Jack</a>. 
@@ -54,7 +54,7 @@ Sean McCabe suggests <a href="http://seanwes.com/podcast/317-the-power-of-relati
 
 This is what I was doing, albeit unintentionally. I didn't have anything to sell, I just really liked the web industry and found these people fun to hang out with.
 
-{% include image_full.html imageurl="/images/posts/ashley_socialising_two.jpg" title="Socialising at industry conferences" caption="Being sociable and making new friends at conferences. Photo by Filly Campbell." %}
+{% include image-caption.html imageurl="/assets/images/posts/ashley_socialising_two.jpg" title="Socialising at industry conferences" caption="Being sociable and making new friends at conferences. Photo by Filly Campbell." %}
 
 Every year I'd travel to New Adventures in Web Design in Nottingham or Build in Belfast. It was through networking at these conferences I met people I'm still friends with today. Many of these friends became With Jack's first customers.
 
@@ -87,7 +87,7 @@ On a serious note, I joined Twitter in 2007 when there was no With Jack. I was u
 
 Over the years, people have followed my journey in insurance through Twitter. The idea of <a href="https://twitter.com/iamashley/status/366808810561994752">improving technology</a> in the insurance industry. Building my first <a href="https://twitter.com/iamashley/status/400955108646977536">quote system prototype</a>. Starting to get invited to <a href="https://twitter.com/iamashley/status/215804695405527040">speak at conferences</a>. Launching Insurance by Jack (and that not doing so well). Trying to <a href="/business/2015/05/19/last-chance/">find an insurer</a> to come onboard with Jack. Being totally burnt out and <a href="https://twitter.com/iamashley/status/608616786016251904">admitted to hospital</a>. Passing my first <a href="https://twitter.com/iamashley/status/707521740595970048">insurance exam</a>. And finally <a href="https://twitter.com/iamashley/status/771323714952695808">launching With Jack</a>.
 
-Inviting people on this journey with me has been invaluable. Not all of them are in the market to become Jack's customers, but for those who are they feel like they've gotten to know me. They want to support the business I've worked hard to launch.
+Inviting people on this journey with me has been invaluable. Not all of them are in the market to become customers, but for those who are they feel like they've gotten to know me. They want to support the business I've worked hard to launch.
 
 <strong>Lesson:</strong> Document your journey. Twitter isn't a platform that will work for everyone, but I got on it early and became an active user. It can be uncomfortable sharing the vulnerable moments. It's easier to show up when you're financially stable and have 10,000 customers, but I think being transparent about your journey and involving people in it will help you get there quicker. 
 
@@ -103,7 +103,7 @@ On the other hand, some of the people that stumbled upon Insurance by Jack took 
 
 It validated the idea I had, but I do wish I could have made a better first impression.
 
-{% include image_full.html imageurl="/images/posts/pitching.jpg" title="Speaking about Insurance by Jack" caption="Speaking about Insurance by Jack and how it may not be a success but a stepping stone to something else. Spoiler: It wasn't a success, but it was a stepping stone to what became With Jack." %}
+{% include image-caption.html imageurl="/assets/images/posts/pitching.jpg" title="Speaking about Insurance by Jack" caption="Speaking about Insurance by Jack and how it may not be a success but a stepping stone to something else. Spoiler: It wasn't a success, but it was a stepping stone to what became With Jack." %}
 
 <strong>Lesson:</strong> Although I'm disappointed that Insurance by Jack delivered a poor first impression, it served a purpose despite its imperfections. I got a lot of mistakes out of the way and drummed up interest from people that would later become customers.
 
@@ -114,7 +114,7 @@ Organic search has been great for bringing people outside of my network to With 
 Currently, the customer journey via organic search looks like this:
 
 * Somebody searches for an answer on Google
-* They find one or two of <a href="https://withjack.co.uk/insurance/">Jack's articles</a>
+* They find one or two of <a href="https://withjack.co.uk/insurance/">With Jack's articles</a>
 * They like the brand
 * They <a href="https://withjack.co.uk/quote">get a quote</a>
 * They become a customer
@@ -147,7 +147,7 @@ One of the reasons I couldn't make a success of <a href="/2017/01/20/lessons-lea
 
 <h4>Keeping It Simple</h4>
 
-If I was to follow industry trends, I'd have launched with a similar format to other insurers. Multiple providers, different types of cover and aiming to appeal to every type of  consumer. Instead I worked with one provider, <a href="/2017/02/06/why-i-launched-with-one-product/">offered one product</a> and catered to a specific group of people. This approach meant I could launch quicker and with less capital. It also helped with tailoring Jack's customer journey to a particular group of people. This makes the experience as good as possible for them, which leads to happy customers and referrals.
+If I was to follow industry trends, I'd have launched with a similar format to other insurers. Multiple providers, different types of cover and aiming to appeal to every type of  consumer. Instead I worked with one provider, <a href="/2017/02/06/why-i-launched-with-one-product/">offered one product</a> and catered to a specific group of people. This approach meant I could launch quicker and with less capital. It also helped with tailoring With Jack's customer journey to a particular group of people. This makes the experience as good as possible for them, which leads to happy customers and referrals.
 
 <h3>Figures</h3>
 

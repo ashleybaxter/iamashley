@@ -2,13 +2,11 @@
 layout: post
 title:  "Minimum Viable Process"
 date:   2018-01-23
-banner_image: volcano_two.jpg
-tags: [business, jack, launch]
+featured_image: assets/images/posts/volcano_two.jpg
+tags: [business, with-jack, launch]
 ---
 
 <iframe src='https://share.transistor.fm/e/ad5adb01' width='100%' height='180px' frameborder='0' scrolling='no' seamless='true'></iframe>
-
-_This post is available in audio format._
 
 I'm probably the only person to launch <a href="https://withjack.co.uk">an insurance company</a> in 2016 without automated quotes. How very internet of 1996. This was because I had:
 
@@ -24,7 +22,7 @@ It wasn't perfect, but I was eager to launch. This was the quickest way to get W
 
 This meant checking for quotes in a CRM tool, logging into my broker panel, processing the customer's quote and sending it to them. A minimum viable process.
 
-{% include image_full.html imageurl="/images/posts/quote_journey.jpg" title="The manual process of customer quotes" %}
+{% include image-caption.html imageurl="/assets/images/posts/quote_journey.jpg" title="The manual process of customer quotes" %}
 
 It did seem unthinkable that this would be the long-term solution. My goal was to build an insurance company with design and technology at its core. A manual process contradicted that and assumed the role of a traditional broker—not a technology start-up.
 
@@ -83,7 +81,7 @@ This month I enjoyed <a href="https://girlwithacamera.co.uk/tag/lanzarote/">my f
 
 I onboarded a customer on the airport bus. I sent quotes by the poolside. I answered emails over dinner. Most impressively, I emailed somebody their quote from on top of a volcano! Amen for tethering.
 
-{% include image_full.html imageurl="/images/posts/volcano.jpg" title="The view from the volcano" %}
+{% include image-caption.html imageurl="/assets/images/posts/volcano.jpg" title="The view from the volcano" %}
 
 Fun fact: Volcano quote converted and was the biggest sale I've had this year. It was definitely worth it.
 
@@ -127,7 +125,7 @@ When I send a link to the survey, I try appealing for feedback on a personal lev
 
 Here's some of the feedback I've been getting:
 
-{% include image_full.html imageurl="/images/posts/lapsed_users.jpg" title="Using Iterate to collect lapsed user feedback" %}
+{% include image-caption.html imageurl="/assets/images/posts/lapsed_users.jpg" title="Using Iterate to collect lapsed user feedback" %}
 
 <h4>Decided not to take out insurance policy</h4>
 

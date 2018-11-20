@@ -2,8 +2,8 @@
 layout: post
 title:  "Tools I Use"
 date:   2016-09-13
-banner_image: tools_i_use.jpg
-tags: [business, jack, tools]
+featured_image: assets/images/posts/tools_i_use.jpg
+tags: [business, with-jack, tools]
 ---
 
 Psst. I keep an updated list of this over at <a href="/tools">my tools page</a>.
@@ -14,23 +14,23 @@ Psst. I keep an updated list of this over at <a href="/tools">my tools page</a>.
 
 Who's got a quote? Have they received the risk questions? What deals have I won? All of this is logged in Pipedrive.
 
-{% include image_full.html imageurl="/images/posts/pipedrive.jpg" title="Using Pipedrive to track Jack's sales funnel" caption="Using Pipedrive to track Jack's sales funnel" %}
+{% include image-caption.html imageurl="/assets/images/posts/pipedrive.jpg" title="Using Pipedrive to track Jack's sales funnel" caption="Using Pipedrive to track Jack's sales funnel" %}
 
 My sales funnel looks like this:
 
 ##### Lead In > Contact Made > Quote > Risk Questions
 
-Since Jack launched I've processed 70+ quotes, all of which are at various stages in the funnel. On average it takes 5 days to close a sale. I'd be lost without a means of tracking quotes.
+Since With Jack launched I've processed 70+ quotes, all of which are at various stages in the funnel. On average it takes 5 days to close a sale. I'd be lost without a means of tracking quotes.
 
 <strong>Cost: £120 per year</strong>
 
 ### Custom-built CRM
 
-<a href="http://www.scott.is/">Scott</a> has been a dream to work with. Not only did he design and build <a href="http://withjack.co.uk/quote">Jack's quote form</a>, but he created a CRM tool to integrate it with. He's one talented guy. Hire him.
+<a href="http://www.scott.is/">Scott</a> has been a dream to work with. Not only did he design and build <a href="http://app.withjack.co.uk/">With Jack's quote form</a>, but he created a CRM tool to integrate it with. He's one talented guy. Hire him.
 
 This is where all of the quote data lives. I'm notified when new quotes come in and each one is assigned a unique code.
 
-{% include image_full.html imageurl="/images/posts/jack_crm.jpg" title="Jack's custom built CRM tool" caption="Jack's custom built CRM tool" %}
+{% include image-caption.html imageurl="/assets/images/posts/jack_crm.jpg" title="Jack's custom built CRM tool" caption="Jack's custom built CRM tool" %}
 
 If the customer wishes to progress to the next step, I can send the risk questions from the CRM tool. The unique code tracks who has answered them.
 
@@ -38,7 +38,7 @@ We built this on a shoestring budget. It's super lightweight and very much a MVP
 
 ### DocuSign
 
-Next year I'll be processing quotes and issuing cover instantly online. In the meantime, there are a couple of extra steps involved with manually processing cover.
+Next year I'll be processing quotes and issuing cover instantly online. In the meantime, there are a couple of extra steps involved with manually processing quotes.
 
 Every customer has to sign a 'Statement of Fact' document once they purchase insurance. I forward this to the insurer.
 
@@ -56,4 +56,4 @@ I'll earn between £35 - £52.50 commission depending on the premium. Premiums f
 
 <strong>Cost: $12 per month</strong>
 
-Jack's only been live for a couple of weeks, so I'm still testing the water as to what apps work for me. If you have any alternative suggestions or know of any tools that would make my life easier, <a href="http://twitter.com/iamashley">let me know on Twitter</a>.
+With Jack's only been live for a couple of weeks, so I'm still testing the water as to what apps work for me. If you have any alternative suggestions or know of any tools that would make my life easier, <a href="http://twitter.com/iamashley">let me know on Twitter</a>.

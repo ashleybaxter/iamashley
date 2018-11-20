@@ -2,7 +2,7 @@
 layout: post
 title:  "What I Learned About Product, Growth And Strategy At Turing Fest"
 date:   2018-08-06
-banner_image: turing_4.jpg
+featured_image: assets/images/posts/turing_4.jpg
 tags: [business, lessons]
 ---
 
@@ -14,7 +14,7 @@ When I attend conferences, I want to come away with ideas, inspiration or knowle
 
 <h4>Roan Lavery | Product | Driving Growth vs. Building Core Value</h4>
 
-{% include image_full.html imageurl="/images/posts/turing_2.jpg" title="Roan Lavery" %}
+{% include image-caption.html imageurl="/assets/images/posts/turing_2.jpg" title="Roan Lavery" %}
 
 <a href="https://twitter.com/roanlavery">Roan</a> spoke about <a href="https://www.freeagent.com/">FreeAgent</a>'s three-step approach to perfect product harmony. This was my favourite talk of the day. It felt the most relevant to what I'm doing at With Jack and was also the most practical talk I attended.
 
@@ -64,7 +64,7 @@ See Gabrielle's slides from her talk <a href="https://www.turingfest.com/2018/sp
 
 <h4>Steli Efti | Growth | The 7 Deadly Startup Sales Sins</h4>
 
-{% include image_full.html imageurl="/images/posts/turing_3.jpg" title="Steli Efti" %}
+{% include image-caption.html imageurl="/assets/images/posts/turing_3.jpg" title="Steli Efti" %}
 
 I'm familiar with <a href="https://twitter.com/Steli">Steli</a> because of <a href="https://thestartupchat.com/">his podcast with Hiten Shah</a> (I was surprised so few people had heard of him). This talk had _a lot_ of swearing. Whilst I'm not offended by swearing, I felt the content of the talk was lost amongst that.
 
@@ -78,7 +78,7 @@ See Steli's slides from his talk <a href="https://www.turingfest.com/2018/speake
 
 <h4>Des Traynor | What We’ve Learned From Scaling to 0-25k+ Paying Customers</h4>
 
-{% include image_full.html imageurl="/images/posts/turing_1.jpg" title="Des Traynor" %}
+{% include image-caption.html imageurl="/assets/images/posts/turing_1.jpg" title="Des Traynor" %}
 
 Des was the keynote speaker and the talk I was anticipating the most. I've followed <a href="https://twitter.com/destraynor">Des on Twitter</a> for several months and enjoy his writing.
 
@@ -94,7 +94,7 @@ The parts of the talk I did catch:
 
 <h3>What I Liked And Didn't Like About Turing Fest</h3>
 
-{% include image_full.html imageurl="/images/posts/turing_5.jpg" title="Mark Logan" %}
+{% include image-caption.html imageurl="/assets/images/posts/turing_5.jpg" title="Mark Logan" %}
 
 I've fallen away from the conference circuit in recent years. It's because of exactly what happened during Des' talk—I was preoccupied with running my business. However, it's not often something like Turing Fest happens on my doorstep.
 

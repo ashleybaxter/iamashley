@@ -1,65 +1,50 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Site setings
+name: 'Ashley Baxter'
+description: 'A transparent account of bootstrapping an insurance business as a solo founder. I share the lessons learned, failures and tiny wins of building With Jack.'
+meta_description: 'A transparent account of bootstrapping an insurance business as a solo founder.'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: 
+production_url: https://iamashley.co.uk/
+disqus: 'justgoodthemes'
+mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+cover_image: bc_1.jpg
+# Add your GA Tracking Id
+ga_analytics: UA-52228528-1
 
-# Site title
-title: "Ashley Baxter"
+# Author
+author:
+  name: 'Ashley Baxter'
+  image: 'authorimage.jpg'
+  description: "Hey! I'm Ashley and I'm building With Jack. I like video games, photography and my dog, Indie. Currently based in Glasgow, Scotland."
+  bio: 'Ashley is founder of With Jack. She is also a photographer, speaker, and can lift heavier than you. Currently based in Glasgow, Scotland.'
 
-# A description of your site for social meta tag, search engines, and feed.xml
-description: "A transparent account of bootstrapping an insurance business"
+# Social links
+twitter: 'iamashley'
+instagram: 'ashleybaxter'
+linkedin: 'ashleybaxter'
 
-# Tagline near the site title
-tagline: ""
+# Navigation
+navigation:
+  - text: About
+    url: /about/
 
-# The subpath of your site, e.g. /blog, for generating urls
-baseurl:
+# Required Plugins
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-tagsgenerator
 
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
 sass:
   sass_dir: _sass
-
-# The base hostname & protocol of your site for where absolute urls are needed
-url: "iamashley.co.uk"
-
-# Site navigation - each item must have a title and a url.
-navigation:
-- text: Home
-  url: /
-- text: About
-  url: /about/
-- text: Newsletter
-  url: /newsletter/
-- text: Tools I Use
-  url: /tools/
-- text: Archives
-  url: /tags/
-
-# The shortname for your Disqus site to enable comments.
-disqus:
-
-# Author information - author info at the bottom of the post
-author_name: "Ashley Baxter"
-author_bio: "Ashley is building With Jack so you can be a confident freelancer. She likes video games, photography, and her dog, Indie. Based in Glasgow, Scotland."
-author_url:  "iamashley.co.uk"
-author_location: "Glasgow, Scotland"
-author_image: /images/authorimage.png
-
-# Sidebar Add banner
-banner_url: "https://withjack.co.uk"
-banner_image: images/banner.jpg
-
-# Social links in the site footer
-twitter_username: "iamashley"
-instagram_username: "ashleybaxter"
-
-# http://jekyllrb.com/docs/pagination/
-paginate: 5
-paginate_path: '/blog/page:num/'
-gems: [jekyll-paginate]
-
-permalink: pretty
-markdown: kramdown
-kramdown:
-    auto_ids: false
+  style: compressed

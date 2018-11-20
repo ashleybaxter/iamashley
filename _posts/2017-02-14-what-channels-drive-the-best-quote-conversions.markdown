@@ -2,8 +2,8 @@
 layout: post
 title:  "What Channels Drive The Best Quote Conversions?"
 date:   2017-02-14
-banner_image: bulletproof_business.jpg
-tags: [business, jack, sales]
+featured_image: assets/images/posts/bulletproof_business.jpg
+tags: [business, with-jack, sales]
 ---
 
 When writing a recent business plan for an underwriter, I had to dive into Google Analytics to gauge what channels convert best for <a href="https://withjack.co.uk">With Jack</a>. This is something I should do regularly, _I know_, but juggling everything as a solo founder is hard.
@@ -38,7 +38,7 @@ Recently I decided to focus a lot more on writing. It's clearly effective in con
 
 By following the above practices, I add my research to a Google Doc and highlight what would make a good landing page or blog post. Then I start writing.
 
-{% include image_full.html imageurl="/images/posts/content_research.jpg" title="The document I use for my content research" caption="The document I use for my content research" %}
+{% include image-caption.html imageurl="/assets/images/posts/content_research.jpg" title="The document I use for my content research" caption="The document I use for my content research" %}
 
 By doing this I've built a decent backlog of content ideas. All of it is relevant to my audience and is questions they're explicitly asking or terms they're searching for online. Win-win.
 
@@ -69,7 +69,7 @@ If I was to make a list of places my target market hang out, it would look somet
 
 Designer News drives a lot of traffic. The downside is that it's time sensitive. Your submission will get buried quickly, so it isn't evergreen traffic.
 
-Jack's been featured on Designer News a few times. <a href="https://www.designernews.co/stories/73720-site-design-jack--bespoke-business-insurance-for-freelance-creatives">When we launched</a>, for <a href="https://www.designernews.co/stories/76147-why-should-a-web-designer-have-insurance">a landing page</a> I created, with the <a href="https://www.designernews.co/stories/77964-how-bulletproof-is-your-freelance-business">business health check-up tool</a> and also for a paid slot.
+With Jack's been featured on Designer News a few times. <a href="https://www.designernews.co/stories/73720-site-design-jack--bespoke-business-insurance-for-freelance-creatives">When we launched</a>, for <a href="https://www.designernews.co/stories/76147-why-should-a-web-designer-have-insurance">a landing page</a> I created, with the <a href="https://www.designernews.co/stories/77964-how-bulletproof-is-your-freelance-business">business health check-up tool</a> and also for a paid slot.
 
 I was surprised the traffic it's sent my way converted so well. When I send customers their policy documents, I ask how they heard of With Jack. Designer News has been cited on a few occasions.
 

@@ -2,21 +2,24 @@
 layout: post
 title:  "The Process And Reasons Behind With Jack's Rebrand"
 date:   2018-11-08
-banner_image: new_jack.png
-tags: [business, jack, launch]
+tags: [business, with-jack, launch]
+featured_image: assets/images/posts/new_jack.png
+featured: true
 ---
 
 <iframe src='https://share.transistor.fm/e/f0313cde' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>
 
 In 2016 I launched the first version of With Jack from a hotel room in Germany. I remember that moment well. My sister was with me and I quietly pushed it live before heading out to explore Berlin. I had no idea what lay ahead, but I was ready for the journey. This was a long time coming.
 
-{% include image_caption.html imageurl="/images/posts/berlin.JPG" caption="August 2016. Just after I'd launched With Jack I explored Berlin with a beer and some Haribo" %}
+<!--more-->
+
+{% include image-caption.html imageurl="/assets/images/posts/berlin.JPG" caption="August 2016. Just after I'd launched With Jack I explored Berlin with a beer and some Haribo" %}
 
 Just recently, I launched the <a href="https://withjack.co.uk">newest version of With Jack</a> from a hotel room in Croatia. Note to self: stop launching stuff whilst travelling!
 
 I was speaking at <a href="http://www.microconfeurope.com/">MicroConf</a> in Dubrovnik and—after experiencing DNS issues over the weekend—the launch fell on the day of my talk.
 
-{% include image_caption.html imageurl="/images/posts/dubrovnik.jpg" caption="The view from my head when I launched the new With Jack in Croatia. Not bad." %}
+{% include image-caption.html imageurl="/assets/images/posts/dubrovnik.jpg" caption="The view from my head when I launched the new With Jack in Croatia. Not bad." %}
 
 The difference between those two years is huge. Least of all that I have a business with hundreds of customers now and my hair is longer.
 
@@ -43,7 +46,7 @@ Our aim with the rebrand was to:
 * show With Jack is growing up and moving into a new stage of its life
 * illustrate Jack will be there for you, watching over you and ready to act when you need him
 
-{% include image_full.html imageurl="/images/posts/peace-of-mind.png" %}
+{% include image-caption.html imageurl="/assets/images/posts/peace-of-mind.png" %}
 
 <h3>Getting To Know My Customers And Using That Research To Influence The Rebrand</h3>
 
@@ -60,7 +63,7 @@ This became the research that influenced the direction of the rebrand. From thes
 
 For example, I'd have customers tell me how they're able to "sleep at night" and "interact with clients more confidently" now they're insured. That language was important. This took us from the 'Business Insurance on a First Name Basis' tagline to the 'Be a Confident Freelancer' tagline.
 
-{% include image_full.html imageurl="/images/posts/withjack_badge.png" %}
+{% include image-caption.html imageurl="/assets/images/posts/withjack_badge.png" %}
 
 Everything I've learned from these customer conversations has influenced the new direction. Not just the copy, design and illustrations but products and features I'll be adding in the future.
 
@@ -102,7 +105,7 @@ Here are some things Sabine touches upon in the case study:
 
 <h3>The New Look (Plus Things That Didn't Work Out Well)</h3>
 
-{% include image_full.html imageurl="/images/posts/withjack_beforeafter.jpg" %}
+{% include image-caption.html imageurl="/assets/images/posts/withjack_beforeafter.jpg" %}
 
 There was nothing wrong with the 'old' Jack, but he had existed since May 2014. 4.5 years in internet years is… forever.
 

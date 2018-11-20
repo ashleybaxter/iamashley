@@ -2,8 +2,8 @@
 layout: post
 title:  "A Week In The Life Of…"
 date:   2017-11-13
-banner_image: rookieoven_01.jpg
-tags: [business, jack, personal]
+featured_image: assets/images/posts/rookieoven_01.jpg
+tags: [business, with-jack, personal]
 ---
 
 I enjoy reading other people's 'week (or day) in the life of' posts to get a glimpse into their routine, so I micro-blogged every day last week. No week is the same when building a business, but how did last week look as a one-woman, bootstrapped business?
@@ -16,7 +16,7 @@ This particular Monday was interesting as it began with a shot of champagne. Thi
 
 I made an <a href="https://withjack.co.uk/insured-via/">'Insured Via'</a> badge for our customers. This is a badge they can display on their site to show clients, potential clients and visitors they're professionaly insured. To my surprise a customer immediately adopts it!
 
-{% include image_full.html imageurl="/images/posts/insured_via.png" title="A proof of insurance badge" %}
+{% include image-caption.html imageurl="/assets/images/posts/insured_via.png" title="A proof of insurance badge" %}
 
 I had a call with <a href="https://www.from-scratch.net/">From Scratch</a> who is working on With Jack's copy. The current site doesn't convey the value With Jack provides freelancers or the problem we solve. Sabine is helping me hone my message (a piece of advice drilled into me from <a href="https://ignite.io/">Ignite</a>).
 
@@ -28,7 +28,7 @@ In the evening I attended Tech Masterclass at Glasgow University. Rachel Evatt, 
 
 I have a few copies of Learn From Great Design in my arsenal, so decided to <a href="https://withjack.co.uk/holiday-deal/">run a giveaway</a> through With Jack. My thinking here was purely traffic-related. A quick win (or so I thought) to get more eyeballs on the site.
 
-It took time to get the landing page right, but one of the Slack groups I’m in provided critique (thanks!). For the amount of effort I put into this, however, it was a total flop. 
+It took time to get the landing page right and one of the Slack groups I’m in provided critique (thanks!). For the amount of effort I put into this, however, it was a total flop. 
 
 Today was also about budgeting. I sent From Scratch, my copywriter, an email with the budget for writing With Jack's copy. Budgeting is hard at this stage. I'm bootstrapped, early stage and a one-woman band, but I'm also open and transparent about money with any of the freelancers I work with.
 
@@ -52,7 +52,7 @@ Out of the office today. I'm visiting my old high school in Dunoon! Since leavin
 
 It made me think how powerful it is to have a positive impact on even one student’s career or attitude. Today I've returned to judge the <a href="http://ypiscotland.org.uk/">YPI final</a> alongside ex-pupil Sam Coley. Sam now runs a startup <a href="https://www.tickx.co.uk/">TickX</a>.
 
-{% include image_full.html imageurl="/images/posts/ypi_scotland.jpg" title="The winners of YPI!" %}
+{% include image-caption.html imageurl="/assets/images/posts/ypi_scotland.jpg" title="The winners of YPI!" %}
 
 Apparently my old school has a poor uptake of girls with computing, so I'd like to get involved in addressing that.
 
@@ -68,4 +68,4 @@ I end Friday with a few boring tasks. Catching up on email, going over analytics
 
 Now it's time for mulled wine at the Christmas market.
 
-{% include image_full.html imageurl="/images/posts/christmas_market.jpg" title="Mulled wine at the Christmas market" %}
+{% include image-caption.html imageurl="/assets/images/posts/christmas_market.jpg" title="Mulled wine at the Christmas market" %}

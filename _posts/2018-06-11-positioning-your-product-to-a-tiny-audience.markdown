@@ -2,8 +2,8 @@
 layout: post
 title:  "Positioning Your Product To A Tiny Audience"
 date:   2018-06-11
-banner_image: positioning.png
-tags: [business, jack]
+featured_image: assets/images/posts/positioning.png
+tags: [business, with-jack]
 ---
 
 <iframe src='https://share.transistor.fm/e/b6fc77a8' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>

@@ -2,13 +2,11 @@
 layout: post
 title:  "The 'Why' Behind Building With Jack"
 date:   2018-04-02
-banner_image: toads_caravan.jpg
-tags: [business]
+featured_image: assets/images/posts/toads_caravan.jpg
+tags: [business, with-jack]
 ---
 
 <iframe src='https://share.transistor.fm/e/48f42147' width='100%' height='180px' frameborder='0' scrolling='no' seamless='true'></iframe>
-
-_This post is available in audio format._
 
 Last week was challenging. Personally and professionally I felt worn down and tested. It was one of those moments where I question why I'm doing this. Those times don't happen often, but when they strike they're debilitating.
 
@@ -36,7 +34,7 @@ Last week was one of the 'lows'. I was juggling multiple balls at work, working 
 
 Fortunately, I was reminded of why I'm doing this in the form of a post-it note I wrote in December 2013. This was when I first started thinking about what would become <a href="https://withjack.co.uk">With Jack</a>. It summarises my motivation for starting my own business in the insurance space. 
 
-{% include image_full.html imageurl="/images/posts/jack_postit.jpg" title="My post-it note from December 2013" caption="It needs to be human, it rewards loyal customers and the technology doesn't suck." %}
+{% include image-caption.html imageurl="/assets/images/posts/jack_postit.jpg" title="My post-it note from December 2013" caption="It needs to be human, it rewards loyal customers and the technology doesn't suck." %}
 
 It addressed some of the problems I was noticing in insurance at the time. Such as:
 
@@ -94,7 +92,7 @@ Yes, it does. Although it's still a work in progress (but that's part of the fun
 
 This is one thing With Jack does well. My customers even say so.
 
-{% include image_full.html imageurl="/images/posts/human_touch.png" title="What does With Jack do well?" caption="What does With Jack do well?" %}
+{% include image-caption.html imageurl="/assets/images/posts/human_touch.png" title="What does With Jack do well?" caption="What does With Jack do well?" %}
 
 With Jack achieves this through a combination of <a href="https://withjack.co.uk/quote">its conversational interface</a>, and genuinely caring that customers have a good experience.
 

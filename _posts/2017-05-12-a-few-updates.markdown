@@ -2,8 +2,8 @@
 layout: post
 title:  "A Few Updates…"
 date:   2017-05-12
-banner_image: risk_form.jpg
-tags: [business, jack, accelerator]
+featured_image: assets/images/posts/risk_form.jpg
+tags: [business, with-jack, accelerator]
 ---
 
 Since launching With Jack I've stuck to semi-regular updates. Usually I write a blog post every fortnight or so, but life got in the way. 
@@ -11,7 +11,7 @@ Since launching With Jack I've stuck to semi-regular updates. Usually I write a 
 Here are some of the events that took priority over blogging:
 
 * <a href="https://www.instagram.com/p/BSOCdL5jtXi/?taken-by=ashleybaxter">My dog got sick</a>. A cancerous tumour followed by pancreatitis. I'm really attached to my dog, so that sucked
-* Wedding season kicked off. I'm still shooting weddings so I have funds to put into Jack
+* Wedding season kicked off. I'm still shooting weddings so I have funds to put into With Jack
 * Traveling. I flew to <a href="http://girlwithacamera.co.uk/south-uist/">South Uist</a> for an island wedding and visited England to film a <a href="https://twitter.com/iamashley/status/859017505603506177">segment for Right on the Money</a>
 
 Now that my dog's better and I have no more weddings until July, I have a couple of (relatively) uninterrupted weeks to get back into my routine! Let me fill you in on what's been happening.
@@ -39,7 +39,7 @@ I worked with <a href="http://naomiatkinson.com/naomiatkinsondesign/">Naomi Atki
 
 Here's the before and after:
 
-![A before and after of the risk questions form](/images/posts/risk_form_b+a.jpg)
+![A before and after of the risk questions form](assets/images/posts/risk_form_b+a.jpg)
 
 Aesthetically it's a lot better, fitting Jack's whole 'design at the core' ethos. More importantly—since implementing the new design—I haven't heard any of the above questions. 
 
@@ -65,7 +65,7 @@ Let me back up a bit.
 
 A few months ago I attended a startup dinner in Edinburgh where <a href="https://twitter.com/tristanwatson">Tristan</a> (Ignite's CEO) was a guest. Tristan and I have met before, but this was the first time I asked if Ignite would be a good fit for me.
 
-As much as I want to champion bootstrapping and love the idea of being a solo founder, I'm struggling with building Jack on my own. It's growing very slowly. I feel I'd benefit from a network, mentorship and being around other startups.
+As much as I want to champion bootstrapping and love the idea of being a solo founder, I'm struggling with building With Jack on my own. It's growing very slowly. I feel I'd benefit from a network, mentorship and being around other startups.
 
 I'm not comfortable with accelerators (mostly because I like hiding behind my computer). But if something scares me, it's usually a good indicator I should try it.
 

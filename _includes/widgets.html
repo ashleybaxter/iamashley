@@ -1,0 +1,70 @@
+{% if site.name and site.description %}
+<section class="widget widget-text">
+    <h2 class="widget-title">About {{ site.name }}</h2>
+    <p>{{ site.description }}</p>
+</section>
+{% endif %}
+
+<section class="widget widget-recent-posts">
+    <h2 class="widget-title">Recent Articles</h2>
+    <ul>
+        {% for post in site.posts limit:3 %}
+        <li>
+            <div class="post-header">
+                <div class="post-meta">
+                    <time class="published" datetime="??">{{ post.date | date: "%B %-d, %Y" }}</time>
+                </div>
+                <div class="post-title">
+                    <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+                </div>
+            </div>
+            {% if post.featured_image_thumbnail %}
+            <a class="post-thumbnail" href="{{ post.url }}">
+                <img src="{% if post.featured_image_thumbnail contains ' :// ' %}{{ post.featured_image_thumbnail }}{% else %}{{ post.featured_image_thumbnail | absolute_url }}{% endif %}"
+                    alt="{{ post.title }}">
+            </a>
+            {% elsif post.featured_image %}
+            <a class="post-thumbnail" href="{{ post.url }}">
+                <img src="{% if post.featured_image contains ' :// ' %}{{ post.featured_image }}{% else %}{{ post.featured_image | absolute_url }}{% endif %}"
+                    alt="{{ post.title }}">
+            </a>
+            {% else %}
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+</section>
+
+<!-- Create a sorted array of tags -->
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor
+%}{%
+endcapture %} {% assign sortedTags = site_tags | split:',' | sort %}
+<section class="widget widget-tagcloud">
+    <h2 class="widget-title">Tags</h2>
+    <div class="tagcloud">
+        {% for tag in sortedTags %}
+        <a href='{{ site.production_url }}tag/{{ tag | downcase | replace: ' ', '- ' }}/'>{{ tag | camelcase }}</a>
+        {% endfor %}
+    </div>
+</section>
+
+{% if site.mailchimp_url %}
+<section class="widget widget-newsletter">
+    <div class="inner">
+        <h2 class="widget-title">Subscribe to {{ site.name }}</h2>
+        <p>Receive emails from me about bootstrapping a business as a solo founder.</p>
+        <!-- Begin MailChimp Signup Form -->
+        <script src="https://assets.convertkit.com/assets/CKJS4.js?v=21"></script>
+        <div id="mc_embed_signup" class="ck_control_group ck_email_field_group">
+            <form action="https://app.convertkit.com/landing_pages/7063/subscribe" method="post" id="ck_subscribe_form" name="mc-embedded-subscribe-form" class="ck_subscribe_form validate gh-subscribe-form" target="_blank" data-remote="true" novalidate>
+                <input type="hidden" value="{&quot;form_style&quot;:&quot;naked&quot;,&quot;embed_style&quot;:&quot;inline&quot;,&quot;embed_trigger&quot;:&quot;scroll_percentage&quot;,&quot;scroll_percentage&quot;:&quot;70&quot;,&quot;delay_seconds&quot;:&quot;10&quot;,&quot;display_position&quot;:&quot;br&quot;,&quot;display_devices&quot;:&quot;all&quot;,&quot;days_no_show&quot;:&quot;15&quot;,&quot;converted_behavior&quot;:&quot;show&quot;}" id="ck_form_options">
+                <input type="hidden" name="id" value="7063" id="landing_page_id">
+                <label for="mce-EMAIL" class="screen-reader-text">Email Address</label>
+                <input type="email" value="" name="email" class="email subscribe-email" id="ck_emailField" placeholder="Your email address">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+            </form>
+        </div>
+        <!--End mc_embed_signup-->
+    </div>
+</section>
+{% endif %}

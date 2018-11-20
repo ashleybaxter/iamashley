@@ -2,8 +2,9 @@
 layout: post
 title:  "Introducing My Startup Diary"
 date:   2017-08-06
-banner_image: vlog.png
-tags: [business, vlog]
+featured_image: assets/images/posts/vlog.png
+tags: [business]
+hidden: true
 ---
 
 Vlogging has been on my mind for a while. I had a YouTube channel in a past life when I was a gamer. I stopped because I fell away from gaming—and because the YouTube community hated me (but that's what happens when you're a female gamer).

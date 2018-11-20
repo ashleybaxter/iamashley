@@ -2,8 +2,8 @@
 layout: post
 title:  "Navigating A Funk As A Solo Founder"
 date:   2018-09-07
-banner_image: epicurrence_03.jpg
-tags: [business, jack]
+featured_image: assets/images/posts/epicurrence_03.jpg
+tags: [business, with-jack, personal]
 ---
 
 <iframe src='https://share.transistor.fm/e/1aed6ea8' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>
@@ -71,7 +71,7 @@ Unfortunately, all of my applications were rejected.
 
 <h3>Enter Epicurrence</h3>
 
-{% include image_full.html imageurl="/images/posts/epicurrence_01.jpg" title="Epicurrence" %}
+{% include image-caption.html imageurl="/assets/images/posts/epicurrence_01.jpg" title="Epicurrence" %}
 
 Whilst applying to the above programmes, I got a Twitter DM asking if I'd like to speak at <a href="https://epicurrence.com">Epicurrence</a>—a design retreat in Yosemite. The timing couldn't have been more perfect. I had a feeling it would be exactly what I needed, so I said yes.
 
@@ -80,13 +80,13 @@ Whilst applying to the above programmes, I got a Twitter DM asking if I'd like t
 3. Get involved in activities away from the screen
 4. Push myself out of my comfort zone
 
-{% include image_full.html imageurl="/images/posts/epicurrence_04.jpg" title="Nevada Fall at Yosemite National Park" %}
+{% include image-caption.html imageurl="/assets/images/posts/epicurrence_04.jpg" title="Nevada Fall at Yosemite National Park" %}
 
 During the day we'd go on adventures such as hiking, kayaking and mountain biking. Hiking the Mist Trail in Yosemite National Park is one of my top life experiences. As is mountain biking alone through Yosemite and coming face-to-face with a coyote.
 
 As the sun set, we'd gather around a fire and have candid conversations about burnout, diversity and creativity. All egos were left at the door. This was about creatives connecting on a level beyond just work.
 
-{% include image_full.html imageurl="/images/posts/epicurrence_02.JPG" title="Being interviewed by Pablo at Epicurrence" caption="Being interviewed by Pablo at Epicurrence. Photo by Edgar Chaparro" %}
+{% include image-caption.html imageurl="/assets/images/posts/epicurrence_02.JPG" title="Being interviewed by Pablo at Epicurrence" caption="Being interviewed by Pablo at Epicurrence. Photo by Edgar Chaparro" %}
 
 Epicurrence was a once in a life-time opportunity, so it won't be around to solve my next funk. However, it has reminded me of the importance of being involved in a community of like-minded individuals. Sometimes just being around others is enough to inspire creativity. This makes a huge difference to your day when you're a solo founder.
 

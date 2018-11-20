@@ -2,8 +2,8 @@
 layout: post
 title:  "Why I Launched With One Product"
 date:   2017-02-06
-banner_image: one_product.jpg
-tags: [business, jack, launch]
+featured_image: assets/images/posts/one_product.jpg
+tags: [business, with-jack, launch]
 ---
 
 <blockquote>If you are not embarrassed by the first version of your product, you've launched too late. — Reid Hoffman</blockquote>
@@ -12,15 +12,15 @@ Anybody in the start-up world will have heard the above quote. It makes a lot of
 
 You want to share the end result with the world and get it right from day one. It's this danger that prevents people from shipping at all.
 
-In August I launched <a href="https://withjack.co.uk">Jack</a>. I wouldn't say I was _embarrassed_ by it—I was proud to get to the point of shipping because it had been <a href="/idea-to-launch-in-11-years/">a long slog</a>. But I purposely launched with a bare bones business model.
+In August I launched <a href="https://withjack.co.uk">With Jack</a>. I wouldn't say I was _embarrassed_ by it—I was proud to get to the point of shipping because it had been <a href="/idea-to-launch-in-11-years/">a long slog</a>. But I purposely launched with a bare bones business model.
 
-Jack started with just one type of insurance.
+With Jack started with just one insurance product.
 
 Despite it not being the industry norm to offer only one type of cover, I'm glad I did. If I was to build another business I'd adopt the same one product approach. Below are the reasons why.
 
 <h3>Avoid Making Assumptions By Gathering Data</h3>
 
-Professional indemnity is the most popular cover amongst freelancers. Making this Jack's flagship product—and the one we'd launch with—was a no-brainer. I wouldn't run any business without it.
+Professional indemnity is the most popular cover amongst freelancers. Making this With Jack's flagship product—and the one we'd launch with—was a no-brainer. I wouldn't run any business without it.
 
 The other key covers are:
 
@@ -44,13 +44,13 @@ Professional indemnity alone isn't enough. Customers also want to protect their 
 
 This month we're improving the quote system to include options to add public liability and contents insurance.
 
-With only 5% buying employers' liability, it doesn't make sense to include this just yet. If Jack starts attracting more digital agencies and teams, then it would be worth building it into the quote system.
+With only 5% buying employers' liability, it doesn't make sense to include this just yet. If With Jack starts attracting more digital agencies and teams, then it would be worth building it into the quote system.
 
-I could have guessed what cover was relevant to my audience, but assumptions can be costly if you get them wrong. Instead I'm letting the data I'm gathering influence the direction of Jack.
+I could have guessed what cover was relevant to my audience, but assumptions can be costly if you get them wrong. Instead I'm letting the data I'm gathering influence the direction of With Jack.
 
 <h4>tl;dr</h4>
 
-Professional indemnity is the most popular cover for freelancers. It made sense to launch with this product, then use data from sales to influence what other products we offered. We didn't make assumptions. Jack's customers told us what cover they need.
+Professional indemnity is the most popular cover for freelancers. It made sense to launch with this product, then use data from sales to influence what other products we offered. We didn't make assumptions. My customers told me what cover they needed.
 
 <h3>Keep Costs Down</h3>
 
@@ -58,7 +58,7 @@ Launching with one product keeps development costs down. The more products I off
 
 It's not just that. We'd have to implement the extra functionality into the risk question form and <a href="/tools-i-use/">my CRM tool</a>. It all adds up.
 
-I'm bootstrapping Jack from money I earned doing wedding photography. I'm not a venture-backed start-up with deep pockets, so I have to be wary about expenditure.
+I'm bootstrapping With Jack from money I earned doing wedding photography. I'm not a venture-backed start-up with deep pockets, so I have to be wary about expenditure.
 
 One of my struggles with Jack has been knowing where to spend money. It made sense to launch with one product, earn money from that and invest it back into the business based on what the data / feedback was showing me.
 
@@ -70,7 +70,7 @@ Launching with one product reduces the cost of development, design and other fac
 
 <h3>Do One Thing And Do It Well</h3>
 
-Jack's focus is on building a better customer journey for freelancers. I didn't want to get bogged down in making the system more complex.
+With Jack's focus is on building a better customer journey for freelancers. I didn't want to get bogged down in making the system more complex.
 
 I also wanted to avoid decision fatigue. Instead of overwhelming freelancers with different products, I wanted to give them the most popular cover for their type of work.
 
@@ -91,6 +91,6 @@ Some of the other factors I'd like to have launched with:
 * Better benefits
 * Referral program
 
-Not having these features hasn't prevented people from using Jack to arrange their insurance. Instead I was able to launch quickly, start generating income and use feedback to influence the direction of the business.
+Not having these features hasn't prevented people from using With Jack to arrange their insurance. Instead I was able to launch quickly, start generating income and use feedback to influence the direction of the business.
 
 _That's_ why you should launch with one product.

@@ -2,8 +2,8 @@
 layout: post
 title:  "Speaking At Web Dev Conf"
 date:   2017-10-10
-banner_image: ashley_speaking.jpeg
-tags: [business, jack, marketing, vlog]
+featured_image: assets/images/posts/ashley_speaking.jpeg
+tags: [business, with-jack, speaking]
 ---
 
 Last week I gave my talk, Idea to Execution and Beyond, at <a href="https://2017.webdevconf.com/">Web Dev Conf</a> in Bristol.
@@ -16,7 +16,7 @@ I covered the idea stage, build process, what to expect when you launch and what
 
 You can see <a href="https://speakerdeck.com/ashleybaxted/idea-to-execution-and-beyond">the slides from my talk on SpeakerDeck</a>.
 
-{% include image_full.html imageurl="/images/posts/ashley_speaking_two.jpg" title="Speaking at Web Dev Conf" %}
+{% include image-caption.html imageurl="/assets/images/posts/ashley_speaking_two.jpg" title="Speaking at Web Dev Conf" %}
 
 Here are the resources I mentioned in my talk:
 

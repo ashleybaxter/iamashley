@@ -2,7 +2,7 @@
 layout: post
 title:  "Turning My Robbery Into A Positive Experience"
 date:   2017-02-21
-banner_image: robbery.jpg
+featured_image: assets/images/posts/robbery.jpg
 tags: [business, personal]
 ---
 
@@ -53,7 +53,7 @@ That kind of thing.
 
 <strong>Solution:</strong> A dashboard for customers to login and have an overview of the status of their claim. I understand the phone can't be avoided completely, but it's uneccesary and time consuming for small updates as to what point you're at with the claims process.
 
-I had a pleasing experience with my insurer, yet I couldn't help but make these observations. I'd love to apply my experience to Jack in the future. At least this robbery would have had something positive come from it.
+I had a pleasing experience with my insurer, yet I couldn't help but make these observations. I'd love to apply my experience to With Jack in the future. At least this robbery would have had something positive come from it.
 
 <h5>Misc Notes</h5>
 
@@ -61,5 +61,5 @@ If you're buying contents insurance these are some things to be aware of:
 
 * Make sure you have new for old cover. This means if your 10 year-old dSLR gets stolen, the insurer will replace it with the current model.
 * Inform your insurer of any high value items. If your £3000 TV is damaged, your insurer may not pay out because it's a high value item you didn't disclose. The more honest you are, the better. Don't leave stuff out so your premium is cheaper.
-* Your work equipment won't be insured under your home insurance, so ensure you have business insurance for your contents. According to Gartner, a laptop is stolen every 53 seconds! Coincendentally, Jack just rolled out the ability to <a href="https://withjack.co.uk/quote">insure your business contents</a>.
+* Your work equipment won't be insured under your home insurance, so ensure you have business insurance for your contents. According to Gartner, a laptop is stolen every 53 seconds! Coincendentally, With Jack just rolled out the ability to <a href="https://withjack.co.uk/quote">insure your business contents</a>.
 * I wrote a about my burglary from a business perspective <a href="https://withjack.co.uk/insurance/2017/01/25/ive-been-burgled.html">on Jack's blog</a>. If your work equipment is stolen, can you still function as a business? What about back-ups? These were the questions I had to address when it happened to me.

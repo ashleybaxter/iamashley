@@ -2,13 +2,13 @@
 layout: post
 title:  "Lessons Learned From Inheriting The Family Business"
 date:   2017-01-20
-banner_image: brokersdirect.jpg
-tags: [business, jack, lessons]
+featured_image: assets/images/posts/brokersdirect.jpg
+tags: [business, with-jack, lessons]
 ---
 
 In 2005 I inherited an insurance business from my late Dad. Weeks earlier I had been studying music at college. It was big leap to running a business in an industry I knew nothing about.
 
-Trying something new inevitably means making mistakes, but the upside is coming away from that experience having learned a lot. When it comes to building Jack, I'm applying those lessons and have (so far!) avoided the same mistakes. 
+Trying something new inevitably means making mistakes, but the upside is coming away from that experience having learned a lot. When it comes to building With Jack, I'm applying those lessons and have (so far!) avoided the same mistakes. 
 
 <h3>Don't Put Your Eggs In One Basket</h3>
 
@@ -48,7 +48,7 @@ Getting into the heads of landlords didn't excite me. Where did they hang out? W
 
 What did interest me was design, development and technology. I immersed myself in the web industry. Attending (and speaking at) conferences, reading publications, engaging with the community…
 
-All of this lead to the creation of <a href="https://withjack.co.uk">Jack</a>. I focused on freelance designers and developers—an audience I like.
+All of this lead to the creation of <a href="https://withjack.co.uk">With Jack</a>. I focused on freelance designers and developers—an audience I like.
 
 <strong>Lesson:</strong> You're going to spend years talking to, dealing with and serving this audience. Make sure you like them.
 
@@ -76,19 +76,19 @@ Surely this would solve our problem of falling sales.
 
 I took my Dad's business from this:
 
-{% include image_full.html imageurl="/images/posts/brokersdirect_old.jpg" title="How Brokers Direct looked when I inherited it" caption="How Brokers Direct looked when I inherited it" %}
+{% include image-caption.html imageurl="/assets/images/posts/brokersdirect_old.jpg" title="How Brokers Direct looked when I inherited it" caption="How Brokers Direct looked when I inherited it" %}
 
 To this:
 
-{% include image_full.html imageurl="/images/posts/brokersdirect.jpg" title="The current version of Brokers Direct" caption="The current version of Brokers Direct" %}
+{% include image-caption.html imageurl="/assets/images/posts/brokersdirect.jpg" title="The current version of Brokers Direct" caption="The current version of Brokers Direct" %}
 
-{% include image_full.html imageurl="/images/posts/brokersdirect_software.jpg" title="The app I built for Brokers Direct customers" caption="The app I built for Brokers Direct customers" %}
+{% include image-caption.html imageurl="/assets/images/posts/brokersdirect_software.jpg" title="The app I built for Brokers Direct customers" caption="The app I built for Brokers Direct customers" %}
 
 But this didn't produce the results I'd hoped for and we didn't see a surge in sales. Why? There was something I had overlooked.
 
 Responsive design, a nicer quoting experience… None of that really mattered to our audience.
 
-Landlords don't care about good design. They don't get excited about clever technology. Landlords are content filling out a traditional proposal form on their desktop computer running an old version of Windows.
+Landlords don't care about good design. They don't get excited about clever technology. Landlords are content filling out a traditional proposal form on their desktop computer running an old version of Windows, or using an old school broker to find them the best deal.
 
 It took a long time to realise the problem I was addressing just didn't exist for this audience. 
 
@@ -104,4 +104,4 @@ On the topic of failure, reflect on why it happened and what you can learn from 
 
 It's OK to fail.
 
-My Dad's business was the catalyst for Jack. Those lessons—as difficult as they were to learn at the time—are helping me build a better, stronger business today.
+My Dad's business was the catalyst for With Jack. Those lessons—as difficult as they were to learn at the time—are helping me build a better, stronger business today.

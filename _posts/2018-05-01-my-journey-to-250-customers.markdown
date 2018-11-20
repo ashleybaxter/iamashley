@@ -2,13 +2,11 @@
 layout: post
 title:  "My Journey To 250 Customers"
 date:   2018-05-01
-banner_image: ashley_bootstrapping.jpg
-tags: [business, launch, jack, stats]
+featured_image: assets/images/posts/ashley_bootstrapping.jpg
+tags: [business, launch, with-jack, stats]
 ---
 
 <iframe src='https://share.transistor.fm/e/1d283c7b' width='100%' height='180px' frameborder='0' scrolling='no' seamless='true'></iframe>
-
-_This post is available in audio format._
 
 Somebody I follow on Twitter recently launched a new product. Within 2 months he had tweeted about hitting $10,000 MRR. Wow. I'm 1.5 years into building <a href="https://withjack.co.uk">With Jack</a> and nowhere near that figure.
 
@@ -76,7 +74,7 @@ I try encouraging referrals in two ways.
 1. Post-purchase I urge customers to tweet about being professionally insured via With Jack.
 2. Existing customers can intro a warm lead. If the lead buys insurance, they both get a reward.
 
-{% include image_full.html imageurl="/images/posts/referrals.png" title="Post-purchase I urge customers to tweet about being professionally insured via With Jack" %}
+{% include image-caption.html imageurl="/assets/images/posts/referrals.png" title="Post-purchase I urge customers to tweet about being professionally insured via With Jack" %}
 
 We'll have more scope to encourage referrals once we build the self-service quote system. They'll be baked into the dashboard and customers will be able to track them.
 
@@ -84,7 +82,7 @@ Another method of encouraging referrals is the 'Insured by' badge. Customers (an
 
 They get to show clients they're equipped to get back to work quickly should something bad happen. And With Jack gets social proof and referrals. Win, win!
 
-{% include image_full.html imageurl="/images/posts/referrals_two.png" title="The Insured By badge" %}
+{% include image-caption.html imageurl="/assets/images/posts/referrals_two.png" title="The Insured By badge" %}
 
 <h4>6-12 Months: Who Are These People?</h4>
 
@@ -92,7 +90,7 @@ At the 6-12 month mark I was starting to get customers who weren't connected by 
 
 Because of the channels they're discovering With Jack through, they know little about the company itself. Their first interaction isn't from seeing a tweet or blog post by me. In fact, many don't know that With Jack is a one-woman, bootstrapped startup.
 
-{% include image_full.html imageurl="/images/posts/ashley_bootstrapping.jpg" title="Ashley bootstrapping With Jack" caption="This is me, Ashley. Bootstrapping With Jack as a solo founder. Hey!" %}
+{% include image-caption.html imageurl="/assets/images/posts/ashley_bootstrapping.jpg" title="Ashley bootstrapping With Jack" caption="This is me, Ashley. Bootstrapping With Jack as a solo founder. Hey!" %}
 
 This is exciting territory because it signifies growth, but it's also scary.
 

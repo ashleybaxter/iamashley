@@ -2,8 +2,8 @@
 layout: post
 title:  "My Experience Applying To An Accelerator"
 date:   2017-06-07
-banner_image: ignite_01.jpg
-tags: [business, jack, accelerator]
+featured_image: assets/images/posts/ignite_01.jpg
+tags: [business, with-jack, accelerator]
 ---
 
 Last Tuesday I drove to Newcastle for <a href="https://blog.ignite.io/launching-ignite-2-0-a-new-breed-of-accelerator-a430304c3fe5">Ignite's distributed accelerator programme</a>. It was the final stage of the application process for the <a href="https://ignite.io/">Ignite Accelerator</a>, and I had no idea what I was getting myself into.
@@ -25,9 +25,9 @@ My confidence didn't last. A couple of days before setting off for Newcastle, do
 
 _I'm not good enough as a founder. My business isn't solving a big enough problem. Everyone is going to be further along than me. What if I don't know my figures? I'm afraid I'll look stupid._
 
-It turns out this was normal. Having spoken to the other startups at the offsite, most felt the same.
+It turns out this was normal. Having spoken to the other startups at the offsite, most felt the same way.
 
-{% include image_full.html imageurl="/images/posts/ignite_02.jpg" title="Some of the other startups at Ignite off-site" %}
+{% include image-caption.html imageurl="/assets/images/posts/ignite_02.jpg" title="Some of the other startups at Ignite off-site" %}
 
 <h3>The Application Process</h3>
 
@@ -61,7 +61,7 @@ Day two followed the same format. This time I felt _prepared_ for stony-faced Ve
 
 After embracing the uneasiness of it all, I ended the experience on a high.
 
-{% include image_full.html imageurl="/images/posts/ignite_03.jpg" title="Some of the other startups at Ignite off-site" %}
+{% include image-caption.html imageurl="/assets/images/posts/ignite_03.jpg" title="Some of the other startups at Ignite off-site" %}
 
 <h3>Why Did I Apply To Ignite?</h3>
 

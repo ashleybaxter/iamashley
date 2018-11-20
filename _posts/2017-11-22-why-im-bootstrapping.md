@@ -2,8 +2,8 @@
 layout: post
 title:  "Why I'm Bootstrapping"
 date:   2017-11-22
-banner_image: wireframing.jpg
-tags: [business, jack, accelerator]
+featured_image: assets/images/posts/wireframing.jpg
+tags: [business, with-jack, accelerator]
 ---
 
 At some point this year I started considering investment. The initial build of With Jack was funded with my own money (money I'd earned <a href="https://girlwithacamera.co.uk/weddings/">photographing weddings</a> at the weekend).

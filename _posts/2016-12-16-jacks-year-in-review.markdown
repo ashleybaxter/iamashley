@@ -2,8 +2,8 @@
 layout: post
 title:  "Jack's Year In Review"
 date:   2016-12-16
-banner_image: year_review.jpg
-tags: [business, jack, stats]
+featured_image: assets/images/posts/year_review.jpg
+tags: [business, with-jack, stats]
 ---
 
 Maybe 4 months in business is too soon for a 'Year In Review', but I'm a sucker for those posts (and I've learned a lot in 4 months).
@@ -32,11 +32,11 @@ I've tried various methods of getting traffic (cheaply). Facebook and Twitter, b
 
 As a result, I've decided to cut back on ads and focus on tools and creating value. For example, I launched a <a href="http://checkup.withjack.co.uk/">business health checkup tool</a> that assesses the vulnerability of your freelance business. I'm sharing it with communities like Designer News.
 
-{% include image_full.html imageurl="/images/posts/traffic_spikes.jpg" title="Spikes in traffic" caption="Spikes in traffic since launch" %}
+{% include image-caption.html imageurl="/assets/images/posts/traffic_spikes.jpg" title="Spikes in traffic" caption="Spikes in traffic since launch" %}
 
 Marketing insurance is about planting a seed. It may not be a freelancer's time to renew, so they're not yet ready to get a quote with Jack. This is why I find push marketing less effective.
 
-Provided I can get Jack in front of the right people, I'll plant that seed for renewal time. That's what micro-sites like the <a href="http://checkup.withjack.co.uk/">business health checkup tool</a> are helping me do.  <a href="https://justinjackson.ca/play-the-long-game/
+Provided I can get With Jack in front of the right people, I'll plant that seed for renewal time. That's what micro-sites like the <a href="http://checkup.withjack.co.uk/">business health checkup tool</a> are helping me do.  <a href="https://justinjackson.ca/play-the-long-game/
 ">I'm playing the long game.</a>
 
 <h3>Tools For Building With Jack</h3>
@@ -49,7 +49,7 @@ Provided I can get Jack in front of the right people, I'll plant that seed for r
 
 These are the tools I can't live without. I wrote about Pipedrive and my CRM tool in more detail <a href="http://iamashley.co.uk/2016/09/13/tools-i-use/">on another blog post</a>.
 
-Pipedrive is where I track my sales funnel. 4 months in I've given out 152 (legit) quotes and 508 fake quotes. Pipedrive is where I keep track of the genuine leads and at what stage in the funnel they're at. I add customer details, whether I've followed up for a second or third time, and reasons I've lost a lead.
+Pipedrive is where I track my sales funnel. 4 months in I've given out 152 quotes. Pipedrive is where I keep track of the genuine leads and at what stage in the funnel they're at. I add customer details, whether I've followed up for a second or third time, and reasons I've lost a lead.
 
 As more leads come in, Pipedrive is invaluable for keeping track of everything.
 
@@ -84,8 +84,7 @@ Making mistakes is inevitable, as long as they're occasional. Next time I try th
 <h3>Cold, Hard Stats</h3>
 
 * 16,449 Visitors
-* 660 Quotes
-* 153 Legit Quotes
+* 153 Quotes
 * 41 Customers
 * 26% Conversion Rate
 * £10293.93 Gross Premium Written

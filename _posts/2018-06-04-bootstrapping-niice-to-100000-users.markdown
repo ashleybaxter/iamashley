@@ -2,7 +2,7 @@
 layout: post
 title:  "Bootstrapping Niice to 100,000+ Users"
 date:   2018-06-04
-banner_image: niice.png
+featured_image: assets/images/posts/niice.png
 tags: [business, lessons]
 ---
 
