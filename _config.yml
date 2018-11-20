@@ -27,7 +27,7 @@ linkedin: 'ashleybaxter'
 # Navigation
 navigation:
   - text: About
-    url: /about/
+    url: /about.html
 
 # Required Plugins
 plugins_dir:
