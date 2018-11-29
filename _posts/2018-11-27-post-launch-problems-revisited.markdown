@@ -6,6 +6,8 @@ tags: [business, with-jack, launch, lessons]
 featured_image: assets/images/posts/with_jack.png
 ---
 
+<iframe src='https://share.transistor.fm/e/27f03caa' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>
+
 Two years ago <a href="/post-launch-problems">I wrote about</a> the problems I was facing post-launch. I thought it'd be interesting to revisit this article and see how I've solved those problems or if they still exist.
 
 <h3>Understanding My Audience’s Preferences</h3>
