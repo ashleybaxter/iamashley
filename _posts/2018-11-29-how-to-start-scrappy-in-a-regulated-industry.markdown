@@ -6,6 +6,8 @@ tags: [business, with-jack]
 featured_image: assets/images/posts/aimhigh.png
 ---
 
+<iframe src='https://share.transistor.fm/e/5e839e28' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>
+
 Insurance is one of the least start-up friendly industries in the world. It's a regulated industry, so you can't just have an idea, buy a domain and start making money. You'll need to be licensed to sell insurance, and that takes between 6-12 months and costs thousands of pounds.
 
 It's a lot of time and money to spend on something before you've validated you can make money doing it.
