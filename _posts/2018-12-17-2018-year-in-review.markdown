@@ -6,6 +6,8 @@ tags: [business, with-jack, personal]
 featured_image: assets/images/posts/year_review_18.jpg
 ---
 
+<iframe src='https://share.transistor.fm/e/4c533f1c' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>
+
 Two things stand out to me about 2018: the progress I've made on With Jack and the trips I've taken. Although the first 6 months were fairly uneventful, it ended up being a great year for business and travel.
 
 Through a combination of work and personal trips, I visited Lanzarote, Amsterdam, California, Belgrade, Dubrovnik and Belfast! 
