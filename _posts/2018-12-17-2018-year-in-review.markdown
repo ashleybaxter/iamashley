@@ -50,7 +50,7 @@ I ended June by visiting Manchester with a group of friends to see Naomi Atkinso
 
 The first 6 months were pretty quiet, but that all changed in Q3. In July—as I was walking to the cinema to watch the new Mission Impossible movie—I got a Twitter DM from Dann Petty. He asked me to speak at Epicurrence in California the following month.
 
-{% include image-caption.html imageurl="/assets/images/posts/epicurrence_02.jpg" caption="Speaking at Epicurrence in Yosemite." %}
+{% include image-caption.html imageurl="/assets/images/posts/epicurrence_02.JPG" caption="Speaking at Epicurrence in Yosemite." %}
 
 I had been feeling isolated in my work and personal life (something I've yet to fix), so I jumped at the opportunity.
 
