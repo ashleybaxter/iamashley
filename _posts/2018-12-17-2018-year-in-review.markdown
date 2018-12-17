@@ -1,0 +1,172 @@
+---
+layout: post
+title:  "2018: Year in Review"
+date:   2018-12-17
+tags: [business, with-jack, personal]
+featured_image: assets/images/posts/year_review_18.jpg
+---
+
+Two things stand out to me about 2018: the progress I've made on With Jack and the trips I've taken. Although the first 6 months were fairly uneventful, it ended up being a great year for business and travel.
+
+Through a combination of work and personal trips, I visited Lanzarote, Amsterdam, California, Belgrade, Dubrovnik and Belfast! 
+
+This year I sold over £100,000 of insurance <a href="https://withjack.co.uk">through With Jack's website</a>, became directly authorised and shipped a rebrand. But more on that later…
+
+<h3>Q1—January, February, March</h3>
+
+I kicked off the year in Lanzarote with a rare family holiday. I felt some anxiety about starting 2018 with a break instead of getting my head down and building With Jack. But family is important and so is rest.
+
+{% include image-caption.html imageurl="/assets/images/posts/volcano.jpg" caption="A volcano in Lanzarote." %}
+
+The only other noteable event of Q1 was launching my podcast, Bootstrapped Digest. Initially it was a way of providing my blog content in another format, but people seem to enjoy it and I want to put more into it in 2019.
+
+My goal with this podcast is to share my journey bootstrapping With Jack as a solo founder. No smoke and mirrors—just tiny wins and lessons learned. <a href="https://itunes.apple.com/us/podcast/bootstrapped-digest-with-ashley-baxter/id1362739098?mt=2">You can find it on iTunes.</a>
+
+<h3>Q2—April, May, June</h3>
+
+Every year I take a solo trip to a European city to explore with my camera. This year it was Amsterdam. I think I got lucky with the weather (29 degress erryday!), but the city had me hooked instantly and I'd love to explore it in other seasons.
+
+{% include image-caption.html imageurl="/assets/images/posts/amsterdam.jpg" caption="The dogs ride scooters in Amsterdam." %}
+
+You can see my series of photos on my blog, <a href="https://girlwithacamera.co.uk/48-hours-in-amsterdam/">Girl With A Camera</a>. I have a feeling that won't be my last trip to Amsterdam.
+
+I gave my first—and what I thought would be my only talk—of the year at <a href="https://alldayhey.com/">All Day Hey!</a> in Leeds.
+
+{% include image-caption.html imageurl="/assets/images/posts/ashley_speaking.jpeg" caption="Speaking at All Day Hey! Photo by Drew Wilson." %}
+
+In June I reached a milestone with Jack. I hit £100,000 of sales through the website!
+
+I then launched <a href="https://www.youtube.com/channel/UCzCW9Z5YbtIz-_sE4EmIbbw">With Jack's YouTube channel</a>, but I've slacked with updating this. It's because I find it difficult to create content such as podcasts and video when working from a co-working space. It's distracting to the people working around you. 
+
+This is one of the reasons why I've decided to hand in my notice. After almost 4 years and being there from the day it opened, December is my last month working from RookieOven.
+
+The plan for 2019 is to work from home for 6-12 months. After that, the goal is to get my own unit at <a href="https://www.thehiddenlaneglasgow.com/">The Hidden Lane</a>. 
+
+I want to cultivate my own creative space that's set up specifically for content creation. More videos, interviews with customers and podcasting. I hope I can make this happen in 2019, but it's dependent on cashflow.
+
+I ended June by visiting Manchester with a group of friends to see Naomi Atkinson speak at <a href="https://twitter.com/crftmcr?lang=en">Craft</a>. We rented a loft apartment in the city and spent a few days there. That was a fun, summer trip with a group of people I now consider good friends.
+
+<h3>Q3—July, August, September</h3>
+
+The first 6 months were pretty quiet, but that all changed in Q3. In July—as I was walking to the cinema to watch the new Mission Impossible movie—I got a Twitter DM from Dann Petty. He asked me to speak at Epicurrence in California the following month.
+
+{% include image-caption.html imageurl="/assets/images/posts/epicurrence_02.jpg" caption="Speaking at Epicurrence in Yosemite." %}
+
+I had been feeling isolated in my work and personal life (something I've yet to fix), so I jumped at the opportunity.
+
+What followed was a whirlwind trip to San Fransciso, road-tripping with strangers to Yosemite (they're not strangers anymore, we now follow one another on Twitter), <a href="https://www.instagram.com/p/BnEt8M1Bc2Q/">hiking the Mist Trail</a> and giving a talk about freelancing and building With Jack.
+
+Unreal. I didn't think anything else could top this experience and it'll stay with me forever.
+
+I also hit another milestone with the business. In July I signed up my 300th customer!
+
+Post-California I squeezed in another speaking gig at Creative Inverclyde. It wasn't quite the same as Yosemite, but it was nice to return to the place where I first fell in love with photography.
+
+I also shot my last wedding _ever_. This year I decided to give up wedding photography. <a href="/why-i-quit-wedding-photography">I wrote a post about why</a>, but the gist is;
+
+* With Jack is growing
+* The pressure of keeping up with client expectations became too much
+* After doing this for 7 years I'm tired and didn't want to do it anymore
+* I want my weekends back!
+
+This is the best decision I've made. I am 72.6% happier (but a lot poorer) because of it.
+
+If you want an honest insight into why I quit wedding photography, listen to <a href="https://perspective.simplecast.fm/005">this episode</a> I recorded of the Perspective podcast. In fact, if you're a photographer then listen to <a href="https://perspective.simplecast.fm/">every episode of Perspective</a>. 
+
+<h3>Q4—October, November, December</h3>
+
+Traveling wasn't over just yet. In October I flew to Serbia to speak at Heapcon, then flew from Serbia to Crotia to give a talk at MicroConf.
+
+{% include image-caption.html imageurl="/assets/images/posts/heapcon.jpg" caption="Speaking at Heapcon." %}
+
+Let's talk about my Croatia trip. As someone who has listened to <a href="https://www.startupsfortherestofus.com/">Startups for the rest of Us</a> for years, it was mindblowing to be sitting amongst Rob Walling, Mike Taber and many of the people whose careers I've followed.
+
+I'm not going to lie, I fangirled a lot this trip.
+
+I didn't think anything could top California, but this was my highlight of the year. Everything about this trip; the hotel, the people, the location, the conference…
+
+Whilst in Croatia we shipped a _major_ update to <a href="https://withjack.co.uk">With Jack</a>. Instant quotes and a brand new look. You can read all about <a href="/the-process-and-reasons-behind-with-jacks-rebrand">the process and reasons behind the rebrand</a>.
+
+{% include image-caption.html imageurl="/assets/images/posts/new_site.jpg" caption="With Jack got a brand new look." %}
+
+When I returned to Scotland I had a month in Glasgow before heading to Belfast to give my final talk of the year at PixelPioneers. To start the year with one speaking gig in Leeds and end it with 6 presentations and a trip half way around the world was unexpected.
+
+In November <a href="https://withjack.co.uk/news/2018/10/31/with-jack-is-now-authorised-by-the-fca">With Jack became directly authorised by the FCA</a>. This was a _huge_ deal and had been in the pipeline since April. It was a 6 month process that cost upwards of £10,000, but gives me more control over the business.
+
+It was the perfect note to close the year on.
+
+Fitness-wise, I committed to the StrongLift 5x5 app once travel had quietened down. I'm in week 5 and have got my back squat up to 75KG and I'm deadlifting 85KG.
+
+On the topic of fitness, I think I only ran two 10Ks this year. Next year I'll be running my second half marathon to raise money for the Beatson cancer charity.
+
+One noteable event of December in my personal life was losing my Gran (not related to the charity run above). It's been 13 years since my Dad died and this is the first, close family member I've lost since him. I do find myself processing this very rationally. My gran was old and unwell and for the past 20 months didn't have a good quality of life. She was a big personality, so we'll really miss her.
+
+<h4>Gaming</h4>
+
+* Ghost Recon: Wildlands
+* God of War
+* Shadow of the Tomb Raider
+* Hitman 2 (currently playing)
+
+<h4>Business Books</h4>
+
+* <a href="https://www.amazon.co.uk/Lost-Founder-Painfully-Honest-Startup/dp/0241290929">Lost and Founder</a>
+* <a href="https://www.amazon.co.uk/Hatching-Twitter-Nick-Bilton/dp/1444761978/ref=sr_1_1?s=books&ie=UTF8&qid=1544452739&sr=1-1&keywords=hatching+twitter">Hatching Twitter</a>
+* <a href="https://www.amazon.co.uk/Play-Bigger-Innovators-Categories-Dominate/dp/0349411360/ref=sr_1_1?s=books&ie=UTF8&qid=1544452756&sr=1-1&keywords=play+bigger">Play Bigger: How Rebels and Innovators Create New Categories and Dominate</a>
+* <a href="https://www.amazon.co.uk/Zero-One-Notes-Start-Future/dp/0753555204/ref=sr_1_1?s=books&ie=UTF8&qid=1544452774&sr=1-1&keywords=zero+to+one">Zero to One: Notes on Startups, or How to Build the Future</a> (currently reading)
+
+<h4>Places I Travelled</h4>
+
+* <a href="https://girlwithacamera.co.uk/family-holiday-in-lanzarote/">Lanzarote</a>
+* <a href="https://girlwithacamera.co.uk/48-hours-in-amsterdam/">Amsterdam</a>
+* <a href="https://girlwithacamera.co.uk/california/">California</a>
+* Belgrade
+* <a href="https://girlwithacamera.co.uk/croatia-my-fave/">Dubrovnik</a>
+* Belfast
+* Leeds
+* Manchester
+* Newcastle
+* Bristol
+
+I thought it'd be interesting to conclude this post with some numbers about With Jack.
+
+With Jack ended 2017 with the following stats:
+
+* 25,366 Visitors
+* 435 Quotes
+* 176 Customers
+* 40% Conversion Rate
+* £56,000+ Gross Premium Written
+* 87% Renewal Rate
+
+This year it looks like this:
+
+* 31,761 Visitors
+* 883 Quotes
+* 397 Customers
+* 44% Conversion Rate
+* £159,000 Gross Premium Written
+* 81% Renewal Rate
+
+<h4>Meh</h4>
+
+Overall I've had a great year, but creatively I've lost my mojo with photography. I think I'm burnt out after weddings and I'm not sure what it's going to take to get me loving photography again. Maybe I won't?
+
+Another issue I failed to solve is isolation. Being a part of a community is important and this year I've felt like I don't have one. I live alone, I work alone. It's become a problem. My work trips temporarily appeased this feeling, but I need to come up with a permanent solution.
+
+(You may be wondering why I've decided to leave the co-working space if I'm feeling isolated. There are many reasons and I'll <a href="https://www.youtube.com/channel/UCJdtciVNCxmhQnn2cnWK6qg?view_as=subscriber">make a video</a> about my decision soon.)
+
+<h3>2019</h3>
+
+I don't set lofty resolutions, but there are some things I know I'd like to accomplish in 2019.
+
+1. Launch 3 new products for With Jack customers
+2. Reduce the excess on our existing products
+3. Build community features into With Jack
+4. Develop our dashboard (our rebrand saw the initial steps of account creation)
+
+2018 has helped me grow my confidence in this industry. I've proven I can build a business in the insurance space! So, I'll be going to London early '19 to make stuff happen.
+
+All of those goals are business-related. In my personal life I hope to build more meaningful relationships.
+
+So, there it is. I wrote this in the second week of December, so it's likely I'll get to 400 customers before the year end. I can't imagine a better way to see out 2018!

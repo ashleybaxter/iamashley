@@ -28,6 +28,8 @@ linkedin: 'ashleybaxter'
 navigation:
   - text: About
     url: /about.html
+  - text: Newsletter
+    url: /newsletter.html
 
 # Required Plugins
 plugins_dir:
