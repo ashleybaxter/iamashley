@@ -105,13 +105,29 @@ These aren't necessarily areas With Jack's exploring, but it shows how switching
 
 One tip that'll help you to see things from a customers' perspective—alongside talking to them—is spending time in relevant sub-reddits and communities.
 
-I noticed from the freelance sub-reddit there were a lot of problems we could solve, yet nobody had considered insurance as being a solution. Seeing the language they used and the problems they described helped me understand what role With Jack could play in their lives, _and_ how to communicate that effectively.
+I noticed from the freelance sub-reddit there were a lot of problems we could solve, yet nobody had considered insurance as being a solution.
+
+{% include image-caption.html imageurl="/assets/images/posts/reddit_problem.jpg" caption="A freelancer describes an issue with scope creep, which is something insurance can help with." %}
+
+In the example above, a freelancer wants to end a relationship with an existing client who is requesting more work. This happens a lot and can sometimes turn messy.
+
+We've already <a href="https://withjack.co.uk/insurance/2018/01/12/how-insurance-helped-this-designer-with-a-strained-client-relationship">helped a customer in a similar situation</a>. When they ended their involvement in a project, their client hit back with the following demands:
+
+* Reimbursement for the money they had already paid to the freelancer
+* Damages for loss of income as a result of the delayed launch of the website
+* Compensation for hiring other contractors to complete the project
+
+Insurance helped solve this problem by providing legal help (and covering the fees), as well as reimbursing the £4500 the client wanted back.
+
+Digging into this freelance sub-reddit post, I can see the language they use and the emotions they describe. They talk about how it's "driven me to a corner" and how they were "dreading their reaction because I know how dramatic and personal they get".
+
+This helps me understand what role With Jack plays in their lives, _and_ how to communicate that effectively. Insurance could have given them the confidence to say no to more work, knowing that if the confrontation did escalate they personally wouldn't suffer the financial consequences.
 
 <h4>Takeaways</h4>
 
 Your perspective can be clouded because of how close you are to your business. Rewire your brain by spending time on relevant sub-reddits or communities. You don't have to participate, but pay attention to the problems your audience is having (as well as the language they use when talking about them) and how you could help them.
 
-Work with a copywriter to help you hone your messaging. I found this a helpful exercise and it's no coincidence that our conversion rate increased by 5% since working with a copywriter. A good copywriter won’t just give you words—you’ll get clarity and a better understanding of your own product.
+Work with a copywriter to help you hone your messaging. I found this a helpful exercise and it's no coincidence that our conversion rate increased by 5%. A good copywriter won’t just give you words—you’ll get clarity and a better understanding of your own product.
 
 <h3>It's Not About The Customer Journey</h3>
 
