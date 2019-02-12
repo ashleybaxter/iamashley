@@ -6,6 +6,8 @@ tags: [business, with-jack, lessons, accelerator]
 featured_image: assets/images/posts/problem.jpg
 ---
 
+<iframe src='https://share.transistor.fm/e/99ec2e7d' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>
+
 In 2017 I applied to join <a href="https://www.ignite.io/">Ignite</a>, an accelerator. Amongst all of the great advice I received from the programme, I kept hearing the same feedback about <a href="https://withjack.co.uk">With Jack</a>; _"You aren't solving a big enough problem"_.
 
 At the time I didn't understand this feedback. It annoyed me. After all, I had:
