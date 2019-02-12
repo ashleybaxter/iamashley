@@ -21,7 +21,7 @@ _(As an aside, the industry has definitely improved. There's a lot of great stuf
 
 I didn't get accepted onto the accelerator. No hard feelings, the time I spent applying was valuable. But that feedback I received about not solving a big enough problem planted a seed in my mind. What if there was some truth to it?
 
-<h3>A Lightbulb Moment</h3>
+<h3>A Light Bulb Moment</h3>
 
 I’m not sure of the exact sequence of events that happened post-accelerator, but at some point I realised Ignite was right. With Jack _wasn't_ solving a big enough problem.
 
@@ -55,7 +55,7 @@ Here are some of the themes I picked up on from customer conversations:
 
 These conversations about the role With Jack plays in their business—and why they became customers—lead me to a realisation.
 
-What features we build and what tech we use to power those features doesn't matter as much as I thought it did. What matters is that freelancers lack traditional safeguards when it comes to work and 44% will be stung by a bad client at some point in their career. __With Jack exists to help keep freelancers in business.__ _That's_ the problem we're solving. We help you be a confident freelancer.
+What features we build and what tech we use to power those features doesn't matter as much as I thought it did. What really matters is that freelancers lack traditional safeguards when it comes to work and 44% will be stung by a bad client at some point in their career. __With Jack exists to help keep freelancers in business.__ _That's_ the problem we're solving. We help you be a confident freelancer.
 
 Removing barriers and enabling freelancers to easily buy insurance helps us reach that outcome quicker, but it's not the reason why people become customers.
 
@@ -101,7 +101,7 @@ Instead, building a platform that helps to keep freelancers in business uncovers
 * Financial planning tools
 * On-demand legal advice
 
-These aren't neccesarily areas With Jack's exploring, but it shows how switching my perspective from insurance expert to customer driven opens up more options.
+These aren't necessarily areas With Jack's exploring, but it shows how switching my perspective from insurance expert to customer driven opens up more options.
 
 One tip that'll help you to see things from a customers' perspective—alongside talking to them—is spending time in relevant sub-reddits and communities.
 
@@ -111,7 +111,7 @@ I noticed from the freelance sub-reddit there were a lot of problems we could so
 
 Your perspective can be clouded because of how close you are to your business. Rewire your brain by spending time on relevant sub-reddits or communities. You don't have to participate, but pay attention to the problems your audience is having (as well as the language they use when talking about them) and how you could help them.
 
-Work with a copywriter to help you hone your messaging. I found this a helpful exercise and it's no coincedence that our conversion rate increased by 5% since working with a copywriter. A good copywriter won’t just give you words—you’ll get clarity and a better understanding of your own product.
+Work with a copywriter to help you hone your messaging. I found this a helpful exercise and it's no coincidence that our conversion rate increased by 5% since working with a copywriter. A good copywriter won’t just give you words—you’ll get clarity and a better understanding of your own product.
 
 <h3>It's Not About The Customer Journey</h3>
 
