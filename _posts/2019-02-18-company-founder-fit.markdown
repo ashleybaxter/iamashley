@@ -6,6 +6,8 @@ tags: [business, with-jack, personal]
 featured_image: assets/images/posts/codebase.jpg
 ---
 
+<iframe src='https://share.transistor.fm/e/11d3fb6c' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>
+
 I first heard this term on <a href="https://justinjackson.ca/want">Justin Jackson's blog</a>. I'm not 100% sure if I've understood it correctly, but my interpretation is that company/founder fit is ensuring the business you build fits the kind of life you want to live.
 
 As Justin says, _"If you want to get to $1 million in sales, you're going to need to build a company. Does being a boss fit into your dream?"._
@@ -72,7 +74,7 @@ Here's a snapshot into mine. Remember, this is an ideal world scenario.
 
 Two of the key themes I picked up on when doing this exercise were freedom and flexibility. These are important to me.
 
-Traveling freely and having control over my routine doesn't involve getting on planes to secure the next round of funding before cashflow bleeds dry. That's my idea of hell.
+Traveling freely and having control over my routine doesn't involve getting on planes to secure the next round of funding before cash flow bleeds dry. That's my idea of hell.
 
 Building the business on my own terms—and having control over the direction I take it in—was one of my ideal outcomes. Because freelance premiums are small and the market isn't very large, investors may try to push me down another avenue.
 
