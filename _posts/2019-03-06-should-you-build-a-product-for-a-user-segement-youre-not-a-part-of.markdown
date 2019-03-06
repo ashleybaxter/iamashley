@@ -6,6 +6,8 @@ tags: [business, with-jack, lessons]
 featured_image: assets/images/posts/lodger_teaser.png
 ---
 
+<iframe src='https://share.transistor.fm/e/c814f6b7' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>
+
 <blockquote>"Would you build a product for a user segment that you're not a part of?"</blockquote>
 
 A podcast listener emailed me this question (someone listens to <a href="https://ashleybaxter.transistor.fm/">my podcast</a>!). I have experience on both sides. I've built a product for an audience I knew nothing about before moving into a user segment I'm more familiar with.
@@ -70,11 +72,11 @@ I'm familiar with the types of issue freelancers face. This is because I was one
 
 Let's take our new product, <a href="https://withjack.co.uk/news/2019/02/26/new-product-helping-you-get-paid-on-time">legal expenses</a>, as an example. Like most insurance policies, many of its features are buried under legal jargon and complex wording. Even the name itself is horribly corporate. _Legal expenses._
 
-The way legal expenses is marketed by most insurers is predominantly to help with employment disputes and tribunals. This is irelevent to freelancers because they don't have employees.
+The way legal expenses is marketed by most insurers is predominantly to help with employment disputes and tribunals. This is irrelevant to freelancers because they don't have employees.
 
 However, digging deeper into the product we can uncover certain features like the "debt recovery" clause. This is where a lawyer will chase overdue invoices for you. Suddenly we have a product that's incredibly valuable to freelancers. 
 
-Because I'm familiar with my market I was able to identify these feaures, _and_ know how to communicate them effectively. I wouldn't have been able to do that with landlords.
+Because I'm familiar with my market I was able to identify these features, _and_ know how to communicate them effectively. I wouldn't have been able to do that with landlords.
 
 With the property management SaaS I built I wanted to give landlords a way to manage their properties in the cloud. I'd later find out a lot of landlords are happy doing things old school, which means managing their portfolio with pen and paper. An advanced solution for them was a spreadsheet!
 
@@ -90,6 +92,6 @@ I have friends who are building VC-backed companies for markets they aren't a pa
 
 Instead, I recommend choosing a market you're a part of—or at least familiar with. This will make the journey slightly easier:
 
-1. You'll want to continue to work on your product and serve your audience when things get tough (and they really do get tough). If you've entered a market just because you think it'll be lucractive, it can be challenging maintaining the stamina to keep going when it's not making money.
+1. You'll want to continue to work on your product and serve your audience when things get tough (and they really do get tough). If you've entered a market just because you think it'll be lucrative, it can be challenging maintaining the stamina to keep going when it's not making money.
 2. You'll have access to the very people you're building for. Whether that's pre-launch validation or post-launch product iteration.
 3. You'll have a better understanding of your users, which feeds into creating a better product, marketing, messaging, features etc. I think building for a user segment you're a part of makes your job easier.
