@@ -6,6 +6,8 @@ tags: [business, lessons, with-jack]
 featured_image: assets/images/posts/insurtech.jpg
 ---
 
+<iframe src='https://share.transistor.fm/e/f0bf538f' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>
+
 Another UK insurtech has closed its doors. <a href="https://kinsu.co.uk/">Kinsu</a> provided simpler and fairer insurance for all your things. This was one of the insurtechs I liked the look of. Their design was slick, they eliminated jargon and promised not to increase your premium if you made a claim.
 
 Good people building a good business.
