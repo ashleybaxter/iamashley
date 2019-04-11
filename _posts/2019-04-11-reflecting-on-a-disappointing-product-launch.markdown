@@ -6,6 +6,8 @@ tags: [business, lessons, with-jack, launch]
 featured_image: assets/images/posts/new_product.png
 ---
 
+<iframe src='https://share.transistor.fm/e/6560a17a' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>
+
 In March we launched a new product called <a href="https://withjack.co.uk/news/2019/02/26/new-product-helping-you-get-paid-on-time">legal expenses</a> (terrible name, great product). I was excited about this product because it has a myriad of features that solve problems freelancers face regularly:
 
 * A lawyer chases overdue invoices for you
@@ -24,7 +26,7 @@ I've been involved in enough launches over the years to know that it's dangerous
 
 But this time was different. I had high expectations. Why? Well, I now had an existing audience to launch to (500+ customers). I'd been serving this audience for 2+ years and had spotted trends and patterns, so I knew this product could help them. Lastly, I have a good understanding of the problems my customers face and how to talk about this product in a way that resonates with them.
 
-Before any launch it's a good idea to determine what you want to get from it. That way you can devise a strategy to reach your goal and guage whether your launch has been successful. I expected this product would do well because of:
+Before any launch it's a good idea to determine what you want to get from it. That way you can devise a strategy to reach your goal and gauge whether your launch has been successful. I expected this product would do well because of:
 
 1. The positive reaction I got when talking about it in the build-up to launch
 2. Its low price point (it only costs £5.50 a month)
@@ -65,7 +67,7 @@ I don't know much about psychology, but a big problem I've faced with selling in
 
 I understand that mindset. I used to have it. Prior to my house getting broken into and £5000 of gadgets being stolen, I was relaxed about security. I never thought that kind of thing would happen to me! Now I never leave the house without setting the alarm, but it took a bad experience to put me into that risk-averse mindset.
 
-Here's an analogy I've used before with insurance. Saying you've never had a problem before and therefore don't need insurance is similar to saying you've never had a car accident so don't need to wear your seatbelt. I've never had a car accident, but I still take preventive measures when driving and buckle up _just in case_.
+Here's an analogy I've used before with insurance. Saying you've never had a problem before and therefore don't need insurance is similar to saying you've never had a car accident so don't need to wear your seat belt. I've never had a car accident, but I still take preventive measures when driving and buckle up _just in case_.
 
 Convincing people to change their mindset is challenging. I haven't figured that part out yet.
 
