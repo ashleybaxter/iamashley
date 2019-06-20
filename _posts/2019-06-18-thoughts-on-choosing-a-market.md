@@ -45,7 +45,7 @@ Freelancing is flexible. Whilst this means many accept full-time positions it wo
 
 Do I think churn would be lower if I was targeting, say, agencies? I think so. Agencies have projects with longer lifespans and employees, so they're not flitting between self-employment and full-time employment. 
 
-When choosing your market, ask yourself _is churn high?_ Flexible markets like freelancing and the gig economy pose the risk of people falling in and out of using your product.
+When choosing your market ask yourself, _is churn high?_ Flexible markets like freelancing and the gig economy pose the risk of people falling in and out of using your product.
 
 <h4>Are they price conscious?</h4>
 
@@ -60,17 +60,17 @@ If someone grumbles about price I'm the first to refer them to cheaper providers
 * I believe in the value of insurance and see first-hand how beneficial it is to freelancers. I want to do my bit to nudge the industry away from the price-driven buying behaviour that comparison sites have contributed to, and focus on the value it delivers instead
 * Price conscious customers are the biggest time sink. Regardless of industry—whether it's insurance or when I was a photographer—this rule of thumb usually applies
 
-There are few occasions I make an exception. If someone is just starting out and their turnover is low I’ll do my best to help on the price front. Generally, however, I’m firm on not lowering our prices. It's something I feel strongly about.
+There are few occasions I make an exception. If someone is just starting out and their turnover is low I’ll do my best to help on the price front. I’m generally very firm on not lowering our prices. It's something I feel strongly about.
 
 Standing your ground and losing out on a sale because you aren’t willing to shave £20 off the price can be _scary_. In the early days I wasn't as confident. But this stance has worked well for my business and as a result we’ve attracted high quality customers.
 
 For example;
 
 1. I believe our churn isn't as high as it could be because, come renewal, customers don't have that mindset to shop around for the lowest deal
-2. We attract established freelancers who are likelier to be in business longer. The average turnover of our customer base is £50,000 as opposed to the national average of £16,000
+2. We attract established freelancers who are likelier to be in business longer. The average turnover of our customer base is £50,000 as opposed to the average of £16,000
 3. Those who buy insurance based on price tend to be ticking a box to satisfy a client's contract. These 'tick a box' freelancers aren't ideal customers because there's little brand loyalty and their lifetime value is lower
 
-When choosing your market, ask yourself _are they price conscious?_ Are you going to have to fight for each sale or have you chosen a market with momentum? Traction is trickier when selling something with a low perceived value (insurance) to a market with a lower salary than the national average.
+When choosing your market ask yourself, _are they price conscious?_ Are you going to have to fight for each sale or have you chosen a market with momentum? Traction is trickier when selling something with a low perceived value (insurance) to a market with a lower salary than the national average.
 
 <h4>Do you need high volume?</h4>
 
@@ -88,7 +88,7 @@ I am one person bootstrapping from a flat in Glasgow, so I’m getting by with t
 
 On the <a href="http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html">'five ways to build a $100 million business'</a> scale, I’m hunting mice. If I was hunting elephants I’d need far fewer of them to build a $100 million business. Again, that’s not my goal. But it’s a good scale to give you perspective on the volume of customers you need.
 
-When choosing your market, ask yourself _do you need high volume?_ Understand what your goal is and how many customers you need to get there. If your market is enterprise customers you'll need fewer to reach $100 million. But it you're market is prosumers paying you $100 a year, you're going to need a lot of volume!
+When choosing your market ask yourself, _do you need high volume?_ Understand what your goal is and how many customers you need to get there. If your market is enterprise customers you'll need fewer to reach $100 million. But it your market is prosumers paying $100 a year, you're going to need a lot of volume!
 
 <h4>Is the market big?</h4>
 
