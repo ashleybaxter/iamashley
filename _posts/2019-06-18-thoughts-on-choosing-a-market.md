@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thoughts On Choosing A Market"
+title:  "Mistakes I Made When Choosing A Market"
 date:   2019-06-19
 tags: [business, lessons, with-jack]
 featured_image: assets/images/posts/confident_freelancer.jpg
