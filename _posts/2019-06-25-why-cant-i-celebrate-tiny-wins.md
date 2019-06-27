@@ -6,6 +6,8 @@ tags: [business, personal, with-jack]
 featured_image: assets/images/posts/250000.png
 ---
 
+<iframe src='https://share.transistor.fm/e/879220af' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>
+
 Last week <a href="https://withjack.co.uk">With Jack</a> hit a huge milestone. My book of customers is now worth over a __quarter of a million pounds__. This isn’t an arbitrary number. There’s a reason it’s an important milestone.
 
 Before launch—when all I had was an idea and a scrappy MVP with little traction—a string of insurers passed on working with me. Most of them said the same thing:
@@ -32,7 +34,7 @@ I went out for dinner, ordered two sparkling wines and waited for something to h
 
 My friends said I was in shock. Over a week has passed and I’ve had plenty of time to let this achievement sink in. Whilst I've certainly had a few, _"this is cool"_ moments I haven't really celebrated. Here’s _why_ I think I’m finding it difficult to celebrate these tiny wins.
 
-<h3>Tiny Wins Are Always Followed By Tiny Fires</h3>
+<h4>Tiny Wins Are Always Followed By Tiny Fires</h4>
 
 I’ve been doing this long enough to know that triumphs are always closely followed by roadblocks. Within hours or days of celebrating a milestone, I’m going to be putting out a fire in another area of the business.
 
