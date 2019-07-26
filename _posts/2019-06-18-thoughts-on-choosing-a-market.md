@@ -6,6 +6,8 @@ tags: [business, lessons, with-jack]
 featured_image: assets/images/posts/confident_freelancer.jpg
 ---
 
+<iframe src='https://share.transistor.fm/e/0015f6f3' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>
+
 Before starting my business I hadn’t given much thought to what goes into choosing a good market to sell to. I had a failed SaaS app under my belt, and I’d acknowledged one of the <a href="/should-you-build-a-product-for-a-user-segement-youre-not-a-part-of">reasons it had failed</a> was because of the market I’d chosen.
 
 I took this into consideration when starting <a href="https://withjack.co.uk">With Jack</a>, but I still failed to ask myself some important questions about the market I’d chosen—freelancers.

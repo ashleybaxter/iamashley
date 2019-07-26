@@ -16,9 +16,9 @@ Before launch—when all I had was an idea and a scrappy MVP with little tractio
 
 My brain asked the logical question, _“How do I get to that figure if I don’t have any insurance products to sell?”_. It was another obstacle that made breaking into an already challenging industry even more difficult. A chicken and egg situation. I can't reach that figure without having an insurer's products to sell, but they won't give me their products to sell until I've reached that figure.
 
-I also remember thinking, _“Why won’t one person give me the opportunity to show them there’s nothing I want more than reaching this milestone and I’ll do whatever it takes to get there? I’ll put in the work”_.
+I also remember thinking, _“Why won’t one person give me the opportunity to show them there’s nothing I want more than reaching this milestone? I’ll put in the work to get there”_.
 
-Maybe that sounds self-pitying, but it was a frustrating situation to be in. _You_ know you're capable, but nobody else is buying it.
+Maybe that sounds self-pitying, but it was a frustrating situation to be in. _You_ know you're capable, but nobody else is buying into you.
 
 At the time I was pre-revenue and had 0 customers, so reaching this goal seemed so far away. Almost impossible. But I put my head down, did the work, and with a small amount of progress each day I inched towards my goal of £250,000.
 
