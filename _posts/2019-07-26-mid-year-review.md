@@ -6,6 +6,8 @@ tags: [business, personal, with-jack]
 featured_image: assets/images/posts/mid_year_review.jpg
 ---
 
+<iframe src='https://share.transistor.fm/e/26e4450a' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>
+
 According to the <a href="https://twitter.com/yearprogress">year progress account</a> on Twitter, we're 55% of the way through 2019. Coupled with the start of summer being quieter for my business, now seems a good time to revisit some of the goals I set myself and do a mid-year review.
 
 I didn't spend much time refining my goals for 2019, but I was clear on what I hoped to achieve within the business:
@@ -87,9 +89,9 @@ You may be able to offer faster customer support or better tech, but a lot of th
 
 The reality of bootstrapping is that you move a bit slower than, say, a VC-backed startup with millions in the bank that can be thrown at more staff and a higher output of features, products etc. Couple that with building in an industry that doesn't (or can't) move quickly and the outcome can be frustrating.
 
-I don't exactly help myself. There are some things that would emable me to move quicker:
+I don't exactly help myself. There are some things that would enable me to move quicker:
 
-* Having a full-time developer. I work with freelancers, but having someone in-house on a permanant basis would help push new features and updates out the door on a more consistent basis
+* Having a full-time developer. I work with freelancers, but having someone in-house on a permanent basis would help push new features and updates out the door on a more consistent basis
 * Better project management skills. I'm inexperienced with how to manage projects, oversee a team of people, set milestones and ensure we meet them in a timely manner and are aligned in our vision. SuperHi have just announced a <a href="https://www.superhi.com/digital-project-management">digital project management course</a>, so I'll likely take that
 * Building in a different industry altogether. Having the freedom to move quicker, not depend on incumbents or have to navigate regulatory constraints would be wonderful. But it's insurance that I'm passionate about and I believe I have unfinished business here so I have to live with these pitfalls
 
