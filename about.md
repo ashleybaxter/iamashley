@@ -10,7 +10,7 @@ Ashley Baxter is currently building <a href="https://withjack.co.uk">With Jack</
 
 Most people who save £10,000 wouldn’t use it to start an insurance business, yet that’s what I did.
 
-People wonder why I didn’t instead pursue a career as a photographer because <a href="https://instagram.com/ashleybaxter">I enjoy taking pictures</a>. On the surface it’s more creative and interesting than insurance.
+People wonder why I didn’t pursue a career as a photographer because <a href="https://instagram.com/ashleybaxter">I enjoy taking pictures</a>. On the surface it’s more creative and interesting than insurance.
 
 The most common question I get asked is, _“Why insurance, Ashley?”_.
 
@@ -29,13 +29,13 @@ There were a few problems:
 
 The business suffered as a result.
 
-But the biggest problem that I could never overcome was that buy-to-let didn’t interest me. And business 101 is that you should serve an audience you like. Insurance didn’t excite me either, but the _challenges_ of the industry did in terms of its prehistoric tech and lack of transparency with consumers.
+But the biggest problem that I could never overcome was that buy-to-let didn’t interest me. Business 101 is that you should serve an audience you like. Insurance didn’t excite me either, but the _challenges_ of the industry did in terms of its prehistoric tech and lack of transparency with consumers.
 
 That’s why I started <a href="https://withjack.co.uk">With Jack</a>. To address the challenges that I believe exist within insurance, but serve an audience that excites me. Freelancers in the creative field, like designers and developers.
 
 Starting With Jack wasn’t as straightforward as I thought it would be. Because I didn’t have a book of customers, any contacts in the industry or qualifications, getting started took a long time.
 
-Years of traveling around the UK, pitching my vision of what I wanted With Jack to be. Years of exploring leads that never panned out. Years of hearing, _“No thanks”_ from disinterested insurers.
+Years of traveling around the UK, pitching my vision of what I wanted With Jack to be. Years of exploring leads that never panned out. Years of hearing, _“No, thanks”_ from disinterested insurers.
 
 I almost quit. I’m glad I didn’t.
 
@@ -43,4 +43,4 @@ In August of 2016—after over 2 years of pitching my business—I finally launc
 
 That doesn’t mean the hard part is over. That’s what this blog is about. For documenting my journey bootstrapping a startup in the insurance space as a solo founder.
 
-Spoiler: It’s tough, but I am ready for this!
+Whilst my motivation for starting With Jack was initially born out of frustration around prehistoric tech and a lack of transparency in insurance, something became clear several years into building With Jakc. My mission was changing. Building nice tech is fun and all, but what I really want is to help keep freelancers in business.
