@@ -6,6 +6,8 @@ tags: [business, personal]
 featured_image: assets/images/posts/2020.jpg
 ---
 
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/480cecb8"></iframe>
+
 It's been 12 months since my last blog post, <a href="/2019-year-in-review">my 2019 year in review</a>. I don't want this to be a traditional year in review, but I do want to document what it was like bootstrapping my business through a pandemic. 2020 turned out to be the most testing and lonely experience I’ve faced as a solo founder.
 
 <h3>Expectation vs reality</h3>
@@ -134,7 +136,7 @@ I mentioned earlier about customers cancelling their direct debits but not their
 <h3>Small wins that kept me sane</h3>
 
 * Weightlifting. This is number one on the list of daily activities that keep me going. It's one hour of the day I'm not at my computer or thinking about work. I've always loved training, but 2020 highlighted just how important it is to my mental health.
-* Football. It helps my team is having a good season! It's been almost a year since I attended a game and I miss it so very much. Having one or two matches a week to watch gives me something to look forward to. This article on The Athletic sums it up.
+* Football. It helps my team is having a good season! It's been almost a year since I attended a game and I miss it so very much. Having one or two matches a week to watch gives me something to look forward to.
 * Cycling. About 5 years ago I won a bike in a competiton and it spent years gathering dust. It's pink. I'm not really a pink kind of girl. One upside of the essential travel rule was quiet roads and that allowed me to build my confidence cycling.
 * <a href="https://www.instagram.com/ashleybaxter/">Film photography</a>. Another hobby I've been wanting to do for years. 2020 was the year I learned to shoot film. Badly. But you've got to start somewhere.
 
