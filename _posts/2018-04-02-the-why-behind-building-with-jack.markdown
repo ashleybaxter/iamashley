@@ -2,7 +2,7 @@
 layout: post
 title:  "The 'Why' Behind Building With Jack"
 date:   2018-04-02
-featured_image: assets/images/posts/toads_caravan.jpg
+featured_image: /assets/images/posts/toads_caravan.jpg
 tags: [business, with-jack]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "What Does Validation Look Like?"
 date:   2017-03-14
-featured_image: assets/images/posts/validation.png
+featured_image: /assets/images/posts/validation.png
 tags: [business, with-jack]
 ---
 

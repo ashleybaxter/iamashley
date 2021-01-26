@@ -2,7 +2,7 @@
 layout: post
 title:  "Lessons Learned From Inheriting The Family Business"
 date:   2017-01-20
-featured_image: assets/images/posts/brokersdirect.jpg
+featured_image: /assets/images/posts/brokersdirect.jpg
 tags: [business, with-jack, lessons]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Speaking At Web Dev Conf"
 date:   2017-10-10
-featured_image: assets/images/posts/ashley_speaking.jpeg
+featured_image: /assets/images/posts/ashley_speaking.jpeg
 tags: [business, with-jack, speaking]
 ---
 

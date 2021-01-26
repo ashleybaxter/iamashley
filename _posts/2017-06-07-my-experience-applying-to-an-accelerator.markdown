@@ -2,7 +2,7 @@
 layout: post
 title:  "My Experience Applying To An Accelerator"
 date:   2017-06-07
-featured_image: assets/images/posts/ignite_01.jpg
+featured_image: /assets/images/posts/ignite_01.jpg
 tags: [business, with-jack, accelerator]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "This Is Not A Year In Review"
 date:   2021-01-26
 tags: [business, personal]
-featured_image: assets/images/posts/2020.jpg
+featured_image: /assets/images/posts/2020.jpg
 ---
 
 <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/480cecb8"></iframe>

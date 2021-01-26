@@ -2,7 +2,7 @@
 layout: post
 title:  "My First 100 Customers"
 date:   2017-05-25
-featured_image: assets/images/posts/100.jpg
+featured_image: /assets/images/posts/100.jpg
 tags: [business, with-jack, stats]
 ---
 

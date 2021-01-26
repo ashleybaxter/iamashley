@@ -2,7 +2,7 @@
 layout: post
 title:  "A Few Updates…"
 date:   2017-05-12
-featured_image: assets/images/posts/risk_form.jpg
+featured_image: /assets/images/posts/risk_form.jpg
 tags: [business, with-jack, accelerator]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Why I Quit Wedding Photography"
 date:   2018-08-23
-featured_image: assets/images/posts/wedding.jpg
+featured_image: /assets/images/posts/wedding.jpg
 tags: [business, personal, with-jack, photography]
 ---
 

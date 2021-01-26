@@ -2,7 +2,7 @@
 layout: post
 title:  "2017: Year In Review"
 date:   2017-12-29
-featured_image: assets/images/posts/year_review_17.jpg
+featured_image: /assets/images/posts/year_review_17.jpg
 tags: [business, with-jack, stats, personal]
 ---
 

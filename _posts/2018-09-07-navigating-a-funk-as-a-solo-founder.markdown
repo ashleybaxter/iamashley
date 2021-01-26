@@ -2,7 +2,7 @@
 layout: post
 title:  "Navigating A Funk As A Solo Founder"
 date:   2018-09-07
-featured_image: assets/images/posts/epicurrence_03.jpg
+featured_image: /assets/images/posts/epicurrence_03.jpg
 tags: [business, with-jack, personal]
 ---
 

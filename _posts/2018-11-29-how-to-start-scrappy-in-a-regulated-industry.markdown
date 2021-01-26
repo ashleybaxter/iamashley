@@ -3,7 +3,7 @@ layout: post
 title:  "How To Start Scrappy In A Regulated Industry"
 date:   2018-12-04
 tags: [business, with-jack]
-featured_image: assets/images/posts/aimhigh.png
+featured_image: /assets/images/posts/aimhigh.png
 ---
 
 <iframe src='https://share.transistor.fm/e/5e839e28' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>

@@ -2,7 +2,7 @@
 layout: post
 title:  "A Week In The Life Of…"
 date:   2017-11-13
-featured_image: assets/images/posts/rookieoven_01.jpg
+featured_image: /assets/images/posts/rookieoven_01.jpg
 tags: [business, with-jack, personal]
 ---
 

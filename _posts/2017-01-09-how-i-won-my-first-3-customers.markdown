@@ -2,7 +2,7 @@
 layout: post
 title:  "How I Won My First 3 Customers"
 date:   2017-01-09
-featured_image: assets/images/posts/50_customers.jpg
+featured_image: /assets/images/posts/50_customers.jpg
 tags: [business, sales, with-jack, launch]
 ---
 

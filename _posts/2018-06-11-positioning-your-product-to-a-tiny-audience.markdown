@@ -2,7 +2,7 @@
 layout: post
 title:  "Positioning Your Product To A Tiny Audience"
 date:   2018-06-11
-featured_image: assets/images/posts/positioning.png
+featured_image: /assets/images/posts/positioning.png
 tags: [business, with-jack]
 ---
 

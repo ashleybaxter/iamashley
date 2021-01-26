@@ -2,7 +2,7 @@
 layout: post
 title:  "My Journey To 250 Customers"
 date:   2018-05-01
-featured_image: assets/images/posts/ashley_bootstrapping.jpg
+featured_image: /assets/images/posts/ashley_bootstrapping.jpg
 tags: [business, launch, with-jack, stats]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "How Has The Rebrand Performed 4 Months On?"
 date:   2019-02-25
 tags: [business, with-jack, stats, launch]
-featured_image: assets/images/posts/new_site.jpg
+featured_image: /assets/images/posts/new_site.jpg
 ---
 
 <iframe src='https://share.transistor.fm/e/23a25ad0' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>

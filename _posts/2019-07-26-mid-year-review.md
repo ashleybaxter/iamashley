@@ -3,7 +3,7 @@ layout: post
 title:  "Mid-Year Review"
 date:   2019-07-26
 tags: [business, personal, with-jack]
-featured_image: assets/images/posts/mid_year_review.jpg
+featured_image: /assets/images/posts/mid_year_review.jpg
 ---
 
 <iframe src='https://share.transistor.fm/e/26e4450a' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>

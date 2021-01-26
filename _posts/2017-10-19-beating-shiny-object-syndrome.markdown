@@ -2,7 +2,7 @@
 layout: post
 title:  "Beating Shiny Object Syndrome"
 date:   2017-10-19
-featured_image: assets/images/posts/projects.jpg
+featured_image: /assets/images/posts/projects.jpg
 tags: [business, with-jack, launch]
 ---
 

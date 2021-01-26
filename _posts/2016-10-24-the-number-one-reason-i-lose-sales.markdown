@@ -2,7 +2,7 @@
 layout: post
 title:  "The Number One Reason I Lose Sales"
 date:   2016-10-26
-featured_image: assets/images/posts/lost_deals.jpg
+featured_image: /assets/images/posts/lost_deals.jpg
 tags: [business, with-jack]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "The Challenges Of Building An Insurance Business"
 date:   2019-03-21
 tags: [business, lessons, with-jack]
-featured_image: assets/images/posts/insurtech.jpg
+featured_image: /assets/images/posts/insurtech.jpg
 ---
 
 <iframe src='https://share.transistor.fm/e/f0bf538f' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>

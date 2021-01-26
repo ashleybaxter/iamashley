@@ -3,7 +3,7 @@ layout: post
 title:  "Post-Launch Problems Revisted"
 date:   2018-11-27
 tags: [business, with-jack, launch, lessons]
-featured_image: assets/images/posts/with_jack.png
+featured_image: /assets/images/posts/with_jack.png
 ---
 
 <iframe src='https://share.transistor.fm/e/27f03caa' width='100%' height='180' frameborder='0' scrolling='no' seamless='true'></iframe>

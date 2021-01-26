@@ -2,7 +2,7 @@
 layout: post
 title:  "What I Learned About Product, Growth And Strategy At Turing Fest"
 date:   2018-08-06
-featured_image: assets/images/posts/turing_4.jpg
+featured_image: /assets/images/posts/turing_4.jpg
 tags: [business, lessons]
 ---
 

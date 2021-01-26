@@ -2,7 +2,7 @@
 layout: post
 title:  "Start With People"
 date:   2016-10-13
-featured_image: assets/images/posts/people.jpg
+featured_image: /assets/images/posts/people.jpg
 tags: [business, with-jack, lessons]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Should You Build A Product For A User Segment You're Not A Part Of?"
 date:   2019-03-06
 tags: [business, with-jack, lessons]
-featured_image: assets/images/posts/lodger_teaser.png
+featured_image: /assets/images/posts/lodger_teaser.png
 ---
 
 <iframe src='https://share.transistor.fm/e/c814f6b7' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>

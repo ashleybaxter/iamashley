@@ -3,7 +3,7 @@ layout: post
 title:  "Why Can't I Celebrate Tiny Wins?"
 date:   2019-06-27
 tags: [business, personal, with-jack]
-featured_image: assets/images/posts/250000.png
+featured_image: /assets/images/posts/250000.png
 ---
 
 <iframe src='https://share.transistor.fm/e/879220af' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Minimum Viable Process"
 date:   2018-01-23
-featured_image: assets/images/posts/volcano_two.jpg
+featured_image: /assets/images/posts/volcano_two.jpg
 tags: [business, with-jack, launch]
 ---
 

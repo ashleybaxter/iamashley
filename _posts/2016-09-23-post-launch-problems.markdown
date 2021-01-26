@@ -2,7 +2,7 @@
 layout: post
 title:  "Post-Launch Problems"
 date:   2016-09-23
-featured_image: assets/images/posts/launch_week_traffic.jpg
+featured_image: /assets/images/posts/launch_week_traffic.jpg
 tags: [business, with-jack, launch, lessons]
 ---
 

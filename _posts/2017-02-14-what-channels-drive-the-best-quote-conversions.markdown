@@ -2,7 +2,7 @@
 layout: post
 title:  "What Channels Drive The Best Quote Conversions?"
 date:   2017-02-14
-featured_image: assets/images/posts/bulletproof_business.jpg
+featured_image: /assets/images/posts/bulletproof_business.jpg
 tags: [business, with-jack, sales]
 ---
 

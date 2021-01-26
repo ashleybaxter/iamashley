@@ -3,7 +3,7 @@ layout: post
 title:  "Mistakes I Made When Choosing A Market"
 date:   2019-06-19
 tags: [business, lessons, with-jack]
-featured_image: assets/images/posts/confident_freelancer.jpg
+featured_image: /assets/images/posts/confident_freelancer.jpg
 ---
 
 <iframe src='https://share.transistor.fm/e/0015f6f3' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>

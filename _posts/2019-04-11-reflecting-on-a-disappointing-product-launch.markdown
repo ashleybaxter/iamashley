@@ -3,7 +3,7 @@ layout: post
 title:  "Reflecting On A Disappointing Product Launch"
 date:   2019-04-11
 tags: [business, lessons, with-jack, launch]
-featured_image: assets/images/posts/new_product.png
+featured_image: /assets/images/posts/new_product.png
 ---
 
 <iframe src='https://share.transistor.fm/e/6560a17a' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>

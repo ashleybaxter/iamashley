@@ -2,7 +2,7 @@
 layout: post
 title:  "A Look Back On With Jack's First Year"
 date:   2017-08-30
-featured_image: assets/images/posts/hybrid_launch.jpg
+featured_image: /assets/images/posts/hybrid_launch.jpg
 tags: [business, launch, with-jack, stats]
 ---
 

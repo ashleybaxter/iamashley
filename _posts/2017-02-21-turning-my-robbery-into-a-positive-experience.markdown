@@ -2,7 +2,7 @@
 layout: post
 title:  "Turning My Robbery Into A Positive Experience"
 date:   2017-02-21
-featured_image: assets/images/posts/robbery.jpg
+featured_image: /assets/images/posts/robbery.jpg
 tags: [business, personal]
 ---
 

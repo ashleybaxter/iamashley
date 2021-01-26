@@ -2,7 +2,7 @@
 layout: post
 title:  "Introducing My Startup Diary"
 date:   2017-08-06
-featured_image: assets/images/posts/vlog.png
+featured_image: /assets/images/posts/vlog.png
 tags: [business]
 hidden: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Why I'm Bootstrapping"
 date:   2017-11-22
-featured_image: assets/images/posts/wireframing.jpg
+featured_image: /assets/images/posts/wireframing.jpg
 tags: [business, with-jack, accelerator]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "The Process And Reasons Behind With Jack's Rebrand"
 date:   2018-11-08
 tags: [business, with-jack, launch]
-featured_image: assets/images/posts/new_jack.png
+featured_image: /assets/images/posts/new_jack.png
 featured: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Company/Founder Fit"
 date:   2019-02-18
 tags: [business, with-jack, personal]
-featured_image: assets/images/posts/codebase.jpg
+featured_image: /assets/images/posts/codebase.jpg
 ---
 
 <iframe src='https://share.transistor.fm/e/11d3fb6c' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>

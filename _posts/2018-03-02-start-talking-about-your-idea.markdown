@@ -2,7 +2,7 @@
 layout: post
 title:  "Start Talking About Your Idea"
 date:   2018-03-02
-featured_image: assets/images/posts/lodger_teaser.png
+featured_image: /assets/images/posts/lodger_teaser.png
 tags: [business, lessons, launch]
 ---
 

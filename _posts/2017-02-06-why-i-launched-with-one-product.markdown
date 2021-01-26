@@ -2,7 +2,7 @@
 layout: post
 title:  "Why I Launched With One Product"
 date:   2017-02-06
-featured_image: assets/images/posts/one_product.jpg
+featured_image: /assets/images/posts/one_product.jpg
 tags: [business, with-jack, launch]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Tools I Use"
 date:   2016-09-13
-featured_image: assets/images/posts/tools_i_use.jpg
+featured_image: /assets/images/posts/tools_i_use.jpg
 tags: [business, with-jack, tools]
 ---
 

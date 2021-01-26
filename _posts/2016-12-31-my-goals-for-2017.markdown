@@ -2,7 +2,7 @@
 layout: post
 title:  "My Goals For 2017"
 date:   2016-12-31
-featured_image: assets/images/posts/new_year.jpg
+featured_image: /assets/images/posts/new_year.jpg
 tags: [personal, business]
 ---
 

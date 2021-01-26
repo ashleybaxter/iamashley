@@ -3,7 +3,7 @@ layout: post
 title:  "In The Trench Tips For Figuring Out What Problem You Solve"
 date:   2019-02-12
 tags: [business, with-jack, lessons, accelerator]
-featured_image: assets/images/posts/problem.jpg
+featured_image: /assets/images/posts/problem.jpg
 ---
 
 <iframe src='https://share.transistor.fm/e/99ec2e7d' width='100%' height='180' frameborder='0' scrolling='no' seamless='true' style='width:100%; height:180px;'></iframe>

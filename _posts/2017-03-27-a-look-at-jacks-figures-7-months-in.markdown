@@ -2,7 +2,7 @@
 layout: post
 title:  "A Look At Jack's Figures 7 Months In"
 date:   2017-03-27
-featured_image: assets/images/posts/7_months.jpg
+featured_image: /assets/images/posts/7_months.jpg
 tags: [business, with-jack, launch, stats]
 ---
 3 months ago I wrote <a href="/2016/12/16/jacks-year-in-review/">With Jack's year in review</a> post. This was after only 4 months in business—1 of which was a soft launch. After putting my 81st customer on cover this week, I looked at some of the same figures that lead to that post.

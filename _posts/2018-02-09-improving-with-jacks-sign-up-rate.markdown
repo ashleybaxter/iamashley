@@ -2,7 +2,7 @@
 layout: post
 title:  "Improving With Jack's Sign-Up Rate By 14%"
 date:   2018-02-09
-featured_image: assets/images/posts/risk_form.jpg
+featured_image: /assets/images/posts/risk_form.jpg
 tags: [business, with-jack, stats, sales]
 ---
 
