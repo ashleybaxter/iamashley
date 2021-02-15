@@ -3,7 +3,7 @@ layout: post
 title:  "Product-Market Fit Struggles"
 date:   2021-02-15
 tags: [business]
-featured_image: /assets/images/posts/with_jack_office.jpg
+featured_image: /assets/images/posts/With_jack_office.jpg
 ---
 
 I’m not convinced my business has product market fit. I'm 4 years deep so I should probably have it, or feel like I’m inching closer to achieving it. According to some people I _do_ have PMF, but the definition of what it is changes depending on who you ask.
@@ -114,7 +114,7 @@ To reiterate what I said at the start, insurance is a purchase that most people 
 
 Seeing first-hand the problems freelancers face and how we assist them (and insurance can sometimes be the difference between staying in business or not) I believe in what we're selling. However, there's a history of negative connotations surrounding insurance to battle with amongst other obstacles I've already mentioned.
 
-Helping freelancers get paid, making legal help accessible… this is just just some of the value the policy delivers. But the theory is that people don't think what you offer is valuable if you throw it in for free. Maybe the issue is with bundling these features into an insurance policy, the name of the policies or how we position it. Maybe it's all of those things.
+Helping freelancers get paid, making legal help accessible… this is just some of the value the policy delivers. But the theory is that people don't think what you offer is valuable if you throw it in for free. Maybe the issue is with bundling these features into an insurance policy, the name of the policies or how we position it. Maybe it's all of those things.
 
 I've said it before and I'll say it again, there's a missing piece of the puzzle and my job is to figure out what that is.
 
