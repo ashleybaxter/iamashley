@@ -32,7 +32,7 @@ Before any launch it's a good idea to determine what you want to get from it. Th
 2. Its low price point (it only costs £5.50 a month)
 3. The immediate value it delivers unlike other products that are triggered if there's a threat of being sued
 
-It's embarrassing to admit this because of how wrong I was, but I expected 50%+ of my existing customers to add this to their policy via a mid-term adjustment or upon their renewal. This would give me a huge spike in cashflow (I estimated £5000). For new sign-ups I expected a similar rate of adoption.
+It's embarrassing to admit this because of how wrong I was, but I expected 50%+ of my existing customers to add this to their policy. This would give me a spike in cashflow. For new sign-ups I expected a similar rate of adoption.
 
 That wasn't so.
 
@@ -46,8 +46,8 @@ There was no instant cashflow boost, it didn't inch us towards product / market 
 
 A number of factors can contribute to an underwhelming launch. My first assumption is that I did a terrible job marketing it. Here are the tactics I used to spread the word.
 
-* Tweets from both my personal and business account in the run-up to launch, <a href="https://twitter.com/_withjack/status/1096401784485146624">which had good engagement</a>… for an insurance tweet
-* Two blog posts; one with an overview of features and the other with real stories from the insurer
+* Tweets from both my personal and business account in the run-up to launch <a href="https://twitter.com/_withjack/status/1096401784485146624">which had good engagement</a>… for an insurance tweet
+* Two blog posts; one with an overview of features and the other with real stories of how it has helped freelancers
 * Corresponding social media posts via Instagram, Facebook and Twitter to promote the blog posts
 * Daily tweets highlighting each feature of the policy
 * Email sent to mailing list with 200 customers opted in
@@ -87,7 +87,7 @@ If you face your own technical glitches, be upfront about it. Be human about it.
 
 <h4>I'm Not Giving Up</h4>
 
-After launch I came across a blog post by Josh Pigford titled, <a href="https://www.producthunt.com/stories/a-post-mortem-on-shutting-down-a-product-we-just-launched">A post-mortem on shutting down a product we just launched"</a>. Josh talks about validating their product by scheduling video chats with their target customer. He said:
+After launch I came across a blog post by Josh Pigford titled, <a href="https://www.producthunt.com/stories/a-post-mortem-on-shutting-down-a-product-we-just-launched">"A post-mortem on shutting down a product we just launched"</a>. Josh talks about validating their product by scheduling video chats with their target customer. He said:
 
 <blockquote>The response was universally positive. “This solves a huge problem for me!”, “I’d definitely pay for this.”, “Please tell me this will be available soon!”</blockquote>
 
