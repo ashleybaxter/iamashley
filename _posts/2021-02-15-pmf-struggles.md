@@ -6,6 +6,8 @@ tags: [business]
 featured_image: /assets/images/posts/With_jack_office.jpg
 ---
 
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/3c5442f7"></iframe>
+
 I’m not convinced my business has product market fit. I'm 4 years deep so I should probably have it, or feel like I’m inching closer to achieving it. According to some people I _do_ have PMF, but the definition of what it is changes depending on who you ask.
 
 <h4>Why don’t I think I have PMF?</h4>
